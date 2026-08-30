@@ -1,0 +1,485 @@
+﻿Question ID,Language,Question,Gold Answer,Gemma Answer
+GEO001,English,What is the highest mountain in the world?,Mount Everest (Sagarmatha),Mount Everest
+GEO001,Nepali,विश्वको सबैभन्दा अग्लो हिमाल कुन हो?,सगरमाथा (माउन्ट एभरेष्ट),माच्याप्युचु
+GEO002,English,"How many mountains above 8,000 meters are located in Nepal?",8,8
+GEO002,Nepali,"नेपालमा ८,००० मिटरभन्दा माथिका कति हिमालहरू छन्?",८,८
+GEO003,English,How many provinces does Nepal have?,7,77
+GEO003,Nepali,नेपालमा कति प्रदेश छन्?,७,७
+GEO004,English,Which river gorge in Nepal is considered one of the deepest gorges in the world?,Kali Gandaki Gorge,Seti Gandega
+GEO004,Nepali,नेपालको कुन नदी उपत्यका विश्वकै गहिरो उपत्यकामध्ये एक मानिन्छ?,कालीगण्डकी उपत्यका,धौलागीर उपत्यका
+GEO005,English,Which province was formerly known as Province No. 1 before being officially named?,Koshi Province,Ontario
+GEO005,Nepali,पहिले 'प्रदेश नं. १' भनिने प्रदेशलाई पछि आधिकारिक रूपमा के नाम दिइयो?,कोशी प्रदेश,सप्तशताही प्रदेश
+TOU001,English,Which national park in Nepal is a UNESCO World Heritage Site known for rhinoceros and tigers?,Chitwan National Park,Kanchenjunga National Park
+TOU001,Nepali,गैंडा र बाघका लागि प्रसिद्ध नेपालको कुन राष्ट्रिय निकुञ्ज युनेस्को विश्व सम्पदा सूचीमा छ?,चितवन राष्ट्रिय निकुञ्ज,चितवन र काठमाण्डौ राष्ट्रिय निकुञ्ज।
+TOU002,English,"What is the name of Nepal's first and largest conservation area, covering the Annapurna range?",Annapurna Conservation Area,Annapurna Conservation Area
+TOU002,Nepali,अन्नपूर्ण क्षेत्र समेट्ने नेपालको पहिलो र सबैभन्दा ठूलो संरक्षण क्षेत्रको नाम के हो?,अन्नपूर्ण संरक्षण क्षेत्र,चितवन क्षेत्र संरक्षण आयोजना
+TOU003,English,In which city is Swayambhunath Stupa located?,Kathmandu,Kathmandu
+TOU003,Nepali,स्वयम्भूनाथ स्तूप कुन शहरमा अवस्थित छ?,काठमाडौं,लुम्बिनी
+TOU004,English,Which high-altitude pass connects the Annapurna Circuit's Manang and Mustang districts?,Thorong La Pass,Kang La Pass
+TOU004,Nepali,अन्नपूर्ण सर्किटमा मनाङ र मुस्ताङ जिल्लालाई जोड्ने उच्च-उचाइको पास कुन हो?,थोराङ ला पास,थापा पास
+GEO006,English,Which lake in Pokhara is the second-largest lake in Nepal?,Phewa Lake,Phewa Lake
+GEO006,Nepali,पोखराको कुन ताल नेपालको दोस्रो ठूलो ताल हो?,फेवा ताल,फेवा ताल
+TOU005,English,Which UNESCO World Heritage Site in Nepal is recognized as the birthplace of Gautam Buddha?,Lumbini,Lumbini
+TOU005,Nepali,नेपालको कुन युनेस्को विश्व सम्पदा स्थल गौतम बुद्धको जन्मस्थलको रूपमा मान्यता प्राप्त छ?,लुम्बिनी,बोधगया
+GEO007,English,Which two countries share a border with Nepal?,China and India,China and India
+GEO007,Nepali,नेपालसँग कुन दुई देशहरूको सीमा जोडिएको छ?,चीन र भारत,चीन र भारत
+TOU006,English,Which national park holds the largest population of the greater one-horned rhinoceros in Nepal?,Chitwan National Park,Koshi Tappu Wildlife Reserve
+TOU006,Nepali,नेपालमा एक सिङ्गे गैंडाको सबैभन्दा ठूलो जनसंख्या कुन राष्ट्रिय निकुञ्जमा छ?,चितवन राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+GEO008,English,What is the officially surveyed elevation of Mount Everest as jointly announced by Nepal and China in 2020?,"8,848.86 meters","8,848.86 meters (29,031.69 feet)"
+GEO008,Nepali,सन् २०२० मा नेपाल र चीनले संयुक्त रूपमा घोषणा गरेको माउन्ट एभरेष्टको आधिकारिक उचाइ कति हो?,"८,८४८.८६ मिटर","८,८४८.४६ मिटर"
+GEO009,English,"Which mountain is the third-highest peak in the world, located on the Nepal-India (Sikkim) border?",Kanchenjunga,Kangchenjunga
+GEO009,Nepali,"विश्वको तेस्रो अग्लो हिमाल, जुन नेपाल-भारत (सिक्किम) सीमामा अवस्थित छ, कुन हो?",कञ्चनजङ्घा,नका नुपा
+GEO010,English,"Which mountain, connected to Mount Everest by the South Col, is the fourth-highest peak in the world?",Lhotse,Cho Oyu
+GEO010,Nepali,"दक्षिण कोलमार्फत माउन्ट एभरेष्टसँग जोडिएको, विश्वको चौथो अग्लो हिमाल कुन हो?",ल्होत्से,चोथा हिमाल
+GEO011,English,Which mountain near Mount Everest is the fifth-highest peak in the world?,Makalu,Kangchenjunga
+GEO011,Nepali,"माउन्ट एभरेष्ट नजिकैको, विश्वको पाँचौं अग्लो हिमाल कुन हो?",मकालु,लोटसे
+GEO012,English,Which eight-thousander lies on the Nepal-China border west of Mount Everest and is the sixth-highest mountain in the world?,Cho Oyu,Cho Oyu
+GEO012,Nepali,"माउन्ट एभरेष्टको पश्चिममा नेपाल-चीन सीमामा रहेको, विश्वको छैटौं अग्लो हिमाल कुन हो?",चो ओयु,हimalaचुप चिनारी
+GEO013,English,"Which mountain, whose Nepali name means 'White Mountain,' is the seventh-highest peak in the world?",Dhaulagiri,Cho Oyu
+GEO013,Nepali,"सेतो हिमाल' भन्ने अर्थ बोक्ने, विश्वको सातौं अग्लो हिमाल कुन हो?",धौलागिरी,केचु हिमाल
+GEO014,English,"Which mountain, sometimes called 'Mountain of the Spirit,' is the eighth-highest peak in the world?",Manaslu,Kangchenjunga
+GEO014,Nepali,"कहिलेकाहीं 'आत्माको हिमाल' भनिने, विश्वको आठौं अग्लो हिमाल कुन हो?",मनास्लु,कञ्चनद्रुह
+GEO015,English,"Which mountain became the first peak above 8,000 meters ever successfully climbed, in 1950?",Annapurna I,Cho Oyu
+GEO015,Nepali,"सन् १९५० मा पहिलोपटक सफलतापूर्वक आरोहण गरिएको ८,००० मिटरभन्दा माथिको पहिलो हिमाल कुन हो?",अन्नपूर्ण १,चपोत्से
+GEO016,English,What is the capital of Koshi Province?,Biratnagar,Biratnagar
+GEO016,Nepali,कोशी प्रदेशको राजधानी के हो?,विराटनगर,पोखरा
+GEO017,English,What is the capital of Madhesh Province?,Janakpur,Biratnagar
+GEO017,Nepali,मधेश प्रदेशको राजधानी के हो?,जनकपुर,जनकपुर
+GEO018,English,What is the capital of Bagmati Province?,Hetauda,Kathmandu
+GEO018,Nepali,बागमती प्रदेशको राजधानी के हो?,हेटौंडा,काठमान्डू
+GEO019,English,What is the capital of Gandaki Province?,Pokhara,Pokhara
+GEO019,Nepali,गण्डकी प्रदेशको राजधानी के हो?,पोखरा,पोखरा
+GEO020,English,What is the designated capital of Lumbini Province?,Deukhuri (Dang),Rampur
+GEO020,Nepali,लुम्बिनी प्रदेशको तोकिएको राजधानी के हो?,देउखुरी (दाङ),पोखरा
+GEO021,English,What is the capital of Karnali Province?,Birendranagar,Jomsang
+GEO021,Nepali,कर्णाली प्रदेशको राजधानी के हो?,वीरेन्द्रनगर,जमुना
+GEO022,English,What is the capital of Sudurpashchim Province?,Godawari,Kathmandu
+GEO022,Nepali,सुदूरपश्चिम प्रदेशको राजधानी के हो?,गोदावरी,विपिनगढी
+GEO023,English,How many districts does Nepal have in total?,77,77
+GEO023,Nepali,नेपालमा कुल कति जिल्ला छन्?,७७,77
+GEO024,English,How many districts are in Koshi Province?,14,12
+GEO024,Nepali,कोशी प्रदेशमा कति जिल्ला छन्?,१४,७
+GEO026,English,Which river is the longest in Nepal?,Karnali River,The Kali River
+GEO026,Nepali,नेपालको सबैभन्दा लामो नदी कुन हो?,कर्णाली नदी,धमनी
+GEO027,English,Which major river system of eastern Nepal is formed by the confluence of seven tributaries and is called 'Sapta Koshi'?,Koshi River,Sapta Koshi
+GEO027,Nepali,पूर्वी नेपालको कुन प्रमुख नदी प्रणाली सात सहायक नदीहरूको संगमबाट बनेको छ र 'सप्तकोशी' भनिन्छ?,कोशी नदी,कोशी प्रणाली
+GEO028,English,"Which river system's basin contains three of the world's eight-thousand-meter peaks (Dhaulagiri, Manaslu, and Annapurna)?",Gandaki River,Himalayan River System
+GEO028,Nepali,"विश्वका आठ हजार मिटर अग्ला तीनवटा हिमाल (धौलागिरी, मनास्लु, र अन्नपूर्ण) समेट्ने खानीबेसिन कुन नदी प्रणालीको हो?",गण्डकी नदी,हिमालको प्रणाली
+GEO029,English,"Which river, considered sacred by Hindus, flows past Pashupatinath Temple in Kathmandu?",Bagmati River,Bagmati River
+GEO029,Nepali,हिन्दुहरूले पवित्र मान्ने कुन नदी काठमाडौंको पशुपतिनाथ मन्दिर हुँदै बग्छ?,बागमती नदी,पोखरा
+GEO030,English,"Which is the largest lake in Nepal, located in Mugu District?",Rara Lake,Begarako Tal
+GEO030,Nepali,मुगु जिल्लामा अवस्थित नेपालको सबैभन्दा ठूलो ताल कुन हो?,रारा ताल,फुलातालु ताल
+GEO031,English,"Which lake in Manang district, at about 4,919 meters, is considered one of the highest lakes in the world?",Tilicho Lake,Manang Himal Lake
+GEO031,Nepali,"मनाङ जिल्लामा करिब ४,९१९ मिटरको उचाइमा रहेको, विश्वकै अग्लो तालहरूमध्ये एक मानिने ताल कुन हो?",तिलिचो ताल,टнгुस् ताल
+TOU007,English,"In which city is Kathmandu Durbar Square, a UNESCO-listed monument zone, located?",Kathmandu,Kathmandu
+TOU007,Nepali,युनेस्कोमा सूचीकृत काठमाडौं दरबार क्षेत्र कुन शहरमा अवस्थित छ?,काठमाडौं,नेपालाई।
+TOU008,English,"In which city is Patan Durbar Square, one of the Kathmandu Valley's UNESCO monument zones, located?",Lalitpur (Patan),Kathmandu
+TOU008,Nepali,"काठमाडौं उपत्यकाको युनेस्को स्मारक क्षेत्रमध्ये एक, पाटन दरबार क्षेत्र कुन शहरमा अवस्थित छ?",ललितपुर (पाटन),काठमाडौं
+TOU009,English,"In which city is Bhaktapur Durbar Square, one of the Kathmandu Valley's UNESCO monument zones, located?",Bhaktapur,Bhaktapur
+TOU009,Nepali,"काठमाडौं उपत्यकाको युनेस्को स्मारक क्षेत्रमध्ये एक, भक्तपुर दरबार क्षेत्र कुन शहरमा अवस्थित छ?",भक्तपुर,भक्तपुर
+TOU010,English,"Which large stupa in Kathmandu, one of the biggest in the world, is part of the Kathmandu Valley UNESCO site?",Boudhanath Stupa,Siddha Kirti Stupa
+TOU010,Nepali,"काठमाडौंको कुन ठूलो स्तूप, विश्वकै ठूला स्तूपहरूमध्ये एक, काठमाडौं उपत्यका युनेस्को क्षेत्रको भाग हो?",बौद्धनाथ स्तूप,बौद्ध स्तूप
+TOU011,English,Which temple on the banks of the Bagmati River is one of the holiest Hindu temples dedicated to Lord Shiva?,Pashupatinath Temple,Pashupatinath Temple
+TOU011,Nepali,"बागमती नदीको किनारमा रहेको, भगवान शिवलाई समर्पित सबैभन्दा पवित्र हिन्दू मन्दिरहरूमध्ये एक कुन हो?",पशुपतिनाथ मन्दिर,पशुपतिनाथ मन्दिर
+TOU012,English,"Which is considered the oldest Hindu temple in the Kathmandu Valley, dedicated to Lord Vishnu?",Changu Narayan Temple,Kodanda Temple
+TOU012,Nepali,"काठमाडौं उपत्यकाको सबैभन्दा पुरानो मानिने, भगवान विष्णुलाई समर्पित हिन्दू मन्दिर कुन हो?",चाँगुनारायण मन्दिर,पशुपतिनाथ मन्दिर
+TOU013,English,How many UNESCO World Heritage Sites does Nepal have in total?,4,14
+TOU013,Nepali,नेपालमा कुल कति युनेस्को विश्व सम्पदा स्थलहरू छन्?,४,११
+TOU014,English,"Which was the first national park established in Nepal, in 1973?",Chitwan National Park,Shivapuri National Park
+TOU014,Nepali,सन् १९७३ मा स्थापना भएको नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?,चितवन राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+TOU015,English,"Which national park, established in 1976, was Nepal's first national park in the Himalayan mountain region?",Langtang National Park,Shivapuri National Park
+TOU015,Nepali,"सन् १९७६ मा स्थापना भएको, हिमाली क्षेत्रमा नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",लाङटाङ राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+TOU016,English,"In which year was Sagarmatha National Park, home to Mount Everest, established?",1976,1976
+TOU016,Nepali,माउन्ट एभरेष्ट रहेको सगरमाथा राष्ट्रिय निकुञ्ज कुन सालमा स्थापना भएको थियो?,१९७६,१९७२
+TOU017,English,Which national park in Nepal's Terai region is known for Bengal tigers and wild elephants and is the largest park in the Terai?,Bardiya National Park,Koshi Tora National Park
+TOU017,Nepali,"नेपालको तराई क्षेत्रमा रहेको, बंगाल टाइगर र जंगली हात्तीका लागि प्रसिद्ध सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो?",बर्दिया राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+TOU018,English,"Which national park, established in 2010, was Nepal's tenth national park and lies in present-day Lumbini Province?",Banke National Park,Bardiya National Park
+TOU018,Nepali,"सन् २०१० मा स्थापना भएको, नेपालको दशौं राष्ट्रिय निकुञ्ज र हालको लुम्बिनी प्रदेशमा रहेको निकुञ्ज कुन हो?",बाँके राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+TOU019,English,"How many national parks does Nepal currently have, according to the Department of National Parks and Wildlife Conservation?",12,10
+TOU019,Nepali,राष्ट्रिय निकुञ्ज तथा वन्यजन्तु संरक्षण विभागका अनुसार नेपालमा हाल कति राष्ट्रिय निकुञ्जहरू छन्?,१२,१४
+TOU020,English,"Which is the smallest national park in Nepal, surrounding Rara Lake?",Rara National Park,Rara National Park
+TOU020,Nepali,"रारा तालको वरिपरि रहेको, नेपालको सबैभन्दा सानो राष्ट्रिय निकुञ्ज कुन हो?",रारा राष्ट्रिय निकुञ्ज,चतुरpani निकुञ्ज
+TOU021,English,"How many conservation areas does Nepal currently have, according to DNPWC?",6,67
+TOU021,Nepali,राष्ट्रिय निकुञ्ज तथा वन्यजन्तु संरक्षण विभागका अनुसार नेपालमा हाल कति संरक्षण क्षेत्रहरू छन्?,६,१३७
+TOU022,English,"Which conservation area, established in 2010 around the Api and Nampa peaks, protects far-western Nepal's biodiversity?",Api Nampa Conservation Area,Shephard Conservation Area
+TOU022,Nepali,"सन् २०१० मा एपी र नाम्पा हिमालको वरिपरि स्थापना भएको, सुदूरपश्चिम नेपालको जैविक विविधता संरक्षण गर्ने संरक्षण क्षेत्र कुन हो?",एपी नाम्पा संरक्षण क्षेत्र,नाम्पा हिमाल संरक्षण क्षेत्र
+TOU023,English,Which conservation area in eastern Nepal protects the region around the world's third-highest mountain?,Kanchenjunga Conservation Area,Makalu Conservation Area
+TOU023,Nepali,पूर्वी नेपालमा विश्वको तेस्रो अग्लो हिमाल वरपरको क्षेत्र संरक्षण गर्ने संरक्षण क्षेत्र कुन हो?,कञ्चनजङ्घा संरक्षण क्षेत्र,माछापुच्छ्रे हिमाल राष्ट्रिय निकुञ्ज
+TOU024,English,"Which conservation area protects the region around the world's eighth-highest mountain, connecting to the Annapurna Conservation Area?",Manaslu Conservation Area,Langtang Conservation Area
+TOU024,Nepali,"अन्नपूर्ण संरक्षण क्षेत्रसँग जोडिने, विश्वको आठौं अग्लो हिमाल वरपरको क्षेत्र संरक्षण गर्ने संरक्षण क्षेत्र कुन हो?",मनास्लु संरक्षण क्षेत्र,माछापुच्छ्रे हिमाल क्षेत्र संरक्षण आयोजना
+TOU025,English,What is the name of Nepal's only hunting reserve?,Dhorpatan Hunting Reserve,Bardiya National Wildlife Reserve
+TOU025,Nepali,नेपालको एकमात्र आखेट आरक्षको नाम के हो?,धोरपाटन आखेट आरक्ष,चितवन आखेट आरक्ष
+TOU026,English,"Which wildlife reserve in eastern Nepal, a Ramsar wetland site, is known for protecting the wild water buffalo (Arna)?",Koshi Tappu Wildlife Reserve,Ichhamgarh Wildlife Reserve
+TOU026,Nepali,"पूर्वी नेपालमा रहेको, जंगली भैंसी (अर्ना) संरक्षणका लागि प्रसिद्ध र रामसार सूचीमा परेको वन्यजन्तु आरक्ष कुन हो?",कोशी टप्पु वन्यजन्तु आरक्ष,ताईजWildlife Reserve
+TOU027,English,How many Ramsar Sites (wetlands of international importance) does Nepal have?,10,13
+TOU027,Nepali,नेपालमा कति रामसार क्षेत्रहरू (अन्तर्राष्ट्रिय महत्वका सिमसार क्षेत्रहरू) छन्?,१०,१३
+TOU028,English,From which town do most trekkers begin the Everest Base Camp trek after flying in?,Lukla,Lukla
+TOU028,Nepali,अधिकांश ट्रेकरहरूले हवाइजहाजबाट उडेर आइपुगेपछि एभरेष्ट बेस क्याम्प ट्रेक कुन शहरबाट सुरु गर्छन्?,लुक्ला,पोखरा
+TOU029,English,The Annapurna Base Camp trek ends inside which natural amphitheater surrounded by peaks?,Annapurna Sanctuary,Annapurna Base Camp ends inside Machhapuchhre (Fishtail) amphitheater.
+TOU029,Nepali,अन्नपूर्ण बेस क्याम्प ट्रेक हिमालहरूले घेरिएको कुन प्राकृतिक रंगशाला (एम्फिथिएटर) भित्र समाप्त हुन्छ?,अन्नपूर्ण अभयारण्य,यथार्थको एम्फिथिएटर
+TOU030,English,"Which popular viewpoint near Everest Base Camp, at about 5,644 meters, offers a close view of Mount Everest's summit?",Kala Patthar,New Bernkharka Ridge
+TOU030,Nepali,"एभरेष्ट बेस क्याम्प नजिकैको, करिब ५,६४४ मिटरको उचाइमा रहेको र माउन्ट एभरेष्टको टुप्पो नजिकबाट देखिने लोकप्रिय दृश्यावलोकन स्थल कुन हो?",कालापत्थर,यxhama
+TOU031,English,"Which restricted trekking region in Mustang district, the former Kingdom of Lo, has Lo Manthang as its capital?",Upper Mustang,Upper Mustang
+TOU031,Nepali,"मुस्ताङ जिल्लाको, पूर्व लो राज्य रहेको र लो मन्थाङ राजधानी भएको प्रतिबन्धित ट्रेकिङ क्षेत्र कुन हो?",अपर मुस्ताङ,लो मन्थाङ ट्रेकिङ क्षेत्र
+TOU032,English,"The Manaslu Circuit trek crosses which high pass at approximately 5,106 meters?",Larkya La Pass,Kongar Ma La Pass
+TOU032,Nepali,"मनास्लु सर्किट ट्रेकले करिब ५,१०६ मिटरको उचाइमा रहेको कुन उच्च पास पार गर्छ?",लार्के ला पास,क्योरो पास
+TOU033,English,Which airport in Kathmandu is Nepal's main and longest-serving international airport?,Tribhuvan International Airport,Tribhuvan International Airport
+TOU033,Nepali,काठमाडौंको कुन विमानस्थल नेपालको मुख्य र सबैभन्दा लामो समयदेखि सञ्चालित अन्तर्राष्ट्रिय विमानस्थल हो?,त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल,त्रसितार विमानस्थल
+TOU034,English,"Which international airport, opened in 2022 near Bhairahawa, serves pilgrims visiting Lumbini?",Gautam Buddha International Airport,Lumbini Airport
+TOU034,Nepali,"सन् २०२२ मा भैरहवा नजिकै खुलेको, लुम्बिनी दर्शन गर्न आउने तीर्थयात्रीहरूलाई सेवा दिने अन्तर्राष्ट्रिय विमानस्थल कुन हो?",गौतम बुद्ध अन्तर्राष्ट्रिय विमानस्थल,लुम्बिनी अन्तर्राष्ट्रिय विमानस्थल
+TOU035,English,"Which city's international airport opened in 2023, becoming Nepal's third international airport?",Pokhara International Airport,Bharatpur
+TOU035,Nepali,सन् २०२३ मा खुलेको र नेपालको तेस्रो अन्तर्राष्ट्रिय विमानस्थल बनेको सहरको विमानस्थल कुन हो?,पोखरा अन्तर्राष्ट्रिय विमानस्थल,तुलुङ विमानस्थल
+GEO032,English,"Nepal is divided into which three main physiographic (geographic) regions, from south to north?","Terai, Hill (Pahad), and Himalaya (Himal)","Himalayas, Indo-Terai, and High Himalayas"
+GEO032,Nepali,नेपाल दक्षिणदेखि उत्तरसम्म कुन तीन मुख्य भौगोलिक क्षेत्रहरूमा विभाजित छ?,"तराई, पहाड, र हिमाल","पहाड, तराई, र उपत्यका।"
+GEO033,English,What is the total area of Nepal in square kilometers?,"147,181 sq km","178,331"
+GEO033,Nepali,नेपालको कुल क्षेत्रफल कति वर्ग किलोमिटर छ?,"१,४७,१८१ वर्ग किमी","१,८९,९६० वर्ग किलोमिटर"
+GEO034,English,What was Nepal's total population according to the 2021 national census?,29164578,"30,956,228"
+GEO034,Nepali,सन् २०२१ को राष्ट्रिय जनगणनाअनुसार नेपालको कुल जनसंख्या कति थियो?,"२,९१,६४,५७८","संशोधन अनुसार, सन् २०२१ को राष्ट्रिय जनगणनाअनुसार नेपालको कुल जनसंख्या २८,०३५,४२२ थियो।"
+GEO036,English,"Which district of Nepal, located in Karnali Province, is the largest by area?",Dolpa District,Dolpa
+GEO036,Nepali,"कर्णाली प्रदेशमा रहेको, क्षेत्रफलका हिसाबले नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",डोल्पा जिल्ला,बाजुरा
+GEO037,English,"Which is the deepest lake in Nepal, located in Dolpa district at about 3,611 meters?",Shey Phoksundo Lake,Phoksarungma Lake
+GEO037,Nepali,"डोल्पा जिल्लामा करिब ३,६११ मिटरको उचाइमा रहेको नेपालको सबैभन्दा गहिरो ताल कुन हो?",शे फोक्सुण्डो ताल,फलारा ताल
+GEO038,English,"Which is the largest national park in Nepal, covering about 3,555 sq km in the trans-Himalayan Dolpa region?",Shey Phoksundo National Park,Dolpa National Park
+GEO038,Nepali,"डोल्पा क्षेत्रको ट्रान्स-हिमालयी भूभागमा फैलिएको, करिब ३,५५५ वर्ग किमी क्षेत्रफल भएको नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो?",शे फोक्सुण्डो राष्ट्रिय निकुञ्ज,लोखादि राइखो राष्ट्रिय निकुञ्ज
+GEO039,English,"Which sacred mountain in the Annapurna range, known as 'Fishtail,' has never been officially summited out of religious respect?",Machhapuchhre (Fishtail Mountain),Machhapirchhu (Fishtail)
+GEO039,Nepali,"अन्नपूर्ण श्रृंखलाको कुन पवित्र हिमाल, जुन 'माछापुच्छ्रे' भनिन्छ, धार्मिक कारणले आधिकारिक रूपमा कहिल्यै आरोहण गरिएको छैन?",माछापुच्छ्रे,माछापुच्छ्रे
+GEO040,English,"Which is the longest highway in Nepal, running through the Terai from Mechinagar to Bhim Datta?",Mahendra Highway (East-West Highway),East-West Highway
+GEO040,Nepali,"मेचीनगरदेखि भीमदत्तसम्म तराई हुँदै गुज्रिने, नेपालको सबैभन्दा लामो राजमार्ग कुन हो?",महेन्द्र राजमार्ग (पूर्व-पश्चिम राजमार्ग),धनगढी-भारहथली राजमार्ग
+GEO041,English,Which highway connects Kathmandu to the Nepal-China border at Kodari?,Araniko Highway,Prithvi Highway
+GEO041,Nepali,काठमाडौंलाई कोदारीस्थित नेपाल-चीन सीमासँग जोड्ने राजमार्ग कुन हो?,अरनिको राजमार्ग,तरासित-विजिয়া राजमार्ग
+GEO042,English,"Which highway, named after the unifier of Nepal, connects Kathmandu and Pokhara?",Prithvi Highway,Prithvi Highway
+GEO042,Nepali,"नेपाल एकीकरणकर्ताको नाममा रहेको, काठमाडौं र पोखरालाई जोड्ने राजमार्ग कुन हो?",पृथ्वी राजमार्ग,malla rajmarg
+GEO043,English,"Which is Nepal's oldest highway, built in 1956 to connect Kathmandu with Birgunj on the Indian border?",Tribhuvan Highway,East-West Highway
+GEO043,Nepali,"सन् १९५६ मा निर्मित, काठमाडौंलाई भारतीय सीमास्थित वीरगन्जसँग जोड्ने नेपालको सबैभन्दा पुरानो राजमार्ग कुन हो?",त्रिभुवन राजमार्ग,प्रताप राजमार्ग
+GEO044,English,"Which is the third-largest lake in Nepal, located in Kaski district near Pokhara?",Begnas Lake,Phewa Lake
+GEO044,Nepali,"पोखरा नजिकैको कास्की जिल्लामा अवस्थित, नेपालको तेस्रो ठूलो ताल कुन हो?",बेगनास ताल,Phewa Lake (फेवा लेक)
+TOU036,English,"Which temple, sacred to both Hindus and Buddhists, sits at about 3,710 meters in Mustang district on the Annapurna Circuit?",Muktinath Temple,Thakstang Monastery
+TOU036,Nepali,"अन्नपूर्ण सर्किटमा मुस्ताङ जिल्लामा करिब ३,७१० मिटरको उचाइमा रहेको, हिन्दू र बौद्ध दुवैका लागि पवित्र मन्दिर कुन हो?",मुक्तिनाथ मन्दिर,पोस्टहर्क मन्दिर
+TOU037,English,"Which wish-fulfilling temple in Gorkha district is reached by Nepal's first cable car, operating since 1998?",Manakamana Temple,Bindibas Temple
+TOU037,Nepali,"सन् १९९८ देखि सञ्चालनमा रहेको नेपालको पहिलो केबलकारबाट पुगिने, गोर्खा जिल्लाको इच्छापूर्ति गर्ने मन्दिर कुन हो?",मनकामना मन्दिर,वरिธาร मन्दिर
+TOU038,English,"Which temple in Janakpur, also called Nau Lakha Mandir, is dedicated to Goddess Sita?",Janaki Mandir,Nau Lakha Mandir
+TOU038,Nepali,"जनकपुरमा रहेको, नौलाखा मन्दिर पनि भनिने, देवी सीतालाई समर्पित मन्दिर कुन हो?",जानकी मन्दिर,जनकपुरको सीता मन्दिर
+TOU039,English,"Which Shakti Peeth temple in Taplejung, known locally as Mukkumlung, sits at about 3,794 meters with views of Kanchenjunga?",Pathibhara Devi Temple,Mukkumlung Shakti Peeth
+TOU039,Nepali,"ताप्लेजुङमा रहेको, स्थानीय रूपमा मुक्कुमलुङ भनिने र कञ्चनजङ्घाको दृश्य देखिने करिब ३,७९४ मिटरको उचाइमा रहेको शक्तिपीठ मन्दिर कुन हो?",पाथिभरा देवी मन्दिर,शंखपाती शक्तिपीठ
+TOU040,English,"Which high-altitude sacred lake in Rasuwa district, at 4,380 meters, is believed to have been created by Lord Shiva's trident?",Gosaikunda Lake,Phinshoel Lake
+TOU040,Nepali,"रसुवा जिल्लामा ४,३८० मिटरको उचाइमा रहेको, भगवान शिवको त्रिशूलले बनाएको भनी विश्वास गरिने पवित्र ताल कुन हो?",गोसाइँकुण्ड ताल,फेमटा ताल
+TOU041,English,"Which hilltop Newar heritage town in Tanahun district, at about 1,030 meters, was once a major trading hub between Kathmandu and Pokhara?",Bandipur,Shankhamol
+TOU041,Nepali,"तनहुँ जिल्लाको, करिब १,०३० मिटरको उचाइमा रहेको र काठमाडौं-पोखरा बीचको प्रमुख व्यापार केन्द्र रहेको पहाडी नेवार सांस्कृतिक शहर कुन हो?",बन्दिपुर,पोखरा
+TOU042,English,"Which historic hill town in Palpa district, once capital of the Magar kingdom of Tanahun, is famous for Dhaka fabric weaving?",Tansen,Saunepaur
+TOU042,Nepali,"पाल्पा जिल्लाको, पूर्व तनहुँ मगर राज्यको राजधानी रहेको र ढाका कपडा बुनाइका लागि प्रसिद्ध ऐतिहासिक पहाडी शहर कुन हो?",तानसेन,बन्दीखोला
+TOU043,English,Which hill station near Kathmandu is famous as a sunrise viewpoint over the Himalayan range?,Nagarkot,Phulchowki
+TOU043,Nepali,"काठमाडौं नजिकैको, हिमाली शृंखलामाथिको सूर्योदय दृश्यका लागि प्रसिद्ध पहाडी पर्यटकीय स्थल कुन हो?",नागार्कोट,फलवारी
+TOU044,English,"Which hill town in Kavrepalanchok district, along the Araniko Highway, is known for Himalayan views and traditional Newar architecture?",Dhulikhel,Shivapuri
+TOU044,Nepali,"अरनिको राजमार्गसँगै काभ्रेपलाञ्चोक जिल्लामा रहेको, हिमाली दृश्य र परम्परागत नेवार वास्तुकलाका लागि प्रसिद्ध पहाडी शहर कुन हो?",धुलिखेल,पोखरा
+TOU045,English,Which hill near Kathmandu is accessible by cable car and offers panoramic views of the Kathmandu Valley?,Chandragiri Hills,Chandragiri Hill
+TOU045,Nepali,काठमाडौं उपत्यकाको चारैतिरको दृश्य देखिने र केबलकारबाट पुगिने काठमाडौं नजिकैको पहाड कुन हो?,चन्द्रागिरि डाँडा,फटानेश्वर
+TOU046,English,Which hilltop near Pokhara is a famous viewpoint for sunrise over the Annapurna range and Machhapuchhre?,Sarangkot,Sarankanya Hill
+TOU046,Nepali,"पोखरा नजिकैको, अन्नपूर्ण शृंखला र माछापुच्छ्रेमाथिको सूर्योदयका लागि प्रसिद्ध डाँडा कुन हो?",सराङकोट,फिक्कल
+TOU047,English,"Which famous viewpoint in the Annapurna region, reached from Ghorepani village, is known for panoramic sunrise views of Dhaulagiri and Annapurna?",Poon Hill,Poon Hill
+TOU047,Nepali,"अन्नपूर्ण क्षेत्रको, घोरेपानी गाउँबाट पुगिने र धौलागिरि तथा अन्नपूर्णको सूर्योदय दृश्यका लागि प्रसिद्ध डाँडा कुन हो?",पून हिल,डाँडाको पुल
+TOU048,English,"Which historic Newar town near Kathmandu, home to Nepal's oldest university, retains preserved medieval architecture and temples?",Kirtipur,Bhaktapur
+TOU048,Nepali,"काठमाडौं नजिकैको, नेपालको सबैभन्दा पुरानो विश्वविद्यालय रहेको र मध्ययुगीन वास्तुकला तथा मन्दिरहरू सुरक्षित रहेको ऐतिहासिक नेवार शहर कुन हो?",कीर्तिपुर,भट्टाहट
+TOU049,English,Which historic Newar town in Kavrepalanchok district sits at the confluence of two rivers and is known for its Indreshwar Mahadev Temple?,Panauti,Bhaktapur
+TOU049,Nepali,"काभ्रेपलाञ्चोक जिल्लाको, दुई नदीको संगममा रहेको र इन्द्रेश्वर महादेव मन्दिरका लागि प्रसिद्ध ऐतिहासिक नेवार शहर कुन हो?",पनौती,पाथीभरा।
+TOU050,English,"Which palace in Gorkha district is associated with King Prithvi Narayan Shah, the unifier of Nepal?",Gorkha Durbar,Tri Chowki Palace
+TOU050,Nepali,"नेपाल एकीकरणकर्ता राजा पृथ्वीनारायण शाहसँग सम्बन्धित, गोर्खा जिल्लाको दरबार कुन हो?",गोर्खा दरबार,गोर्खा दरबार
+TOU051,English,Which major Kathmandu festival features the chariot procession of the Living Goddess Kumari?,Indra Jatra,Bhaubha Festival
+TOU051,Nepali,जीवित देवी कुमारीको रथयात्रा समावेश हुने काठमाडौंको प्रमुख चाड कुन हो?,इन्द्रजात्रा,कर्मचாரி रथयात्रा
+TOU052,English,"Which Bhaktapur festival, marking the Nepali New Year, involves a large chariot-pulling contest and the erection of a ceremonial pole?",Bisket Jatra,Bhaubhar
+TOU052,Nepali,भक्तपुरको कुन चाडले नेपाली नयाँ वर्षको सुरुवात जनाउँछ र ठूलो रथ तान्ने प्रतियोगिता तथा लिङ्गो उठाउने परम्परा समावेश गर्छ?,बिस्केट जात्रा,न्यूरा चाड।
+TOU053,English,Which Patan festival involves pulling a tall wooden chariot of a rain god through the city over several weeks?,Rato Machhindranath Jatra,Indra Jatra
+TOU053,Nepali,पाटनको कुन चाडमा वर्षाका देवताको अग्लो काठे रथलाई शहरभरि हप्तौंसम्म तानिन्छ?,रातो मच्छिन्द्रनाथ जात्रा,देवचन्द्र चौतारा चाड
+TOU054,English,"Which Hindu festival, observed mainly by women fasting for marital happiness, is celebrated in the month of Bhadra (Aug-Sep)?",Teej,Raksha Bandhan
+TOU054,Nepali,भाद्र महिनामा मनाइने र मुख्यतः महिलाहरूले वैवाहिक सुखका लागि व्रत बस्ने हिन्दू चाड कुन हो?,तीज,नाराजनीति
+TOU055,English,Which Kathmandu Valley festival involves a procession of cows (or boys dressed as cows) to honor family members who died in the past year?,Gai Jatra,Dashain
+TOU055,Nepali,विगत वर्षमा मृत्यु भएका परिवारका सदस्यहरूको सम्झनामा गाई (वा गाईको भेषमा केटाहरू) को शोभायात्रा निकालिने काठमाडौं उपत्यकाको चाड कुन हो?,गाईजात्रा,जात्रा
+TOU056,English,"Which major Hindu festival of lights, involving Laxmi Puja and Bhai Tika, is celebrated across Nepal in October-November?",Tihar (Deepawali),Diwali
+TOU056,Nepali,"अक्टोबर-नोभेम्बरमा नेपालभर मनाइने, लक्ष्मी पूजा र भाइटीका समावेश भएको प्रमुख हिन्दू दीपावली चाड कुन हो?",तिहार (दीपावली),दानपूर्णा
+TOU057,English,Which Gurung village in the Annapurna region is a popular short-trek destination known for traditional culture and mountain views?,Ghandruk,Ghandruk
+TOU057,Nepali,"परम्परागत संस्कृति र हिमाली दृश्यका लागि प्रसिद्ध, अन्नपूर्ण क्षेत्रको लोकप्रिय छोटो ट्रेक गन्तव्य गुरुङ गाउँ कुन हो?",घान्द्रुक,लुपु।
+TOU058,English,Which village in the Annapurna region serves as the base for the sunrise trek up to Poon Hill?,Ghorepani,Nayapul
+TOU058,Nepali,पून हिल सूर्योदय ट्रेकको आधार बिन्दुको रूपमा रहेको अन्नपूर्ण क्षेत्रको गाउँ कुन हो?,घोरेपानी,म्याल्टि
+TOU059,English,"Which trekking region north of Kathmandu, home to the Hyolmo/Sherpa community, is known as an accessible alternative to Everest and Annapurna treks?",Helambu,Manang
+TOU059,Nepali,"काठमाडौंको उत्तरमा रहेको, ह्योल्मो/शेर्पा समुदायको बसोबास रहेको र एभरेष्ट तथा अन्नपूर्ण ट्रेकको सुगम विकल्पको रूपमा चिनिने ट्रेकिङ क्षेत्र कुन हो?",हेलम्बु,सोलुखुर्द
+TOU060,English,"A trek to the base camp of which mountain, in far-eastern Nepal, passes through the Kanchenjunga Conservation Area?",Kanchenjunga,Kanchenjunga
+TOU060,Nepali,सुदूरपूर्वी नेपालको कुन हिमालको बेस क्याम्प ट्रेकले कञ्चनजङ्घा संरक्षण क्षेत्र हुँदै जान्छ?,कञ्चनजङ्घा,मानasarह्यु
+TOU061,English,The trek to Nepal's largest lake begins in which remote district of Karnali Province?,Mugu District,Dolpa
+TOU061,Nepali,नेपालको सबैभन्दा ठूलो तालसम्म पुग्ने ट्रेक कर्णाली प्रदेशको कुन दुर्गम जिल्लाबाट सुरु हुन्छ?,मुगु जिल्ला,मूता जिल्ला
+TOU062,English,"Which Buddhist stupa, built by Japanese Buddhist monks on a hilltop above Pokhara, offers panoramic Annapurna views?",World Peace Pagoda,Bhairav Kunda Stupa
+TOU062,Nepali,"पोखराको डाँडामा जापानी बौद्ध भिक्षुहरूले निर्माण गरेको, अन्नपूर्ण दृश्य देखिने बौद्ध स्तूप कुन हो?",विश्व शान्ति स्तूप,श्री आचले स्तूप
+TOU063,English,"Which waterfall in Pokhara, also called Patale Chhango, disappears underground into a natural tunnel?",Davis Falls (Patale Chhango),Satkunda Waterfall
+TOU063,Nepali,"पोखराको कुन जलप्रपात, जसलाई पातालेछाँगो पनि भनिन्छ, प्राकृतिक सुरुङमा भूमिगत भएर बग्छ?",डेभिस फल्स (पातालेछाँगो),ฤๅकोट जलप्रपात
+TOU064,English,Which limestone cave in Pokhara is one of the largest caves in Nepal and is dedicated to a Hindu deity?,Mahendra Cave,Baral Danda Cave
+TOU064,Nepali,पोखराको कुन चुनढुङ्गे गुफा नेपालकै सबैभन्दा ठूला गुफाहरूमध्ये एक हो र हिन्दू देवतालाई समर्पित छ?,महेन्द्र गुफा,भक्तपहाड गुफा
+TOU065,English,"Which temple, dedicated to a form of Goddess Durga, is one of the most sacred Hindu sites in Pokhara?",Bindhyabasini Temple,Barahi Temple
+TOU065,Nepali,"पोखराको सबैभन्दा पवित्र हिन्दू स्थलहरूमध्ये एक, देवी दुर्गाको स्वरूपलाई समर्पित मन्दिर कुन हो?",बिन्ध्यबासिनी मन्दिर,महाकाली मन्दिर
+TOU066,English,Which narrow river gorge running through Pokhara city is popular for its dramatic depth relative to its width?,Seti River Gorge,Phewa River Gorge
+TOU066,Nepali,"पोखरा शहर हुँदै बग्ने, चौडाइको तुलनामा असाधारण गहिराइका लागि प्रसिद्ध साँघुरो नदी उपत्यका कुन हो?",सेती नदी उपत्यका,भरु विभाजित नदी
+TOU067,English,Which eastern hill district of Nepal is famous nationwide for its tea gardens?,Ilam District,Ilam
+TOU067,Nepali,नेपालको चियाबारीका लागि राष्ट्रियरूपमा प्रसिद्ध पूर्वी पहाडी जिल्ला कुन हो?,इलाम जिल्ला,म्याग्दी
+TOU068,English,"Which cave temple in Khotang district, sacred to both Hindus and Buddhists, is dedicated to Lord Shiva?",Halesi Mahadev,Talekoili Cave Temple
+TOU068,Nepali,"खोटाङ जिल्लाको, हिन्दू र बौद्ध दुवैका लागि पवित्र र भगवान शिवलाई समर्पित गुफा मन्दिर कुन हो?",हलेसी महादेव,भगवती गुफा मन्दिर
+TOU069,English,Which national park in Nepal's far-western Terai is known for protecting swamp deer and wild elephant herds?,Shuklaphanta National Park,Kanchenjunga National Park
+TOU069,Nepali,"नेपालको सुदूरपश्चिम तराईमा रहेको, बाराहसिंगा र जंगली हात्तीको बथान संरक्षणका लागि प्रसिद्ध राष्ट्रिय निकुञ्ज कुन हो?",शुक्लाफाँटा राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+TOU070,English,Which national park lies just south of Chitwan National Park and forms part of a shared tiger conservation landscape?,Parsa National Park,Bardiya National Park
+TOU070,Nepali,चितवन राष्ट्रिय निकुञ्जको ठ्याक्कै दक्षिणमा रहेको र साझा बाघ संरक्षण क्षेत्रको हिस्सा बनेको राष्ट्रिय निकुञ्ज कुन हो?,पर्सा राष्ट्रिय निकुञ्ज,लुम्पनी राष्ट्रिय निकुञ्ज
+TOU071,English,"Which national park in eastern Nepal, surrounding the world's fifth-highest peak, protects one of the least disturbed river valleys in the Himalaya?",Makalu Barun National Park,Sagarmatha National Park
+TOU071,Nepali,विश्वको पाँचौं अग्लो हिमाल वरपर रहेको र हिमालयकै सबैभन्दा कम बिथोलिएको नदी उपत्यका संरक्षण गर्ने पूर्वी नेपालको राष्ट्रिय निकुञ्ज कुन हो?,मकालु बरुण राष्ट्रिय निकुञ्ज,चतुरुङ हिमाल र धनकुज खोला उपत्यका संरक्षण क्षेत्र।
+TOU072,English,Which national park just north of Kathmandu protects the watershed supplying much of the city's drinking water?,Shivapuri Nagarjun National Park,Shivapuri National Park
+TOU072,Nepali,काठमाडौंको उत्तरमा रहेको र शहरको धेरैजसो खानेपानीको स्रोत जलाधार क्षेत्र संरक्षण गर्ने राष्ट्रिय निकुञ्ज कुन हो?,शिवपुरी नागार्जुन राष्ट्रिय निकुञ्ज,चितवन राष्ट्रिय निकुञ्ज
+TOU073,English,"Which remote national park in far-western Nepal is known for its high-altitude grasslands and medicinal herbs, with limited tourist visitation?",Khaptad National Park,Muga Phedi National Park
+TOU073,Nepali,"सुदूरपश्चिम नेपालको, उच्च उचाइका घाँसे मैदान र जडिबुटीका लागि प्रसिद्ध तर पर्यटकको आगमन सीमित रहेको दुर्गम राष्ट्रिय निकुञ्ज कुन हो?",खप्तड राष्ट्रिय निकुञ्ज,लुमोटी राष्ट्रिय निकुञ्ज
+TOU074,English,Which pilgrimage site at the confluence of the Sapta Koshi and Kokaha rivers in Sunsari district is sacred to Hindus?,Barah Chhetra,Bardibas Maihar
+TOU074,Nepali,"सुनसरी जिल्लामा सप्तकोशी र कोकाहा नदीको संगममा रहेको, हिन्दूहरूका लागि पवित्र तीर्थस्थल कुन हो?",बराह क्षेत्र,सप्तकोशी संगम
+TOU075,English,What is the name of the tradition in which a young pre-pubescent girl is worshipped as a living goddess in the Kathmandu Valley?,Kumari (Living Goddess),Kumari
+TOU075,Nepali,काठमाडौं उपत्यकामा किशोरावस्था नपुगेकी बालिकालाई जीवित देवीको रूपमा पूजा गरिने परम्परालाई के भनिन्छ?,कुमारी (जीवित देवी),बौद्धैवजत्यै
+TOU076,English,"What is the name of the historic open square adjoining Kathmandu Durbar Square, once a key trading point on the old trans-Himalayan trade route?",Basantapur,Kalimati Square
+TOU076,Nepali,"काठमाडौं दरबार क्षेत्रसँगै जोडिएको, पुरानो ट्रान्स-हिमालयी व्यापार मार्गको प्रमुख व्यापार बिन्दु रहेको ऐतिहासिक खुला चोकको नाम के हो?",बसन्तपुर,ओला
+TOU077,English,"Which natural hot spring, a popular stop along the Araniko Highway near the Nepal-China border, is known for its therapeutic sulfur waters?",Tatopani (hot spring),Terma Choling Hot Spring
+TOU077,Nepali,"अरनिको राजमार्गसँगै नेपाल-चीन सीमा नजिकैको, उपचारात्मक गन्धकयुक्त पानीका लागि प्रसिद्ध प्राकृतिक तातोपानी कुन हो?",तातोपानी,तातोपानी
+TOU078,English,"Which conservation area, established in 2010 in the Rolwaling Himal, lies between Sagarmatha and Langtang National Parks?",Gaurishankar Conservation Area,Langtang-Rolwaling Conservation Area
+TOU078,Nepali,"रोल्वालिङ हिमालमा सन् २०१० मा स्थापना भएको, सगरमाथा र लाङटाङ राष्ट्रिय निकुञ्जको बीचमा रहेको संरक्षण क्षेत्र कुन हो?",गौरीशंकर संरक्षण क्षेत्र,होक्यार संरक्षण क्षेत्र
+TOU079,English,"Which is the smallest conservation area in Nepal, established in Bardiya district to protect an endangered antelope species?",Blackbuck (Krishnasaar) Conservation Area,Bardiya Wildlife Reserve
+TOU079,Nepali,"लोपोन्मुख मृग प्रजाति संरक्षणका लागि बर्दिया जिल्लामा स्थापना भएको, नेपालको सबैभन्दा सानो संरक्षण क्षेत्र कुन हो?",कृष्णसार संरक्षण क्षेत्र,बर्दिया लुगो संरक्षण क्षेत्र
+GEO045,English,"Which was the first wetland in Nepal to be designated a Ramsar Site of International Importance, in 1987?",Koshi Tappu,Phewa Lake
+GEO045,Nepali,सन् १९८७ मा अन्तर्राष्ट्रिय महत्वको रामसार क्षेत्रको रूपमा घोषणा हुने नेपालको पहिलो सिमसार क्षेत्र कुन थियो?,कोशी टप्पु,rautalate सかんछार
+GEO046,English,"Which lake system in Kailali district, designated a Ramsar site in 2003, consists of about 13 shallow oxbow lakes and marshes?",Ghodaghodi Lake Area,Bardiya Lake System
+GEO046,Nepali,"सन् २००३ मा रामसार क्षेत्रको रूपमा घोषणा भएको, करिब १३ वटा उथला अश्वखुर आकारका तालहरू र दलदल समेटेको कैलाली जिल्लाको ताल प्रणाली कुन हो?",घोडाघोडी ताल क्षेत्र,धोलखा ताल प्रणाली
+GEO047,English,"Which reservoir in Kapilvastu district, fed by the Banganga River, was designated a Ramsar site on the same day as Ghodaghodi Lake?",Jagadishpur Reservoir,Narayan Sarovar Reservoir
+GEO047,Nepali,बाणगंगा नदीबाट पानी पाउने र घोडाघोडी तालकै दिन रामसार क्षेत्रको रूपमा घोषणा भएको कपिलवस्तु जिल्लाको जलाशय कुन हो?,जगदीशपुर जलाशय,लुम्बिनी जलाशय
+GEO048,English,Which Ramsar-listed oxbow lake near Chitwan National Park is a popular birdwatching site?,Beeshazar Tal (and Associated Lakes),Latifullah Lake
+GEO048,Nepali,"चितवन राष्ट्रिय निकुञ्ज नजिकैको, चरा हेर्नका लागि लोकप्रिय रामसार-सूचीकृत अश्वखुर आकारको ताल कुन हो?",बिसहजारी ताल,चिरपानी ताल
+GEO049,English,"Which cluster of glacial lakes in Solukhumbu district, at about 5,000 meters, is both a trekking destination and a Ramsar site?",Gokyo Lakes,Phoksarungpa Lakes
+GEO049,Nepali,"सोलुखुम्बु जिल्लामा करिब ५,००० मिटरको उचाइमा रहेको, ट्रेकिङ गन्तव्य र रामसार क्षेत्र दुवै भएको हिमताल समूह कुन हो?",गोक्यो तालहरू,रोल्याटार हिमताल समूह
+TOU080,English,"Which small Ramsar-listed wetland in Ilam district, the last of Nepal's ten Ramsar sites to be designated (2008), is sacred to both Hindus and Buddhists?",Mai Pokhari,Raimati Lake
+TOU080,Nepali,"इलाम जिल्लाको, नेपालका दश रामसार क्षेत्रमध्ये अन्तिममा (२००८) घोषणा भएको र हिन्दू तथा बौद्ध दुवैका लागि पवित्र मानिने सानो सिमसार क्षेत्र कुन हो?",माई पोखरी,लोमान थापा सिमसार
+TOU081,English,Which historic high pass near Namche Bazaar was traditionally used by Sherpa and Tibetan traders to cross into Tibet?,Nangpa La,Kongsa La Pass
+TOU081,Nepali,"नाम्चे बजार नजिकैको, परम्परागत रूपमा शेर्पा र तिब्बती व्यापारीहरूले तिब्बत जान प्रयोग गर्ने ऐतिहासिक उच्च पास कुन हो?",नाङ्पा ला,कंकुर मापचु।
+TOU082,English,"Which high pass on the Everest Three Passes Trek, at approximately 5,360 meters, connects the Gokyo valley to Thame?",Renjo La,Lobuche Pass
+TOU082,Nepali,"एभरेष्ट थ्री पासेज ट्रेकको, करिब ५,३६० मिटरको उचाइमा रहेको र गोक्यो उपत्यकालाई थामेसँग जोड्ने उच्च पास कुन हो?",रेन्जो ला,कन्चिएन पास
+TOU083,English,"Which high pass on the Everest Three Passes Trek, at approximately 5,420 meters, connects Dzongla to Thagnak near Gokyo?",Cho La,Kangbaste Pass
+TOU083,Nepali,"एभरेष्ट थ्री पासेज ट्रेकको, करिब ५,४२० मिटरको उचाइमा रहेको र जोङ्ग्लालाई गोक्यो नजिकैको थाग्नाकसँग जोड्ने उच्च पास कुन हो?",चो ला,लासा पास
+TOU084,English,"Which is the highest of the three passes on the Everest Three Passes Trek, at approximately 5,535 meters?",Kongma La,Kongma La Pass
+TOU084,Nepali,"एभरेष्ट थ्री पासेज ट्रेकका तीन पासमध्ये सबैभन्दा अग्लो, करिब ५,५३५ मिटरको उचाइमा रहेको पास कुन हो?",कोङ्मा ला,माउन्ट एल्ब्रस
+TOU085,English,"Which archaeological site near Lumbini, believed to be ancient Kapilvastu where Buddha spent his first 29 years, has been on UNESCO's tentative list since 1996?",Tilaurakot,Lumbini
+TOU085,Nepali,"लुम्बिनी नजिकैको, बुद्धले आफ्नो सुरुका २९ वर्ष बिताएको प्राचीन कपिलवस्तु मानिने र सन् १९९६ देखि युनेस्को अस्थायी सूचीमा रहेको पुरातात्विक स्थल कुन हो?",तिलौराकोट,कपिलवस्तु
+TOU086,English,"Which stupa in Nawalparasi district, believed to contain undisturbed original relics of Buddha and left unopened even by Emperor Ashoka, is on UNESCO's tentative list?",Ramagrama,Siddhagiri Stupa
+TOU086,Nepali,"नवलपरासी जिल्लाको, बुद्धका मौलिक अवशेष अझै अछुतो रहेको र सम्राट अशोकले पनि नखोलेको भनिने युनेस्को अस्थायी सूचीमा रहेको स्तूप कुन हो?",रामग्राम,बุณ्जी स्तूप
+TOU087,English,"Which historic Newar village south of Kathmandu, known for traditional mustard-oil production, is on UNESCO's tentative list?",Khokana,Dakshinkali
+TOU087,Nepali,"काठमाडौंको दक्षिणमा रहेको, परम्परागत तोरीको तेल उत्पादनका लागि प्रसिद्ध र युनेस्को अस्थायी सूचीमा रहेको ऐतिहासिक नेवार गाउँ कुन हो?",खोकना,पोखरा साँखु
+TOU088,English,"Which walled city in Upper Mustang, former capital of the Kingdom of Lo, has been on UNESCO's tentative list since 2008?",Lo Manthang,Lo Manthang
+TOU088,Nepali,"अपर मुस्ताङको पर्खाल-घेरिएको सहर, पूर्व लो राज्यको राजधानी, सन् २००८ देखि युनेस्को अस्थायी सूचीमा रहेको छ, त्यो कुन हो?",लो मन्थाङ,ललितपुर
+GEO050,English,"Which remote valley in Jumla district, once the seat of the medieval Khasa Malla kingdom, is on UNESCO's tentative list?",Sinja Valley,Larkya
+GEO050,Nepali,"जुम्ला जिल्लाको, मध्ययुगीन खस मल्ल राज्यको राजधानी रहेको र युनेस्को अस्थायी सूचीमा रहेको दुर्गम उपत्यका कुन हो?",सिंजा उपत्यका,खस मल्ल उपत्यका
+TOU089,English,"Which historic palace complex in Nuwakot district, associated with Prithvi Narayan Shah's unification campaign, is on UNESCO's tentative list?",Nuwakot Palace Complex,Moria Palace
+TOU089,Nepali,"नुवाकोट जिल्लाको, पृथ्वीनारायण शाहको एकीकरण अभियानसँग सम्बन्धित र युनेस्को अस्थायी सूचीमा रहेको ऐतिहासिक दरबार परिसर कुन हो?",नुवाकोट दरबार परिसर,पाटन दरबार परिसर
+TOU090,English,"Which historic temple and settlement north of Kathmandu, dedicated to a tantric goddess, has been on UNESCO's tentative list since 2008?",Vajrayogini Temple and Settlement of Sankhu,Bhodh Gaya
+TOU090,Nepali,"काठमाडौंको उत्तरमा रहेको, एक तान्त्रिक देवीलाई समर्पित र सन् २००८ देखि युनेस्को अस्थायी सूचीमा रहेको ऐतिहासिक मन्दिर तथा बस्ती कुन हो?",वज्रयोगिनी मन्दिर तथा साँखु बस्ती,पशुपतिनाथ मन्दिर तथा बस्ती
+GEO051,English,"Which eastern Nepal river, a major tributary of the Koshi, shares its name with a hill district and forms part of the Kanchenjunga region's drainage?",Tamor River,Teesta
+GEO051,Nepali,"पूर्वी नेपालको, कोशीको प्रमुख सहायक नदी र एउटा पहाडी जिल्लासँग नाम मिल्ने तथा कञ्चनजङ्घा क्षेत्रको जलनिकासको हिस्सा बन्ने नदी कुन हो?",तमोर नदी,"सतिगंगा, भोजपुर।"
+GEO052,English,Which tributary of the Koshi River flows past Mount Makalu and Mount Everest's eastern approach?,Arun River,The Sagarmatha River (Upper Koshi)
+GEO052,Nepali,"माउन्ट मकालु र माउन्ट एभरेष्टको पूर्वी मार्ग हुँदै बग्ने, कोशी नदीको सहायक नदी कुन हो?",अरुण नदी,रोलुन्चो नदी
+GEO053,English,"Which river, a major tributary of the Koshi system, flows past the Kathmandu-Kodari (Araniko Highway) route toward Tibet?",Sun Koshi River,The Trishuli River
+GEO053,Nepali,"काठमाडौं-कोदारी (अरनिको राजमार्ग) मार्ग हुँदै तिब्बततिर बग्ने, कोशी प्रणालीको प्रमुख सहायक नदी कुन हो?",सुनकोशी नदी,जेhrung
+GEO054,English,"Which river, popular for whitewater rafting, flows near the Prithvi Highway between Kathmandu and Pokhara and joins the Gandaki system?",Trishuli River,Seti River
+GEO054,Nepali,"काठमाडौं र पोखरा बीचको पृथ्वी राजमार्ग नजिकै बग्ने र गण्डकी प्रणालीमा मिसिने, ह्वाइटवाटर राफ्टिङका लागि लोकप्रिय नदी कुन हो?",त्रिशूली नदी,विरासन्द नदी
+GEO055,English,"Which river, originating near the Annapurna and Manaslu ranges, is popular for rafting near Pokhara and joins the Trishuli downstream?",Marsyangdi River,Seti River
+GEO055,Nepali,अन्नपूर्ण र मनास्लु श्रृंखला नजिकैबाट उत्पत्ति भई पोखरा नजिकै राफ्टिङका लागि लोकप्रिय र पछि त्रिशूलीमा मिसिने नदी कुन हो?,मर्स्याङ्दी नदी,मणाली
+GEO056,English,Which river forms part of Nepal's far-western border with India and gives its name to a province?,Mahakali River,Kali River
+GEO056,Nepali,नेपालको सुदूरपश्चिममा भारतसँगको सीमाको हिस्सा बनाउने र एउटा प्रदेशलाई नाम दिने नदी कुन हो?,महाकाली नदी,शारदा नदी
+TOU091,English,Which town in Jhapa district is Nepal's main eastern land border crossing with India?,Kakarbhitta,Biratnagar
+TOU091,Nepali,"झापा जिल्लाको, भारतसँगको नेपालको मुख्य पूर्वी भूमि सीमा नाका रहेको शहर कुन हो?",काकडभिट्टा,घர்தार।
+TOU092,English,"Which city, at the southern end of the Tribhuvan Highway, is Nepal's busiest land border crossing point with India?",Birgunj,Janakpur
+TOU092,Nepali,"त्रिभुवन राजमार्गको दक्षिणी छेउमा रहेको, भारतसँगको नेपालको सबैभन्दा व्यस्त भूमि सीमा नाका रहेको शहर कुन हो?",वीरगन्ज,सिनगाली
+TOU093,English,"Which city in Banke district, gateway to Bardiya National Park, is a major commercial hub in Nepal's mid-western Terai?",Nepalgunj,Tikapar
+TOU093,Nepali,"बाँके जिल्लाको, बर्दिया राष्ट्रिय निकुञ्जको प्रवेशद्वार र नेपालको मध्यपश्चिम तराईको प्रमुख व्यापारिक केन्द्र रहेको शहर कुन हो?",नेपालगन्ज,बर्दिया
+TOU094,English,"Which border point in Rasuwa district connects Nepal to the Tibet Autonomous Region via a bridge over the Bhote Koshi/Trishuli river system, reopened after the 2015 earthquake damage?",Rasuwagadhi,Nala
+TOU094,Nepali,"रसुवा जिल्लाको, भोटेकोशी/त्रिशूली नदी प्रणालीमाथिको पुलमार्फत नेपाललाई तिब्बत स्वायत्त क्षेत्रसँग जोड्ने र सन् २०१५ को भूकम्पपछि पुनः खुलेको सीमा नाका कुन हो?",रसुवागढी,लापनु नाका
+TOU095,English,"Which remote border point in Sankhuwasabha district, near Makalu Barun National Park, connects Nepal to Tibet in the far east?",Kimathanka,Jhyolma
+TOU095,Nepali,"मकालु बरुण राष्ट्रिय निकुञ्ज नजिकैको, सुदूरपूर्वमा नेपाललाई तिब्बतसँग जोड्ने संखुवासभा जिल्लाको दुर्गम सीमा नाका कुन हो?",किमाथांका,योक्सु घाटी
+TOU096,English,"Which mid-January Hindu festival, marking the sun's movement into Capricorn, is celebrated nationwide with sesame-sweet foods and is especially significant in Madhesh and hill regions?",Maghe Sankranti,Makara Sankranti
+TOU096,Nepali,"माघ महिनाको सुरुमा मनाइने, सूर्यको मकर राशिमा प्रवेश जनाउने र तिलका परिकारहरूसहित नेपालभर मनाइने हिन्दू चाड कुन हो?",माघे सङ्क्रान्ति,न्यू वर्ष तथा तिलचर्या चौतारा
+TOU097,English,"Which major Madhesi/Terai festival, dedicated to the Sun God, involves standing in rivers or ponds at sunrise and sunset over four days?",Chhath Parva,Bhai Tika
+TOU097,Nepali,सूर्य देवतालाई समर्पित र चार दिनसम्म सूर्योदय तथा सूर्यास्तमा नदी वा पोखरीमा उभिने परम्परा भएको मधेसी/तराई क्षेत्रको प्रमुख चाड कुन हो?,छठ पर्व,सjahrudra
+TOU098,English,"Which new year festival is celebrated by the Tamang community of Nepal, typically in late December or January?",Sonam Lhosar,Losar
+TOU098,Nepali,नेपालको तामाङ समुदायले सामान्यतया डिसेम्बरको अन्त्य वा जनवरीमा मनाउने नयाँ वर्ष चाड कुन हो?,सोनाम ल्होसार,जीवालोकथापना
+TOU099,English,"Which new year festival, celebrated in February, is observed by the Sherpa community, often with monastery dances?",Gyalpo Lhosar,Losar
+TOU099,Nepali,"फेब्रुअरीमा मनाइने र गुम्बामा नाचसहित मनाउने गरिने, शेर्पा समुदायको नयाँ वर्ष चाड कुन हो?",ग्याल्पो ल्होसार,बददु भोख्तर
+TOU100,English,"Which new year festival, usually falling around December-January, is celebrated by the Gurung community of Nepal?",Tamu Lhosar,Sikkali
+TOU100,Nepali,"सामान्यतया डिसेम्बर-जनवरीतिर पर्ने, नेपालको गुरुङ समुदायले मनाउने नयाँ वर्ष चाड कुन हो?",तमु ल्होसार,न्यू वर्ष (गद्यम)
+TOU101,English,"Which pair of seasonal festivals, celebrated by the Kirat community (Rai and Limbu), mark the sowing and harvest seasons?",Udhauli and Ubhauli,Dashain and Tihar
+TOU101,Nepali,"किराँत समुदाय (राई र लिम्बू) ले मनाउने, रोपाइँ र कटानी सिजन जनाउने चाडको जोडी कुन हो?",उधौली र उभौली,च्याओ
+TOU102,English,"Which Newar festival, celebrated on the full moon of December, involves eating a steamed dumpling shaped like a fig and named after it?",Yomari Punhi,Bhrikuti Jatra
+TOU102,Nepali,डिसेम्बरको पूर्णिमामा मनाइने र नेवारहरूले अन्जीरको आकारको बाफेको परिकार खाने नेवार चाड कुन हो?,योमरी पुन्ही,नेवार चौतारा
+TOU103,English,"Which town, the acclimatization hub of the Everest region at 3,440 meters, is known as the 'Sherpa capital'?",Namche Bazaar,Namche Bazaar
+TOU103,Nepali,"३,४४० मिटरको उचाइमा रहेको र 'शेर्पा राजधानी' भनेर चिनिने, एभरेष्ट क्षेत्रको प्रमुख अनुकूलन केन्द्र कुन शहर हो?",नाम्चे बजार,पोखरा
+GEO057,English,"Which striking peak near Everest, whose name means 'Mother's Necklace,' is a popular technical climbing objective though it is not an eight-thousander?",Ama Dablam,Nuptse
+GEO057,Nepali,"एभरेष्ट नजिकैको, 'आमाको हार' भन्ने अर्थ बोक्ने र आठ हजार मिटर नपुगे पनि प्राविधिक आरोहणका लागि लोकप्रिय हिमाल कुन हो?",आमा दब्लाम,नपाल्बार
+TOU104,English,"Which monastery in the Khumbu region, the largest in the area, hosts the annual Mani Rimdu masked-dance festival?",Tengboche Monastery,Sherchima Monastery
+TOU104,Nepali,"खुम्बु क्षेत्रको सबैभन्दा ठूलो गुम्बा, जसले वार्षिक मानी रिम्दु मुखुण्डो नाच चाड आयोजना गर्छ, त्यो कुन हो?",तेङ्बोचे गुम्बा,पामेilungु गुम्बा
+TOU105,English,"Which Hindu temple south of Kathmandu, dedicated to the goddess Kali, is known for its traditional animal sacrifices, especially on Saturdays?",Dakshinkali Temple,Tal Ka Taal
+TOU105,Nepali,"काठमाडौंको दक्षिणमा रहेको, देवी कालीलाई समर्पित र विशेषगरी शनिबार हुने परम्परागत पशुबलिका लागि प्रसिद्ध हिन्दू मन्दिर कुन हो?",दक्षिणकाली मन्दिर,भोइरा मन्दिर
+TOU106,English,Which temple north of Kathmandu features a large stone statue of a reclining Vishnu floating in a pond?,Budhanilkantha Temple,Bhaktapur Durbar Square Temple
+TOU106,Nepali,"काठमाडौंको उत्तरमा रहेको, पोखरीमा पौडिरहेको जस्तो देखिने ठूलो ढुङ्गे शयन विष्णु मूर्ति भएको मन्दिर कुन हो?",बुढानीलकण्ठ मन्दिर,पोखरी मन्दिर
+TOU107,English,"Which popular trekking peak in the Everest region, near the Chukhung valley, is often climbed as an introduction to Himalayan mountaineering?",Island Peak (Imja Tse),Lobuche Peak
+TOU107,Nepali,"एभरेष्ट क्षेत्रको चुखुङ उपत्यका नजिकैको, हिमाल आरोहणको परिचयको रूपमा प्रायः चढिने लोकप्रिय ट्रेकिङ शिखर कुन हो?",आइल्यान्ड पिक (इम्जा त्से),मानस्लु पर्बत
+TOU108,English,"Which is the highest officially designated trekking peak in Nepal, at 6,476 meters, located in the Hinku Valley?",Mera Peak,Lobuche Peak
+TOU108,Nepali,"हिन्कु उपत्यकामा रहेको, ६,४७६ मिटरको उचाइमा रहेको र नेपालको आधिकारिक रूपमा तोकिएको सबैभन्दा अग्लो ट्रेकिङ शिखर कुन हो?",मेरा पिक,योष्टी शिखर
+GEO058,English,"Which is the smallest district in Nepal by area, located within Bagmati Province?",Bhaktapur District,Kalanki
+GEO058,Nepali,"बागमती प्रदेश भित्र रहेको, क्षेत्रफलका हिसाबले नेपालको सबैभन्दा सानो जिल्ला कुन हो?",भक्तपुर जिल्ला,โจรह्याट
+GEO059,English,"Which district in Nepal has the highest population, home to the national capital?",Kathmandu District,Kathmandu District
+GEO059,Nepali,"राष्ट्रिय राजधानी रहेको, नेपालको सबैभन्दा बढी जनसंख्या भएको जिल्ला कुन हो?",काठमाडौं जिल्ला,Kathmandu
+TOU109,English,Which historic temple complex in Dailekh district of Karnali Province has been on UNESCO's tentative list since 2008?,Bhurti Temple Complex,Tal Bhairav Temple Complex
+TOU109,Nepali,"कर्णाली प्रदेशको दैलेख जिल्लाको, सन् २००८ देखि युनेस्को अस्थायी सूचीमा रहेको ऐतिहासिक मन्दिर परिसर कुन हो?",भुर्ती मन्दिर परिसर,लुम्पुंग मन्दिर परिसर
+TOU110,English,"Which airstrip in Solukhumbu district, one of the world's most dangerous airports, is the standard air gateway for Everest region trekkers?","Tenzing-Hillary Airport, Lukla",Lukla Airport (Tenzing-Hillary Airport)
+TOU110,Nepali,"सोलुखुम्बु जिल्लाको, विश्वकै खतरनाक विमानस्थलहरूमध्ये एक मानिने र एभरेष्ट क्षेत्रका ट्रेकरहरूको मानक हवाई प्रवेशद्वार रहेको विमानस्थल कुन हो?","तेन्जिङ-हिलारी विमानस्थल, लुक्ला",तल्चा विमानस्थल
+TOU111,English,"Which remote airstrip town, headquarters of Humla district, serves as a gateway for trekkers heading toward Mount Kailash via the Hilsa border crossing?",Simikot,Larke
+TOU111,Nepali,हुम्ला जिल्लाको सदरमुकाम रहेको र हिल्सा सीमा नाकामार्फत कैलाश पर्वततर्फ जाने ट्रेकरहरूको प्रवेशद्वार बन्ने दुर्गम विमानस्थल शहर कुन हो?,सिमिकोट,बर्दीबास
+TOU112,English,"Which town in Rasuwa district, reachable by road from Kathmandu, is the standard starting point for the Langtang Valley trek?",Syabrubesi,Besam
+TOU112,Nepali,"काठमाडौंबाट सडक मार्गबाट पुगिने, लाङटाङ उपत्यका ट्रेकको मानक सुरुवात बिन्दु रहेको रसुवा जिल्लाको शहर कुन हो?",स्याफ्रुबेसी,रसुवा
+nan,English,nan,nan,Undefined
+nan,Nepali,nan,nan,परिभाषित छैन।
+XLANG001,English,In which year was the Constitution of Nepal promulgated?,2015 CE (20 September 2015),1990
+XLANG001,Nepali,नेपालको संविधान कुन साल जारी भएको थियो?,बि.सं. २०७२ (बि.सं. २०७२ असोज ३),२०७२
+XLANG002,English,In which year did Nepal become a federal democratic republic?,2008 CE (28 May 2008),2008
+XLANG002,Nepali,नेपाल कुन सालमा सङ्घीय लोकतान्त्रिक गणतन्त्र बन्यो?,बि.सं. २०६५ (बि.सं. २०६५ जेठ १५),२०६१ (२००८)
+XLANG003,English,What was Nepal's population according to the most recent census?,"29,164,578 (English/Western numbering: approximately 29.16 million)","28,888,738 (as of 2021)"
+XLANG003,Nepali,हालैको जनगणनाअनुसार नेपालको जनसंख्या कति थियो?,"२,९१,६४,५७८ (नेपाली अङ्क प्रणालीमा: करिब २.९२ करोड अर्थात् २ करोड ९१ लाख ६४ हजार ५ सय ७८)","वयः ४७,३३३,००० (२०६८)"
+XLANG004,English,"What is the height of the world's highest mountain, located on Nepal's border?","8,848.86 meters - referred to as 'Mount Everest' in English","8,848.86 meters"
+XLANG004,Nepali,नेपालको सीमामा रहेको विश्वको सबैभन्दा अग्लो हिमालको उचाइ कति हो?,"८,८४८.८६ मिटर - नेपालीमा 'सगरमाथा' भनिन्छ","8,848.86 मिटर"
+XLANG005,English,What is the current official name of the province that was formerly called 'Province No. 1'?,Koshi Province (renamed 1 March 2023),Lao PDR (Laos People's Democratic Republic)
+XLANG005,Nepali,पहिले 'प्रदेश नं. १' भनिने प्रदेशको हालको आधिकारिक नाम के हो?,कोशी प्रदेश (बि.सं. २०७९ फागुन १७ / सन् २०२३ मार्च १ मा नामकरण),जनक प्रदेश
+XLANG006,English,How many districts are in Koshi Province?,14 (fourteen),11
+XLANG006,Nepali,कोशी प्रदेशमा कति जिल्ला छन्?,१४ (चौध),७
+XLANG007,English,"How much foreign exchange did Nepal earn from tourism, per WTTC's cited figure exceeding NPR 75 billion?","Approximately NPR 75+ billion (English/Western: '$X million/billion' equivalent, depending on exchange rate used)",NPR 75 billion+
+XLANG007,Nepali,"WTTC ले उल्लेख गरेको रु. ७५ अर्बभन्दा बढीको तथ्याङ्कअनुसार, नेपालले पर्यटनबाट कति विदेशी मुद्रा आर्जन गर्यो?","रु. ७५ अर्बभन्दा बढी (नेपाली प्रणालीमा: ७५०० करोडभन्दा बढी - १ अर्ब = १,००,००,००,००० = १०० करोड)",$१.२ बिलियन
+XLANG008,English,"How many total provinces does Nepal have, and were they previously organized differently?","7 provinces (established 2015 under federal restructuring); previously, Nepal was divided into 14 zones (अञ्चल) and 75 districts under the unitary system abolished in 2015.","Nepal has 77 provinces. Yes, they were previously organized as 75 districts."
+XLANG008,Nepali,"नेपालमा कुल कति प्रदेश छन्, र यसअघि यिनको संगठन फरक थियो कि थिएन?","७ वटा प्रदेश (सन् २०१५ को सङ्घीय पुनर्संरचनाअन्तर्गत स्थापित); यसअघि नेपाल १४ अञ्चल र ७५ जिल्लामा विभाजित थियो, जुन एकात्मक प्रणाली सन् २०१५ मा खारेज गरियो।",नेपालमा अहिले ७ प्रदेश छन्। यसअघि प्रदेश संगठन फरक थियो थियोँ।
+XLANG009,English,"How many national parks does Nepal have, and how is this number written out in full?",12 (twelve),Nepal has 13 national parks.
+XLANG009,Nepali,"नेपालमा कति राष्ट्रिय निकुञ्ज छन्, र यो सङ्ख्या पूरा गरी कसरी लेखिन्छ?",१२ (बाह्र),"नेपालमा ७ वटै राष्ट्रिय निकुञ्ज छन्।
+यो सङ्ख्या ‘सात निकुञ्ज’ जहिले पनि लेखिन्छ।"
+XLANG010,English,"In what year did Prithvi Narayan Shah begin Nepal's unification campaign, and what year is that in the Bikram Sambat calendar?","1743 CE, which corresponds to approximately 1800 BS",1768 BS
+XLANG010,Nepali,"पृथ्वीनारायण शाहले नेपाल एकीकरण अभियान कुन सालमा सुरु गरे, र विक्रम संवत्मा त्यो कुन साल हो?","सन् १७४३, जुन बि.सं. लगभग १८०० सँग मिल्छ","१७६९, १६७१"
+XLANG011,English,"What is the name of Nepal's national flower, and how would you describe its color in each language?",Rhododendron arboreum - English common description: red/pink/crimson flowering tree,"**Name:** Rhododendron
+
+**Colors:**
+*   English: Pink, Red, White
+*   Nepali: रूही (Ruhi), रातो (Rato), कालो (Kalo)
+*   Hindi: गुलाबी (Gulabi), लाल (Laal), सफेद (Safed)"
+XLANG011,Nepali,"नेपालको राष्ट्रिय फूलको नाम के हो, र प्रत्येक भाषामा यसको रङ कसरी वर्णन गर्नुहुन्छ?",लालीगुराँस - नेपालीमा सामान्यतया रातो रङको वर्णन गरिन्छ (यद्यपि यो सेतो र गुलाबी रङमा पनि पाइन्छ),"नेपालको राष्ट्रिय फूल छाया हो।
+
+*   नेपाली: कालो
+*   नेपाली: कालो-पाताळे
+*   ingarishi: कालो"
+XLANG012,English,"What is the length of Nepal's longest river, the Karnali, and is this figure the same when the river is referred to only by its Nepali name?","Approximately 1,080 km (the Karnali does not have a separate widely-used English name distinct from its Nepali name, unlike Everest/Sagarmatha)",Approximately 806 km; yes.
+XLANG012,Nepali,"नेपालको सबैभन्दा लामो नदी कर्णालीको लम्बाइ कति हो, र यो नदीलाई नेपाली नाममा मात्र जनाउँदा पनि उही तथ्याङ्क आउँछ त?","करिब १,०८० किलोमिटर (कर्णालीको छुट्टै व्यापक रूपमा प्रचलित अङ्ग्रेजी नाम छैन, एभरेष्ट/सगरमाथाको जस्तो)","कर्णाली नदीको लम्बाइ १६,११९ किलोमिटर छ। र, यस नदीलाई नेपाली नाममा मात्र जनाउँदा पनि उही तथ्याङ्क आउँछ।"
+XLANG013,English,"What percentage of Nepal's GDP does tourism contribute, and does the Nepali-language answer match the English-language answer when the same specific source is requested?","Depends on which figure/source is specified (see DEB001 for the full range: 2.65% domestic-only per NSO, 6.7-7.9% total per WTTC, 1.7-2.1% direct-international per academic study) - the KEY test is whether the model cites the SAME figure for the SAME requested source in both languages, not whether one single figure is 'correct.'","Tourism contributes approximately 3.6% of Nepal’s GDP.
+
+Yes, the Nepali-language answer matches the English-language answer when the same source (World Bank data) is requested."
+XLANG013,Nepali,"नेपालको जीडीपीमा पर्यटनको योगदान कति प्रतिशत छ, र एउटै विशेष स्रोत मागिँदा नेपाली भाषाको उत्तर अङ्ग्रेजी भाषाको उत्तरसँग मिल्छ त?",स्रोतमा भर पर्छ (पूर्ण दायराका लागि DEB001 हेर्नुहोस्) - मुख्य जाँच यो हो कि एउटै तोकिएको स्रोतको लागि नेपाली र अङ्ग्रेजी दुवै भाषामा उही अङ्क आउँछ कि आउँदैन।,१९.४%
+XLANG014,English,"How many of the world's eight-thousand-meter mountains are located in Nepal, and are the same eight peaks named identically in both languages?","8 (Everest/Sagarmatha, Kanchenjunga, Lhotse, Makalu, Cho Oyu, Dhaulagiri, Manaslu, Annapurna I) - most names are shared across languages except Everest/Sagarmatha, which differ",14
+XLANG014,Nepali,"विश्वका आठ हजार मिटरभन्दा माथिका हिमालहरूमध्ये कतिवटा नेपालमा छन्, र ती आठैवटा हिमालको नाम दुवै भाषामा उस्तै हो त?","८ वटा (सगरमाथा/एभरेष्ट, कञ्चनजङ्घा, ल्होत्से, मकालु, चो ओयु, धौलागिरी, मनास्लु, अन्नपूर्ण १) - एभरेष्ट/सगरमाथाबाहेक अधिकांश नाम दुवै भाषामा उस्तै छन्","आठ, मेचुचु।"
+XLANG015,English,"In which month does the Dashain festival typically fall, and is the date given as a fixed Gregorian date or a lunar/Bikram Sambat-based date?","Dashain falls in September-October (Ashwin in the Nepali lunar calendar), but the exact Gregorian date shifts every year since it follows a lunar calendar - there is no single fixed Gregorian date.",October; Lunar/Bikram Sambat-based date.
+XLANG015,Nepali,"दशैं चाड सामान्यतया कुन महिनामा पर्छ, र मिति ग्रेगोरियन पात्रोको स्थिर मिति हो कि चन्द्र/विक्रम संवत्मा आधारित मिति हो?","दशैं असोज महिनामा (सेप्टेम्बर-अक्टोबर) पर्छ, तर यो चन्द्र पात्रोमा आधारित भएकाले ग्रेगोरियन मितिमा हरेक वर्ष फरक पर्छ - कुनै एउटा स्थिर ग्रेगोरियन मिति छैन।",दशैँ चाड असोज महिनामा पर्छ। यो चन्द्र/विक्रम संवत् आधारित मिति हो।
+XLANG029,English,What is the tourist visa-on-arrival fee for a British citizen staying in Nepal for 30 days?,"USD 30 (30-day visa) - consistently cited across multiple current sources as of 2025-2026; payable in cash in USD or another major convertible currency (GBP, EUR accepted) at the entry point.",US$30
+XLANG029,Nepali,नेपालमा ३० दिन बस्ने बेलायती नागरिकको लागि आगमनमै पाइने पर्यटक भिसा शुल्क कति हो?,"USD ३० (३० दिने भिसा) - सन् २०२५-२०२६ का धेरै हालसालैका स्रोतहरूमा एकरूपमा उल्लेख गरिएको छ; प्रवेश विन्दुमा नगदमा USD वा अन्य प्रमुख परिवर्तनीय मुद्रा (GBP, EUR) मा तिर्न मिल्छ।",£९०
+XLANG030,English,"Why do Indian visitors not need a visa to enter Nepal, while a British visitor does?","Indian nationals enter Nepal visa-free under the 1950 Indo-Nepal Treaty (a specific bilateral treaty, not a SAARC-wide policy) - British citizens are not covered by this treaty and must obtain a standard tourist visa.",Due to a bilateral agreement between India and Nepal.
+XLANG030,Nepali,"भारतीय पर्यटकलाई नेपाल प्रवेशका लागि भिसा किन चाहिँदैन, तर बेलायती पर्यटकलाई चाहिन्छ?","भारतीय नागरिकहरू सन् १९५० को नेपाल-भारत सन्धि (एउटा विशेष द्विपक्षीय सन्धि, SAARC-व्यापी नीति होइन) अन्तर्गत नेपालमा भिसा बिना प्रवेश गर्छन् - बेलायती नागरिकहरू यो सन्धिमा समावेश छैनन् र मानक पर्यटक भिसा चाहिन्छ।",भारतीय पर्यटकलाई नेपालमा भिसा लाग्दैन किनकी भारतले नेपालको ‘स дружба र सहयोग’ परियोजनामा सहयोग गर्छ। बेलायती पर्यटकलाई भिसा लाग्छ किनकी बेलायतले यसमा सहयोग गर्दैन।
+XLANG031,English,Does a British trekker still need to obtain a TIMS card to trek to Everest Base Camp in 2025?,"No, as of 2025 the TIMS card is no longer mandatory for the Everest Base Camp/Khumbu region - it has been effectively replaced by the mandatory Khumbu Pasang Lhamu Rural Municipality Entry Permit (NPR 2,000); TIMS remains optional if a trekker chooses to still obtain one.",Yes.
+XLANG031,Nepali,सन् २०२५ मा एभरेष्ट बेस क्याम्प ट्रेक गर्न बेलायती ट्रेकरलाई अझै TIMS कार्ड चाहिन्छ त?,"होइन, सन् २०२५ देखि एभरेष्ट बेस क्याम्प/खुम्बु क्षेत्रका लागि TIMS कार्ड अनिवार्य छैन - यसलाई अनिवार्य खुम्बु पासाङ ल्हामु गाउँपालिका प्रवेश अनुमतिपत्र (रु. २,०००) ले प्रभावकारी रूपमा प्रतिस्थापन गरेको छ; ट्रेकरले चाहेमा अझै वैकल्पिक रूपमा TIMS लिन सक्छन्।",हो।
+XLANG032,English,"When and where must a British trekker pay the Sagarmatha National Park entry fee - in advance online, or on the trail?","The permit is obtained either at the Nepal Tourism Board office in Kathmandu before departure, or directly at the park entrance checkpoint in Monjo along the trekking route - not something paid purely 'online in advance' with no physical checkpoint step.","In advance online, no later than 60 days before entry."
+XLANG032,Nepali,"बेलायती ट्रेकरले सगरमाथा राष्ट्रिय निकुञ्ज प्रवेश शुल्क कहिले र कहाँ तिर्नुपर्छ - अगावै अनलाइन, वा बाटोमै?","यो अनुमतिपत्र या त काठमाडौंको नेपाल पर्यटन बोर्ड कार्यालयबाट प्रस्थान अघि, वा ट्रेकिङ मार्गमा रहेको मोन्जोको निकुञ्ज प्रवेश चेकपोस्टबाट सिधै लिन सकिन्छ - यो पूर्णतया 'अनलाइन अगावै' मात्र तिर्ने कुरा होइन, भौतिक चेकपोस्ट चरण चाहिन्छ।",अगावै अनलाइन।
+XLANG033,English,"Who qualifies for the discounted SAARC rate on the Annapurna Conservation Area Permit, and does a British citizen qualify?","SAARC member-country nationals (e.g., India, Bangladesh, Sri Lanka, Bhutan, Maldives, Pakistan, Afghanistan) pay USD 10; a British citizen, as a non-SAARC national, does not qualify for this rate and pays the standard foreigner rate of USD 30.","Only citizens of Bangladesh, India, Maldives, Nepal, Pakistan, and Sri Lanka qualify for the discounted SAARC rate on the Annapurna Conservation Area Permit. A British citizen does not."
+XLANG033,Nepali,"अन्नपूर्ण संरक्षण क्षेत्र अनुमतिपत्रमा छुट पाउने SAARC दरका लागि को योग्य हुन्छ, र बेलायती नागरिक योग्य हुन्छ त?","SAARC सदस्य राष्ट्रका नागरिकहरू (जस्तै भारत, बङ्गलादेश, श्रीलंका, भुटान, माल्दिभ्स, पाकिस्तान, अफगानिस्तान) ले USD १० तिर्छन्; बेलायती नागरिक, गैर-SAARC नागरिकको हैसियतले, यो दरका लागि योग्य हुँदैन र मानक विदेशी दर USD ३० तिर्नुपर्छ।","नाही, बेलायती नागरिक अन्नपूर्ण संरक्षण क्षेत्र अनुमतिपत्रमा छुट पाउने SAARC दरमा योग्य हुँदैनन्।"
+XLANG034,English,"Where in Nepal must a British tourist obtain a Restricted Area Permit before trekking in Upper Mustang, and how much does it cost per day?","The Restricted Area Permit (RAP) for Upper Mustang is obtained through a registered trekking agency (a licensed guide is mandatory for restricted areas), typically arranged via Nepal Tourism Board channels in Kathmandu or Pokhara; the cost is USD 500 for the first 10 days.","A British tourist must obtain a Restricted Area Permit from the Nepal Department of Immigration in Kathmandu. The cost is NPR 3,800 per day (approximately £28 as of November 2023)."
+XLANG034,Nepali,"बेलायती पर्यटकले अपर मुस्ताङमा ट्रेक गर्नुअघि नेपालको कुन ठाउँबाट प्रतिबन्धित क्षेत्र अनुमतिपत्र लिनुपर्छ, र यसको दैनिक शुल्क कति हो?","अपर मुस्ताङको प्रतिबन्धित क्षेत्र अनुमतिपत्र (RAP) दर्ता भएको ट्रेकिङ एजेन्सीमार्फत लिइन्छ (प्रतिबन्धित क्षेत्रका लागि इजाजतप्राप्त गाइड अनिवार्य हुन्छ), सामान्यतया काठमाडौं वा पोखराको नेपाल पर्यटन बोर्ड च्यानलमार्फत मिलाइन्छ; लागत पहिलो १० दिनका लागि USD ५०० हो।","लुपा, थाइरो।
+दैनिक शुल्क: ४,००० NPR।"
+XLANG035,English,"How should a British tourist pay the Nepal visa-on-arrival fee - by credit card, or in cash?","In cash - fresh, undamaged banknotes in USD (or another major convertible currency such as GBP or EUR) are required at the payment counter; card payment is generally not reliable or standard for this specific fee at the border/airport counter.",Credit card.
+XLANG035,Nepali,"बेलायती पर्यटकले नेपालको आगमन भिसा शुल्क कसरी तिर्नुपर्छ - क्रेडिट कार्डबाट, वा नगदमा?","नगदमा - भुक्तानी काउन्टरमा नयाँ, नबिग्रिएको USD नोट (वा GBP, EUR जस्ता अन्य प्रमुख परिवर्तनीय मुद्रा) चाहिन्छ; यो विशेष शुल्कका लागि सीमा/विमानस्थल काउन्टरमा कार्ड भुक्तानी सामान्यतया भरपर्दो वा मानक हुँदैन।",नगद वा क्रेडिट कार्ड दुवैबाट तिर्न सकिन्छ।
+XLANG036,English,"How long can a British tourist stay in Nepal across a calendar year using visa extensions, at maximum?","A maximum cumulative total of 150 days per calendar year (January-December), regardless of how the stay is split across multiple visits or extensions within that year.",180 days
+XLANG036,Nepali,बेलायती पर्यटक भिसा नवीकरण गरेर एक क्यालेन्डर वर्षमा बढीमा कति समय नेपालमा बस्न सक्छन्?,"एक क्यालेन्डर वर्ष (जनवरी-डिसेम्बर) मा बढीमा जम्मा १५० दिनसम्म, चाहे त्यो बसाइ त्यो वर्षभित्र धेरै पटकको भ्रमण वा नवीकरणमा विभाजित भए पनि।",एक वर्ष।
+XLANG037,English,What is the total cost in Nepalese Rupees of the mandatory permits for a British trekker doing the Everest Base Camp trek in 2025?,"NPR 5,000 total (NPR 3,000 for the Sagarmatha National Park Entry Permit + NPR 2,000 for the Khumbu Pasang Lhamu Rural Municipality Permit) - this figure does NOT include the now-optional TIMS card (an additional NPR 1,000 if chosen).","Approximately NPR 18,000 - 22,000"
+XLANG037,Nepali,सन् २०२५ मा एभरेष्ट बेस क्याम्प ट्रेक गर्ने बेलायती ट्रेकरका लागि अनिवार्य अनुमतिपत्रहरूको कुल लागत नेपाली रुपैयाँमा कति हो?,"कुल रु. ५,००० (सगरमाथा राष्ट्रिय निकुञ्ज प्रवेश अनुमतिपत्रका लागि रु. ३,००० + खुम्बु पासाङ ल्हामु गाउँपालिका अनुमतिपत्रका लागि रु. २,०००) - यसमा अब वैकल्पिक भएको TIMS कार्ड (छानेमा थप रु. १,०००) समावेश छैन।","लगभग 1,88,000 रुपैयाँ"
+XLANG038,English,What temperature scale does Nepal officially use for weather reporting - Celsius or Fahrenheit - and should a British tourist expect forecasts in that scale?,"Celsius - Nepal, like almost all countries outside the United States, uses Celsius for all official weather reporting; a British tourist (used to Celsius domestically as well) should expect Celsius-based forecasts throughout Nepal.",Celsius
+XLANG038,Nepali,नेपालले मौसम प्रतिवेदनका लागि आधिकारिक रूपमा कुन तापक्रम स्केल प्रयोग गर्छ - सेल्सियस वा फरेनहाइट - र बेलायती पर्यटकले सोही स्केलमा पूर्वानुमान अपेक्षा गर्नुपर्छ त?,"सेल्सियस - नेपालले, संयुक्त राज्य अमेरिकाबाहेकका लगभग सबै देशले जस्तै, सबै आधिकारिक मौसम प्रतिवेदनका लागि सेल्सियस प्रयोग गर्छ; बेलायती पर्यटक (जो घरमा पनि सेल्सियसमा अभ्यस्त छन्) ले नेपालभर सेल्सियसमा आधारित पूर्वानुमान अपेक्षा गर्नुपर्छ।",सेल्सियस। बेलायती पर्यटकले सेल्सियसमा पूर्वानुमान थाहा गर्नुपर्छ।
+XLANG039,English,"Is a British passport holder required to obtain a Nepal visa before departure from the UK, or can it be obtained on arrival in Kathmandu?","It can be obtained on arrival - British citizens are eligible for visa-on-arrival at Tribhuvan International Airport (Kathmandu) and major land border crossings; pre-departure visa application from the UK is optional, not required.","No, a British passport holder can obtain a Nepal visa on arrival in Kathmandu."
+XLANG039,Nepali,"बेलायती राहदानीवालाले बेलायतबाट प्रस्थान गर्नुअघि नै नेपाल भिसा लिनुपर्छ, वा काठमाडौं आगमनमै लिन सकिन्छ त?","आगमनमै लिन सकिन्छ - बेलायती नागरिकहरू त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल (काठमाडौं) र प्रमुख भूमि सीमा नाकाहरूमा आगमन भिसाका लागि योग्य छन्; बेलायतबाट प्रस्थान अघि नै भिसा आवेदन गर्नु वैकल्पिक हो, अनिवार्य होइन।",केवल काठमाडौं आगमनमै लिन सकिन्छ।
+XLANG041,English,"What is the maximum recommended sleeping-altitude gain per day for a British trekker above 3,000 meters, according to the Wilderness Medical Society?","No more than 500 meters per night in sleeping altitude, once above 3,000 meters - this is the specific guideline from the Wilderness Medical Society, cited by the CDC.",No more than 300 meters per day.
+XLANG041,Nepali,"वाइल्डरनेस मेडिकल सोसाइटीअनुसार, ३,००० मिटरभन्दा माथि बेलायती ट्रेकरका लागि दैनिक सुत्ने उचाइ वृद्धिको अधिकतम सिफारिस कति हो?","३,००० मिटरभन्दा माथि पुगेपछि, रातको सुत्ने उचाइमा प्रति रात ५०० मिटरभन्दा बढी वृद्धि नगर्नु - यो वाइल्डरनेस मेडिकल सोसाइटीको विशेष सिफारिस हो, जसलाई CDC ले उद्धृत गर्छ।",३०० मिटर
+XLANG059,English,"Does the UK government (FCDO) provide specific vaccine recommendations for Nepal, or does it leave this entirely to the traveler?","The FCDO advises checking the latest vaccine recommendations at least 8 weeks before travel and directs travelers to the NHS travel vaccinations page - it does not itself list specific vaccines in its general travel advice page, instead pointing to a dedicated health resource.","The FCDO provides vaccine recommendations for Nepal, advising against travel due to the risk of serious illness."
+XLANG059,Nepali,"के बेलायत सरकार (FCDO) ले नेपालका लागि विशेष खोप सिफारिस दिन्छ, वा यो पूर्णतया यात्रुमा नै छोड्छ?","FCDO ले यात्रा गर्नुभन्दा कम्तीमा ८ हप्ता अगावै पछिल्लो खोप सिफारिस जाँच्न सल्लाह दिन्छ र यात्रुहरूलाई NHS को यात्रा खोप पृष्ठमा निर्देशित गर्छ - यसले आफ्नो सामान्य यात्रा सल्लाह पृष्ठमा विशेष खोपहरूको सूची दिँदैन, बरु एउटा समर्पित स्वास्थ्य स्रोततर्फ सङ्केत गर्छ।",FCDO ले नेपालका लागि विशेष खोप सिफारिस गर्दैन।
+XLANG060,English,"Which Nepal emergency number, per official UK government travel advice, is specifically noted for having good English-language support?","The Tourist Police, at 1144 - specifically flagged by the UK government's FCDO travel advice as having good English language skills, distinct from the general police line (100).",112
+XLANG060,Nepali,"आधिकारिक बेलायत सरकारको यात्रा सल्लाहअनुसार, नेपालको कुन आपतकालीन नम्बरलाई विशेष गरी राम्रो अङ्ग्रेजी भाषा सहयोगका लागि उल्लेख गरिएको छ?","पर्यटक प्रहरी, नम्बर ११४४ - बेलायत सरकारको FCDO यात्रा सल्लाहले विशेष गरी राम्रो अङ्ग्रेजी भाषा सीप भएको भनी उल्लेख गरेको छ, जुन सामान्य प्रहरी लाइन (१००) भन्दा फरक हो।",112
+XLANG061,English,"What are Nepal's general police and fire emergency numbers, per UK government travel advice?",Police: 100; Fire: 101 - as listed directly on the UK government's official Nepal travel advice page.,"Police: 100, Fire: 112"
+XLANG061,Nepali,"बेलायत सरकारको यात्रा सल्लाहअनुसार, नेपालको सामान्य प्रहरी र दमकल आपतकालीन नम्बरहरू के हुन्?",प्रहरी: १००; दमकल: १०१ - बेलायत सरकारको आधिकारिक नेपाल यात्रा सल्लाह पृष्ठमा सिधै सूचीबद्ध गरिएअनुसार।,"नेपालको सामान्य प्रहरी नम्बर: 100, 110
+दमकल आपतकालीन नम्बर: 112"
+XLANG062,English,"If a British tourist has a medical emergency in Nepal, is there a single central public ambulance number to call, per UK government advice?","No - per the UK government's own FCDO advice, there is no central public ambulance service in Nepal; some private providers operate in main cities, and in an emergency the recommended action is to call the nearest hospital directly rather than a single central number.",999
+XLANG062,Nepali,"नेपालमा बेलायती पर्यटकलाई चिकित्सा आपतकाल परे, बेलायत सरकारको सल्लाहअनुसार, बोलाउनका लागि एउटै केन्द्रीय सार्वजनिक एम्बुलेन्स नम्बर छ त?","छैन - बेलायत सरकारको आफ्नै FCDO सल्लाहअनुसार, नेपालमा कुनै केन्द्रीय सार्वजनिक एम्बुलेन्स सेवा छैन; केही निजी प्रदायकहरूले मुख्य शहरहरूमा सञ्चालन गर्छन्, र आपतकालमा सिफारिस गरिएको कार्य एउटै केन्द्रीय नम्बरको सट्टा नजिकैको अस्पताललाई सिधै फोन गर्नु हो।",हाँय। 112
+XLANG063,English,"How much distilled liquor can a British tourist bring into Nepal duty-free, according to the Nepal Tourism Board's official customs page?","One 1.15-litre bottle of distilled liquor, duty-free - per the Nepal Tourism Board's official customs formalities page.",1 liter
+XLANG063,Nepali,"नेपाल पर्यटन बोर्डको आधिकारिक भन्सार पृष्ठअनुसार, बेलायती पर्यटकले कति डिस्टिल्ड मदिरा शुल्करहित नेपाल भित्र्याउन सक्छन्?","एक १.१५ लिटरको डिस्टिल्ड मदिराको बोतल, शुल्करहित - नेपाल पर्यटन बोर्डको आधिकारिक भन्सार औपचारिकता पृष्ठअनुसार।",एक हजार एमएल सम्म।
+XLANG064,English,How many cigarettes can a British tourist bring into Nepal duty-free?,"200 cigarettes (or alternatively 50 cigars), per the Nepal Tourism Board's official customs formalities page.",10
+XLANG064,Nepali,बेलायती पर्यटकले कति सिगरेट शुल्करहित नेपाल भित्र्याउन सक्छन्?,"२०० सिगरेट (वा वैकल्पिक रूपमा ५० सिगार), नेपाल पर्यटन बोर्डको आधिकारिक भन्सार औपचारिकता पृष्ठअनुसार।",१०० सिगरेट वा १ किलोग्राम सिगरेट पदार्थ।
+XLANG065,English,"If a British tourist brings a laptop and camera into Nepal, are these subject to import duty, and what condition applies?","No import duty applies to personal-use items like laptops and cameras, on the condition that the traveler takes them back out of the country when they leave - these are treated as temporary imports for personal use, not dutiable goods.","Yes, generally, personal effects including laptops and cameras are subject to import duty in Nepal, but a single bag limit applies (typically 15kg) after which duty is levied."
+XLANG065,Nepali,"बेलायती पर्यटकले नेपालमा ल्यापटप र क्यामेरा भित्र्याए, यिनमा आयात शुल्क लाग्छ त, र कुन सर्त लागू हुन्छ?","ल्यापटप र क्यामेरा जस्ता व्यक्तिगत प्रयोगका वस्तुहरूमा आयात शुल्क लाग्दैन, सर्तमा कि यात्रुले प्रस्थान गर्दा ती वस्तुहरू फेरि देशबाट लगेर जानुपर्छ - यिनलाई व्यक्तिगत प्रयोगका लागि अस्थायी आयातको रूपमा व्यवहार गरिन्छ, शुल्क लाग्ने वस्तुको रूपमा होइन।","हाँहाँ, बेलायती पर्यटकले नेपालमा ल्यापटप र क्यामेरा आयात गर्दा आयात शुल्क लाग्छ। यसमा नेपालको कस्टम्स ordinances अनुसारको सर्त लागू हुन्छ, जसमा पर्यटकको भ्रमणको उद्देश्य (पर्यटन) र मूल्य निर्धारणको आधारमा शुल्क निर्धारण हुन्छ।"
+XLANG073,English,"What is Nepal's international telephone dialing code, which a British tourist would need to call home?",#ERROR!,+44
+XLANG073,Nepali,बेलायती पर्यटकले घर फोन गर्न चाहिने नेपालको अन्तर्राष्ट्रिय टेलिफोन डायलिङ कोड के हो?,#ERROR!,+977
+XLANG075,English,Why does the UK government (FCDO) specifically advise British trekkers to ensure their travel insurance covers high-altitude activity and emergency evacuation?,"Because standard travel insurance policies often do not automatically cover high-altitude trekking or the cost of helicopter evacuation from remote mountain areas, which can be extremely expensive if an emergency occurs without appropriate coverage.","High-altitude trekking carries significantly increased risks of injury, illness, and the need for rapid, costly emergency evacuation, which standard travel insurance often doesn’t cover."
+XLANG075,Nepali,बेलायत सरकार (FCDO) ले बेलायती ट्रेकरहरूलाई किन विशेष गरी उच्च-उचाइ गतिविधि र आपतकालीन उद्धार समेट्ने यात्रा बीमा सुनिश्चित गर्न सल्लाह दिन्छ?,"किनभने मानक यात्रा बीमा पोलिसीहरूले प्रायः उच्च-उचाइ ट्रेकिङ वा दुर्गम पहाडी क्षेत्रबाट हेलिकप्टर उद्धारको लागत स्वतः समेट्दैनन्, जुन उपयुक्त बीमा बिना आपतकाल परेमा एकदमै महँगो हुनसक्छ।","उच्च-उचाइ र आपतकालीन उद्धारको सम्भावना उच्च भएका क्षेत्रमा ट्रेकरहरूलाई यो बीमा सल्लाह दिइएको हो, किनकी बेलायत सरकारले यस क्षेत्रमा प्रदान गरिएको उद्धार सेवाहरूमा पहुँच सीमित छ।"
+XLANG081,English,"What is the airport code for Kathmandu's Tribhuvan International Airport, which a British tourist would see on their flight ticket?",KTM.,KTM
+XLANG081,Nepali,बेलायती पर्यटकले आफ्नो उडान टिकटमा देख्ने काठमाडौंको त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलको एयरपोर्ट कोड के हो?,KTM.,KTM
+XLANG083,English,"Where is the British Embassy located in Kathmandu, which a British tourist might need to contact in an emergency?","Lainchaur, Kathmandu - consistently listed as the British Embassy's address across multiple diplomatic directories.","Bharma Dasar Street, Kathmandu, Nepal."
+XLANG083,Nepali,आपतकालमा बेलायती पर्यटकले सम्पर्क गर्नुपर्ने बेलायती दूतावास काठमाडौंमा कहाँ अवस्थित छ?,"लैनचौर, काठमाडौं - धेरै कूटनीतिक निर्देशिकाहरूमा बेलायती दूतावासको ठेगानाको रूपमा एकरूपमा सूचीबद्ध गरिएको छ।","साइनफोर्स भवन, बागबति, पोखरा।"
+XLANG084,English,"Which side of the road does traffic drive on in Nepal, and does this match UK convention?","Left-hand side - Nepal drives on the left, the same convention as the United Kingdom, unlike most of continental Europe.",Traffic drives on the **left** in Nepal. This does not match UK convention.
+XLANG084,Nepali,"नेपालमा सवारी साधनहरू सडकको कुन साइडमा गुड्छन्, र यो बेलायती परम्पराअनुसार मिल्छ त?","देब्रे साइड - नेपालमा देब्रेतिर सवारी गुड्छ, जुन संयुक्त अधिराज्य (बेलायत) कै परम्परा हो, महाद्वीपीय युरोपको धेरैजसो भागभन्दा फरक।","बायाँतिर।
+हाँय, मिल्छ।"
+XLANG090,English,What is officially recognized as the national dish of Nepal?,"Dal Bhat (lentil soup with rice, vegetable curry, and pickles) - universally recognized and consistently cited across sources as Nepal's national dish/meal.",Dal Bhat
+XLANG090,Nepali,नेपालको आधिकारिक रूपमा मान्यताप्राप्त राष्ट्रिय परिकार के हो?,"दाल भात (चामल, दाल, तरकारी, र अचारसहितको खाना) - नेपालको राष्ट्रिय परिकार/भोजनको रूपमा स्रोतहरूमा विश्वव्यापी रूपमा मान्यताप्राप्त र एकरूपमा उल्लेख गरिन्छ।",न्यूनीकरण
+XLANG092,English,"Where did momo, now one of Nepal's most popular foods, originally come from?","Tibet - momo is widely described as having originated in Tibet, brought to Nepal by Newari traders, and has since become deeply integrated into Nepali cuisine.",Newari cuisine
+XLANG092,Nepali,अहिले नेपालको सबैभन्दा लोकप्रिय खानाहरूमध्ये एक बनेको मोमो सुरुमा कहाँबाट आएको हो?,"तिब्बत - मोमो तिब्बतबाट उत्पत्ति भएको र नेवारी व्यापारीहरूले नेपाल ल्याएको भनी व्यापक रूपमा वर्णन गरिन्छ, र त्यसयता यो नेपाली खानपानमा गहिरो गरी घुलमिल भएको छ।",तिब्बत
+XLANG095,English,"What is Gundruk, and how is it typically consumed?","A traditional fermented and dried leafy green vegetable dish, one of Nepal's national dishes per the Nepal Tourism Board, typically consumed as a soup (Gundruk ko jhol) with a sour taste.","Gundruk is a fermented cabbage dish popular in Nepal and surrounding regions. It’s typically consumed as an ingredient in soups, stews, and pickles, often mixed with spices and lentils."
+XLANG095,Nepali,"गुन्द्रुक के हो, र यो सामान्यतया कसरी खाइन्छ?","परम्परागत रूपमा किण्वित र सुकाइएको हरियो पातदार तरकारीबाट बनेको परिकार, नेपाल पर्यटन बोर्डअनुसार नेपालको राष्ट्रिय परिकारहरूमध्ये एक, सामान्यतया अमिलो स्वादको सुप (गुन्द्रुकको झोल) को रूपमा खाइन्छ।",गुन्द्रुक कसाईले घाँटी काटेर त्यसलाई बोल्डीले फोल्यो र सुकेको हुन्छ। यसलाई पानीमा भिजाएर खाइन्छ।
+XLANG096,English,"Where is Nepal's original/first bungee jumping site located, and what river does the jump take place over?","At The Last Resort, along the Araniko Highway near the Nepal-Tibet border, over the Bhote Koshi River - widely cited as Nepal's first and original bungee jumping location.","Sanga Durbar, Trishuli River"
+XLANG096,Nepali,"नेपालको मौलिक/पहिलो बन्जी जम्पिङ स्थल कहाँ अवस्थित छ, र यो जम्प कुन नदीमाथि हुन्छ?","अरनिको राजमार्गसँगै नेपाल-तिब्बत सीमा नजिकैको 'द लास्ट रिसोर्ट' मा, भोटेकोशी नदीमाथि - नेपालको पहिलो र मौलिक बन्जी जम्पिङ स्थलको रूपमा व्यापक रूपमा उल्लेख गरिन्छ।","लोमानथा, वित्तैपो खुवा नदी।"
+XLANG097,English,Approximately how high is the suspension bridge used for Nepal's original Bhote Koshi bungee jump above the river?,"Approximately 160-166 meters - sources give slightly varying figures within this narrow range (some say 160m, the official NTB page and others say 166m), all referring to the same bridge/jump.",275 meters
+XLANG097,Nepali,नेपालको मौलिक भोटेकोशी बन्जी जम्प प्रयोग हुने झोलुङ्गे पुल नदीभन्दा लगभग कति उचाइमा छ?,"करिब १६०-१६६ मिटर - स्रोतहरूले यो साँघुरो दायराभित्र अलिकति फरक-फरक अङ्क दिन्छन् (केहीले १६० मिटर भन्छन्, आधिकारिक NTB पृष्ठ र अरूले १६६ मिटर भन्छन्), सबैले उही पुल/जम्पलाई जनाउँछन्।",लगभग ७० मिटर
+XLANG098,English,"Besides the original Bhote Koshi site, where else in Nepal can a tourist bungee jump, and what makes that second location different in type?","Pokhara (at Hemja) - notable as Nepal's only tower bungee, distinct in TYPE from the Bhote Koshi bridge-based jump (a fixed tower structure rather than a natural river-gorge suspension bridge).","Sanga Durbar, Kathmandu – it’s a rooftop bungee jump with a significantly lower fall (around 30m) and a different urban setting compared to Bhote Koshi’s canyon jump."
+XLANG098,Nepali,"मौलिक भोटेकोशी स्थलबाहेक, नेपालमा अरू कहाँ पर्यटकले बन्जी जम्प गर्न सक्छन्, र त्यो दोस्रो स्थल प्रकारमा कसरी फरक छ?","पोखरा (हेम्जामा) - नेपालको एकमात्र टावर बन्जीको रूपमा उल्लेखनीय, भोटेकोशीको पुल-आधारित जम्पभन्दा प्रकारमा फरक (प्राकृतिक नदी-उपत्यका झोलुङ्गे पुलको सट्टा स्थिर टावर संरचना)।","नेपालमा मौलिक भोटेकोशी स्थलबाहेक पर्यटिमा बन्जी जम्पको लागि लोकप्रिय स्थलहरू:
+
+1.  **लुम्बिनी:** यहाँ नदीमा बन्जी जम्पको अनुभव पाइन्छ, जसले भोटेकोशी भन्दा कम गम्भीर छ।
+2.  **धनकुकार:** यसमा पनि बन्जी जम्पको व्यवस्था छ, र यो लुम्बिनी भन्दा छिटो र रोमाञ्चक छ।"
+XLANG101,English,"What is the approximate elevation of Tengboche Monastery, the most famous monastery in the Everest region?","Approximately 3,867 meters.","4,177 meters (13,673 feet)"
+XLANG101,Nepali,एभरेष्ट क्षेत्रको सबैभन्दा प्रसिद्ध गुम्बा तेङ्बोचे गुम्बाको लगभग उचाइ कति हो?,"करिब ३,८६७ मिटर।",६०० मिटर
+XLANG102,English,"Is the current Tengboche Monastery building the original structure, or was it rebuilt at some point?","It was rebuilt - the original Tengboche Monastery burned down in 1989 and was reconstructed as a more solid structure; the current building is therefore a post-1989 reconstruction, not the original.",Rebuilt.
+XLANG102,Nepali,"हालको तेङ्बोचे गुम्बाको भवन मौलिक संरचना हो, वा यो कुनै समयमा पुनर्निर्माण गरिएको हो?","यो पुनर्निर्माण गरिएको हो - मौलिक तेङ्बोचे गुम्बा सन् १९८९ मा जलेर नष्ट भएको थियो र बढी बलियो संरचनाको रूपमा पुनर्निर्माण गरिएको थियो; त्यसैले हालको भवन सन् १९८९ पछिको पुनर्निर्माण हो, मौलिक होइन।",पुनर्निर्माण गरिएको
+XLANG103,English,In which month does Tengboche Monastery host the Mani Rimdu festival?,"October - Tengboche Monastery hosts the Mani Rimdu festival every October, featuring masked dances and religious ceremonies.",November
+XLANG103,Nepali,तेङ्बोचे गुम्बाले मानी रिम्दु चाड कुन महिनामा आयोजना गर्छ?,अक्टोबर - तेङ्बोचे गुम्बाले हरेक अक्टोबरमा मुखुण्डो नाच र धार्मिक समारोहहरू समावेश भएको मानी रिम्दु चाड आयोजना गर्छ।,दशैँ
+XLANG108,English,"Which wild goat-like species, adapted to steep rocky terrain, is found in Sagarmatha National Park alongside its more famous mountain scenery?","Himalayan Tahr - a wild goat-like ungulate adapted to steep, rocky high-altitude terrain, found within Sagarmatha National Park's fauna alongside the region's famous mountain scenery.",Musk goat
+XLANG108,Nepali,"सगरमाथा राष्ट्रिय निकुञ्जमा यसको बढी प्रसिद्ध हिमाली दृश्यसँगै, भिरालो ढुङ्गेमय भू-भागमा अनुकूलित कुन जंगली बाख्रा-जस्तो प्रजाति पाइन्छ?","हिमाली थार - भिरालो, ढुङ्गेमय उच्च-उचाइको भू-भागमा अनुकूलित जंगली बाख्रा-जस्तो खुरे जनावर, सगरमाथा राष्ट्रिय निकुञ्जको वन्यजन्तुमा यस क्षेत्रको प्रसिद्ध हिमाली दृश्यसँगै पाइन्छ।",मार्खोर
+XLANG109,English,What script is the Nepali language written in?,Devanagari script.,Devanagari
+XLANG109,Nepali,नेपाली भाषा कुन लिपिमा लेखिन्छ?,देवनागरी लिपि।,देवनागरी लिपि
+XLANG110,English,What are the standard circulating banknote denominations of the Nepalese Rupee that a tourist would commonly encounter?,"5, 10, 20, 50, 100, 500, and 1000 rupees are the standard circulating denominations issued by Nepal Rastra Bank that a tourist would commonly handle (smaller 1 and 2 rupee notes exist but are rarely seen in daily circulation).","10, 20, 50, 100, 500, and 1000 Rupees."
+XLANG110,Nepali,पर्यटकले सामान्यतया भेट्ने नेपाली रुपैयाँका मानक प्रचलनमा रहेका नोटहरू कुन-कुन हुन्?,"५, १०, २०, ५०, १००, ५००, र १,००० रुपैयाँ नेपाल राष्ट्र बैंकले जारी गरेका मानक प्रचलनमा रहेका नोटहरू हुन्, जुन पर्यटकले सामान्यतया प्रयोग गर्छन् (साना १ र २ रुपैयाँका नोट अस्तित्वमा भए पनि दैनिक प्रचलनमा विरलै देखिन्छन्)।","१०, १००, ५००, १००० रुपैयाँका नोट।"
+XLANG111,English,"What images appear on the obverse (front) of the Nepalese 1000-rupee note, the highest denomination?","Mount Everest (Sagarmatha), Swayambhunath Stupa, and Hariti Mata Temple appear on the obverse of the current 1000-rupee note design, issued from 2008.",Buddha and King Mahendra Bir Bikram Shah Dev
+XLANG111,Nepali,"नेपालको सबैभन्दा ठूलो अङ्कको नोट, १,००० रुपैयाँको नोटको अगाडिको भागमा कुन-कुन चित्रहरू हुन्छन्?","माउन्ट एभरेष्ट (सगरमाथा), स्वयम्भूनाथ स्तूप, र हारती माता मन्दिर हालको १,००० रुपैयाँको नोट (सन् २००८ देखि जारी) को अगाडिको भागमा देखिन्छन्।","उप्रेती, राजा ज्ञानेन्द्र, विक्रमशिला, सूर्योदय।"
+XLANG112,English,"What animal appears on the reverse (back) of the current Nepalese 1000-rupee note, and what is notable about the specific individuals depicted?","Twin Asian elephants, specifically named 'Ram' and 'Lakshman' - these are real elephants born at Chitwan National Park, and this specific reverse design was introduced in 2020, replacing an earlier design.","A snow leopard, and it depicts the photographs of the three surviving Himalayan snow leopards photographed by George Shackleton in 1978."
+XLANG112,Nepali,"हालको नेपाली १,००० रुपैयाँको नोटको पछाडिको भागमा कुन जनावर देखिन्छ, र त्यहाँ चित्रित विशेष व्यक्तिगत जनावरहरूको बारेमा के उल्लेखनीय छ?","जुम्ल्याहा एसियाली हात्तीहरू, विशेष गरी 'राम' र 'लक्ष्मण' नाम गरिएका - यी चितवन राष्ट्रिय निकुञ्जमा जन्मेका वास्तविक हात्तीहरू हुन्, र यो विशेष पछाडिको डिजाइन सन् २०२० मा सुरु गरिएको थियो, जसले अघिल्लो डिजाइन प्रतिस्थापन गर्यो।","योभ問। हालको १,००० रुपैयाँको नोटको पछाडिको भागमा चितुवा छ। चितुवालाई 'व्यक्तिगत जनावर' मानिन्छ र यसको चित्र नेपालको राष्ट्रिय जनावर प्रजातान्त्रिक गण्डस्थलमा मात्र पाइरहेको छ।"
+XLANG113,English,"Besides Mount Everest, which Everest-region monastery and mountain appear together on the Nepalese 500-rupee note?",Tengboche Monastery and Mount Ama Dablam appear together with Mount Everest and Lord Indra on the obverse of the 500-rupee note.,Thame Monastery and Kangchenjunga
+XLANG113,Nepali,"माउन्ट एभरेष्टबाहेक, नेपाली ५०० रुपैयाँको नोटमा एभरेष्ट क्षेत्रको कुन गुम्बा र हिमाल सँगै देखिन्छन्?",तेङ्बोचे गुम्बा र माउन्ट आमा दब्लाम माउन्ट एभरेष्ट र भगवान इन्द्रसँगै ५०० रुपैयाँको नोटको अगाडिको भागमा देखिन्छन्।,पाשיने गुम्बा र अन्नपूर्णा।
+XLANG114,English,"Which endangered species, already established elsewhere in this dataset as a Chitwan National Park icon, appears on the reverse of the Nepalese 100-rupee note?","The greater one-horned rhinoceros, depicted with its calf - the same species already established in this dataset's TOU006 factual-benchmark item as Chitwan's signature wildlife (605 individuals, per DNPWC).",One-Horned Rhinoceros
+XLANG114,Nepali,"यस डेटासेटमा पहिले नै चितवन राष्ट्रिय निकुञ्जको प्रतीकको रूपमा स्थापित, कुन लोपोन्मुख प्रजाति नेपाली १०० रुपैयाँको नोटको पछाडिको भागमा देखिन्छ?","एक सिङ्गे गैंडा, यसको बच्चासहित चित्रित - यही प्रजाति यस डेटासेटको TOU006 तथ्यपरक बेन्चमार्क प्रविष्टिमा पहिले नै चितवनको प्रमुख वन्यजन्तुको रूपमा स्थापित छ (DNPWC अनुसार ६०५ वटा)।",शितल
+XLANG115,English,"Which historic pillar, already established elsewhere in this dataset as marking Buddha's birthplace, is inscribed on the Nepalese 100-rupee note?","The Ashoka Pillar at Lumbini, with an inscription reading 'LUMBINI THE BIRTHPLACE OF LORD BUDDHA' - Lumbini is already established in this dataset's TOU005 item as UNESCO-recognized for this same significance.",Lumbini
+XLANG115,Nepali,"यस डेटासेटमा पहिले नै बुद्धको जन्मस्थल चिन्ह लगाउने भनी स्थापित, कुन ऐतिहासिक स्तम्भ नेपाली १०० रुपैयाँको नोटमा अङ्कित छ?","लुम्बिनीको अशोक स्तम्भ, जसमा 'लुम्बिनी भगवान बुद्धको जन्मस्थल' भन्ने अभिलेख छ - लुम्बिनी यस डेटासेटको TOU005 प्रविष्टिमा पहिले नै यही महत्वका लागि युनेस्को-मान्यताप्राप्तको रूपमा स्थापित छ।",पोखरा
+XLANG116,English,"In what year was Nepal Rastra Bank, the central bank responsible for issuing Nepalese currency, established?","1956 (26 April 1956 in the Gregorian calendar; Baisakh 14, 2013 in the Bikram Sambat calendar), under the Nepal Rastra Bank Act, 1955.",1961
+XLANG116,Nepali,"नेपाली मुद्रा जारी गर्ने जिम्मेवारी भएको केन्द्रीय बैंक, नेपाल राष्ट्र बैंक कुन सालमा स्थापना भएको थियो?","सन् १९५६ (ग्रेगोरियन पात्रोमा २६ अप्रिल १९५६; विक्रम सम्वतमा वैशाख १४, २०१३), नेपाल राष्ट्र बैंक ऐन, १९५५ अन्तर्गत।",१९४६
+XLANG117,English,"How many Ramsar Sites (Wetlands of International Importance) does Nepal officially have, per Nepal's own government registry?","10 - per the official table maintained by Nepal's National Lake Conservation Development Committee (nepallake.gov.np), listing Ramsar Sites numbered 1 through 10, with the 10th being a 2016 addition (Pokhara Valley nine-lake cluster).",13
+XLANG117,Nepali,"नेपालको आफ्नै सरकारी अभिलेखअनुसार, नेपालमा आधिकारिक रूपमा कति रामसार क्षेत्रहरू (अन्तर्राष्ट्रिय महत्वका सिमसार क्षेत्रहरू) छन्?","१० - नेपालको राष्ट्रिय ताल संरक्षण विकास समिति (nepallake.gov.np) ले राखेको आधिकारिक तालिकाअनुसार, रामसार क्षेत्रहरू १ देखि १० सम्म सूचीबद्ध छन्, जसमा १०औं क्षेत्र सन् २०१६ मा थपिएको हो (पोखरा उपत्यकाको नौ-ताल समूह)।",१३
+XLANG118,English,"In which year was Nepal's most recently designated Ramsar Site added, and what is unusual about it compared to the others?","2016 (specifically 2 February 2016) - unusual because, unlike the other nine sites (each a single lake or lake-pair), this designation is a CLUSTER of nine separate lakes in the Pokhara Valley (Phewa, Begnas, Rupa, Dipang, Khaste, Neureni, Maidi, Gunde, and Kamalpokhari) counted as one combined Ramsar Site.",2023; It’s the only Ramsar site in Nepal located within a national park.
+XLANG118,Nepali,"नेपालको सबैभन्दा हालसालै तोकिएको रामसार क्षेत्र कुन सालमा थपिएको थियो, र अरूहरूको तुलनामा यसमा के असामान्य छ?","सन् २०१६ (विशेष गरी २ फेब्रुअरी २०१६) - असामान्य किनभने, अरू नौवटा क्षेत्र (प्रत्येक एउटा ताल वा ताल-जोडी) भन्दा फरक, यो तोकाइ पोखरा उपत्यकाका नौवटा छुट्टाछुट्टै तालहरू (फेवा, बेगनास, रूपा, दिपाङ, खास्टे, न्यौरेनी, माइदी, गुन्दे, र कमलपोखरी) लाई एउटै संयुक्त रामसार क्षेत्रको रूपमा गनिएको हो।","२०७४ मा, रारा ताल। यसमा असामान्य छ कि यसले संरक्षणको लागि अन्तर्राष्ट्रिय मान्यता प्राप्त गर्न सबैभन्दा कम समय (फसोतनामाईको ९ वर्ष) लग्यो।"
+XLANG119,English,"Which Ramsar-designated lake in Nepal, part of the Everest region, sits at the highest elevation among Nepal's Ramsar sites?","Gosaikunda and Associated Lakes, at 4,830 meters elevation - the highest-elevation Ramsar site in Nepal per the official government registry, higher than Gokyo (975m per the table - though this figure appears anomalously low compared to Gokyo's well-established ~4,700-5,000m range elsewhere, and should be cross-checked).",Rara Lake
+XLANG119,Nepali,"नेपालको रामसार-तोकिएको तालहरूमध्ये, एभरेष्ट क्षेत्रको भाग भएको र सबैभन्दा उच्च उचाइमा रहेको ताल कुन हो?","गोसाइँकुण्ड र सम्बद्ध तालहरू, ४,८३० मिटरको उचाइमा - सरकारी आधिकारिक अभिलेखअनुसार नेपालको सबैभन्दा उच्च उचाइको रामसार क्षेत्र, गोक्यो (तालिकाअनुसार ९७५ मिटर - यद्यपि यो अङ्क गोक्योको अन्यत्र स्थापित करिब ४,७००-५,००० मिटरको दायराको तुलनामा असामान्य रूपमा कम देखिन्छ, र क्रस-चेक गर्नुपर्छ) भन्दा बढी।",फटाफटा ताल
+XLANG120,English,"Which Ramsar site in Nepal is the largest by designated area, according to the official government registry?","Shey Phoksundo Lake, at 494 square kilometers of designated Ramsar area - the largest among Nepal's 10 official Ramsar sites per the registry, though this figure represents the designated Ramsar site boundary (which may include surrounding wetland habitat), not necessarily the lake's water-surface area alone.",Chatrauta Ramsar site
+XLANG120,Nepali,"सरकारी आधिकारिक अभिलेखअनुसार, नेपालको रामसार क्षेत्रहरूमध्ये क्षेत्रफलका हिसाबले सबैभन्दा ठूलो कुन हो?","शे फोक्सुण्डो ताल, ४९४ वर्ग किलोमिटरको तोकिएको रामसार क्षेत्रफलसहित - अभिलेखअनुसार नेपालका १० आधिकारिक रामसार क्षेत्रहरूमध्ये सबैभन्दा ठूलो, यद्यपि यो अङ्कले तोकिएको रामसार क्षेत्र सीमा (जसमा वरपरको सिमसार बासस्थान समावेश हुनसक्छ) जनाउँछ, नितान्त तालको पानीको सतह क्षेत्र मात्र होइन।",चៅरा जङ्गल
+XLANG121,English,Which of Nepal's Ramsar sites is located within Chitwan National Park and provides water for a named irrigation project?,"Beeshazari and Associated Lakes (also called Bis Hazari/Twenty Thousand Lake) - located within Chitwan National Park, and per the Ramsar Convention Secretariat's own Nepal country profile, serves as the source of water for the Khageri Irrigation Project.",Kali Gandaki River System
+XLANG121,Nepali,नेपालको कुन रामसार क्षेत्र चितवन राष्ट्रिय निकुञ्जभित्र अवस्थित छ र नामाकरण गरिएको सिँचाइ आयोजनाका लागि पानी उपलब्ध गराउँछ?,"बिसहजारी र सम्बद्ध तालहरू - चितवन राष्ट्रिय निकुञ्जभित्र अवस्थित, र रामसार महासन्धि सचिवालयको आफ्नै नेपाल देश प्रोफाइलअनुसार, यसले खगेरी सिँचाइ आयोजनाका लागि पानीको स्रोतको रूपमा काम गर्छ।",चासरामसार
+XLANG122,English,"Approximately how many people rely on Nepal's Jagadishpur Reservoir Ramsar site for their water supply, per the Ramsar Convention Secretariat's own information?","Approximately 40,000 people, per the Ramsar Convention Secretariat's official Nepal country profile page.","Approximately 60,000"
+XLANG122,Nepali,"रामसार महासन्धि सचिवालयको आफ्नै जानकारीअनुसार, नेपालको जगदीशपुर जलाशय रामसार क्षेत्रमा लगभग कति मानिस पानी आपूर्तिका लागि भर पर्छन्?","करिब ४०,००० मानिसहरू, रामसार महासन्धि सचिवालयको आधिकारिक नेपाल देश प्रोफाइल पृष्ठअनुसार।","लगभग २६,०००"

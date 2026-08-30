@@ -1,0 +1,859 @@
+﻿Question ID,Language,Question,Gold Answer,Gemma Answer
+CUL001,English,For how many days is the Dashain festival traditionally celebrated in Nepal?,15,16 days
+CUL001,Nepali,नेपालमा दशैं पर्व परम्परागत रूपमा कति दिनसम्म मनाइन्छ?,15,दशैं पर्व ११ दिनसम्म मनाइन्छ।
+CUL002,English,What is the name of the day during Tihar when dogs are worshipped?,Kukur Tihar,Ekadashi
+CUL002,Nepali,तिहारमा कुकुरको पूजा गरिने दिनलाई के भनिन्छ?,कुकुर तिहार,योगा डे
+CUL003,English,Which Nepali festival is known as the festival of lights?,Tihar,Tihar
+CUL003,Nepali,नेपालमा कुन पर्वलाई बत्तीको (उज्यालोको) पर्व भनिन्छ?,तिहार,दिव्या दशैti
+CUL004,English,The ritual of Ghatasthapana marks the beginning of which festival?,Dashain,Ganesh Chaturthi
+CUL004,Nepali,घटस्थापनाले कुन पर्वको सुरुवातलाई जनाउँछ?,दशैं,नव वर्ष
+CUL005,English,On which day of Dashain do elders give tika and jamara to younger family members?,Vijaya Dashami,Lalu
+CUL005,Nepali,दशैंमा मान्यजनले परिवारका सानालाई कुन दिन टीका र जमरा लगाइदिन्छन्?,विजयादशमी,दशैँको आइतवार
+CUL006,English,"On the final day of Tihar, sisters put tika on their brothers. What is this day called?",Bhai Tika,Bhaikhandi
+CUL006,Nepali,तिहारको अन्तिम दिन दिदीबहिनीले दाजुभाइलाई टीका लगाइदिने दिनलाई के भनिन्छ?,भाइटीका,यो दिनलाई 'बआदु' भनिन्छ।
+CUL007,English,What is the traditional national dress of Nepali men called?,Daura Suruwal,Daura-Suruwal
+CUL007,Nepali,नेपाली पुरुषको परम्परागत राष्ट्रिय पोशाकलाई के भनिन्छ?,दौरा सुरुवाल,दाहोकि
+CUL008,English,"What is the ring-shaped traditional Nepali rice bread, made especially during festivals, called?",Sel Roti,Seu Roti
+CUL008,Nepali,चाडपर्वमा विशेष गरी बनाइने गोलाकार परम्परागत नेपाली रोटीलाई के भनिन्छ?,सेलरोटी,सेती
+CUL009,English,Which flower is the national flower of Nepal?,Rhododendron (Lali Gurans),Rhododendron
+CUL009,Nepali,नेपालको राष्ट्रिय फूल कुन हो?,लालीगुराँस,रोজি
+CUL010,English,Which bird is the national bird of Nepal?,Himalayan Monal (Danphe),Himalayan Monal
+CUL010,Nepali,नेपालको राष्ट्रिय पक्षी कुन हो?,डाँफे (हिमाली मोनाल),चिता।
+CUL011,English,Which animal is the national animal of Nepal?,Cow,Himalayan tahr
+CUL011,Nepali,नेपालको राष्ट्रिय जनावर कुन हो?,गाई,धवलाधर चितुवा
+CUL012,English,In which Nepali month does the Nepali New Year begin?,Baishakh,Bhasanta (Jestha)
+CUL012,Nepali,नेपाली नयाँ वर्ष कुन नेपाली महिनाबाट सुरु हुन्छ?,वैशाख,गुरू अवस्था।
+CUL013,English,"In which city is the Kumari Ghar, the official residence of the living goddess Kumari, located?",Kathmandu,Kathmandu
+CUL013,Nepali,जीवित देवी कुमारीको आधिकारिक निवास कुमारी घर कुन सहरमा अवस्थित छ?,काठमाडौं,Kathmandu
+CUL014,English,Which festival is celebrated in Bhaktapur to mark the Nepali New Year?,Bisket Jatra,Chitwan Festival
+CUL014,Nepali,नेपाली नयाँ वर्षको अवसरमा भक्तपुरमा कुन जात्रा मनाइन्छ?,बिस्केट जात्रा,कर्म फागु।
+CUL015,English,"The Rato Machhindranath Jatra, Nepal's longest chariot festival, is mainly celebrated in which city?",Lalitpur (Patan),Kathmandu
+CUL015,Nepali,नेपालको सबैभन्दा लामो रथयात्रा रातो मच्छिन्द्रनाथ जात्रा मुख्य रूपमा कुन सहरमा मनाइन्छ?,ललितपुर (पाटन),लुम्बिनी
+CUL016,English,During which Kathmandu festival is the chariot of the living goddess Kumari pulled through the city?,Indra Jatra,Bhadra Puja
+CUL016,Nepali,काठमाडौंको कुन जात्रामा जीवित देवी कुमारीको रथ नगर परिक्रमा गराइन्छ?,इन्द्रजात्रा,कुमारी जात्रा
+CUL017,English,The living goddess Kumari is traditionally selected from which clan of the Newar community?,Shakya clan,Uyyan clan
+CUL017,Nepali,जीवित देवी कुमारी परम्परागत रूपमा नेवार समुदायको कुन थरबाट छनोट गरिन्छ?,शाक्य थर,कुमारी
+CUL018,English,Sonam Lhosar is the new year festival of which ethnic community of Nepal?,Tamang,Sherpa
+CUL018,Nepali,सोनाम ल्होसार नेपालको कुन जातीय समुदायको नयाँ वर्षको पर्व हो?,तामाङ,तिब्बती-भाषाभाषी जातीय समुदाय।
+CUL019,English,Gyalpo Lhosar is celebrated as the new year by which community of Nepal?,Sherpa,Sherpa
+CUL019,Nepali,ग्याल्पो ल्होसार नेपालको कुन समुदायले नयाँ वर्षका रूपमा मनाउँछ?,शेर्पा,टाइब्बतीय बौद्ध समुदाय।
+CUL020,English,The Maghi festival is celebrated as the new year by which community of Nepal?,Tharu,Newar community
+CUL020,Nepali,माघी पर्व नेपालको कुन समुदायले नयाँ वर्षका रूपमा मनाउँछ?,थारू,नेपाली कम्म्युनलगायतका समुदाय।
+CUL021,English,Yomari Punhi is a traditional festival of which community?,Newar,Newar
+CUL021,Nepali,योमरी पुन्ही कुन समुदायको परम्परागत पर्व हो?,नेवार,नाबालिग समुदाय
+CUL022,English,"In the Chhath festival, which deity is worshipped?",The Sun God (Surya),Shiva and Surya
+CUL022,Nepali,छठ पर्वमा कुन देवताको पूजा गरिन्छ?,सूर्य देवता,सूर्य देव
+CUL023,English,"During Haritalika Teej, Hindu women primarily worship which deity?",Lord Shiva,Hartiya Mata
+CUL023,Nepali,हरितालिका तीजमा हिन्दू महिलाहरूले मुख्य रूपमा कुन देवताको पूजा गर्छन्?,भगवान् शिव,शृंगार Deity (शृंगार देवलाई)
+CUL024,English,The Sakela dance is a traditional dance of which community?,Kirat Rai,Georgian
+CUL024,Nepali,साकेला नाच कुन समुदायको परम्परागत नाच हो?,किरात राई,न्यूवा समुदायको।
+CUL025,English,The Deuda song and dance tradition belongs mainly to which region of Nepal?,Far-western Nepal (Sudurpashchim),Tanahun
+CUL025,Nepali,देउडा गीत तथा नाच मुख्य रूपमा नेपालको कुन क्षेत्रसँग सम्बन्धित छ?,सुदूरपश्चिम क्षेत्र,लुम्बिनी।
+CUL026,English,The sarangi is traditionally associated with which occupational musician community of Nepal?,Gandharva (Gaine),Newar musicians
+CUL026,Nepali,सारङ्गी वाद्ययन्त्र परम्परागत रूपमा नेपालको कुन गायक समुदायसँग सम्बन्धित छ?,गन्धर्व (गाइने),थपाऊट समुदाय
+CUL027,English,What is the ensemble of five traditional Nepali musical instruments played at weddings and ceremonies called?,Panche Baja,Nyatiti
+CUL027,Nepali,विवाह तथा शुभ कार्यमा बजाइने पाँच परम्परागत नेपाली बाजाको समूहलाई के भनिन्छ?,पञ्चे बाजा,पाँच वाद्य समूह
+CUL028,English,Mithila folk art of Nepal is primarily associated with which city?,Janakpur,Birgunj
+CUL028,Nepali,नेपालको मिथिला लोककला मुख्य रूपमा कुन सहरसँग सम्बन्धित छ?,जनकपुर,जनकपुर
+CUL029,English,The language of the Newar community is also known by which name?,Nepal Bhasa,Newari
+CUL029,Nepali,नेवार समुदायको भाषालाई अर्को कुन नामले चिनिन्छ?,नेपालभाषा,"नेवार भाषा, थाई भाषा"
+CUL030,English,The famous 'Juju Dhau' (king of yogurts) is a speciality of which city?,Bhaktapur,Murshidabad
+CUL030,Nepali,प्रसिद्ध 'जुजु धौ' (दहीको राजा) कुन सहरको विशेष परिकार हो?,भक्तपुर,कान्Pur
+CUL031,English,The five-storey Nyatapola temple is located in which city?,Bhaktapur,Kathmandu
+CUL031,Nepali,पाँचतले न्यातपोल मन्दिर कुन सहरमा अवस्थित छ?,भक्तपुर,एथेंस
+CUL032,English,What is the title of Nepal's national anthem?,Sayaun Thunga Phulka,Sayaun Thunga Phoolka
+CUL032,Nepali,नेपालको राष्ट्रिय गानको शीर्षक के हो?,सयौँ थुँगा फूलका,सप्त सितापithecus
+CUL033,English,Who composed the music of Nepal's national anthem?,Amber Gurung,Narayan Gopal
+CUL033,Nepali,नेपालको राष्ट्रिय गानको सङ्गीत कसले रचना गरेका हुन्?,अम्बर गुरुङ,ट्रिनिटी देवराज पौडेल
+CUL034,English,Which sport was declared the national sport of Nepal in 2017?,Volleyball,Badminton
+CUL034,Nepali,सन् 2017 मा नेपालको राष्ट्रिय खेल कुन खेललाई घोषणा गरियो?,भलिबल,क्रिक्रेट
+CUL035,English,"National Paddy Day (Dhan Diwas), celebrating rice planting, falls on which date of the Nepali calendar?",Asar 15,Bikram Sambat 1128
+CUL035,Nepali,राष्ट्रिय धान दिवस नेपाली पात्रोअनुसार कुन दिन मनाइन्छ?,असार 15,असोज १५
+CUL036,English,Which Malla king is credited with adding humour and satire to the Gai Jatra festival?,Pratap Malla,Prithvi Narayan Shah
+CUL036,Nepali,गाईजात्रा पर्वमा हास्यव्यङ्ग्य थप्ने श्रेय कुन मल्ल राजालाई दिइन्छ?,प्रताप मल्ल,मल्ल राजा रणबहादुर शाह
+CUL037,English,"Mha Puja, celebrated by the Newar community, marks the new year of which calendar era?",Nepal Sambat,New Era Calendar
+CUL037,Nepali,नेवार समुदायले मनाउने म्हपूजाले कुन संवत्को नयाँ वर्षलाई जनाउँछ?,नेपाल संवत्,नेवार समुदायले मनाउने म्हपूजाले लुनी संवत्लाई जनाउँछ।
+CUL038,English,Who is credited with starting the Nepal Sambat era by paying off the people's debts?,Shankhadhar Sakhwa,King Prithvi Narayan Shah
+CUL038,Nepali,जनताको ऋण तिरिदिएर नेपाल संवत् सुरु गरेको श्रेय कसलाई दिइन्छ?,शङ्खधर साख्वा,राजा शम्भवा देव
+CUL039,English,What is the traditional Newar religious scroll painting called?,Paubha,Pashmina
+CUL039,Nepali,नेवार समुदायको परम्परागत धार्मिक चित्रकलालाई के भनिन्छ?,पौभा,म्युँकला
+CUL040,English,Which Nepali historian proposed the name 'Sagarmatha' for Mount Everest?,Baburam Acharya,Premananda P. Thapa
+CUL040,Nepali,सगरमाथा नाम प्रस्ताव गर्ने नेपाली इतिहासकार को हुन्?,बाबुराम आचार्य,श्रीमान नम्सु भण्डारी
+CUL041,English,Which Malla king built the Nyatapola temple?,Bhupatindra Malla,சிவarajendra Malla
+CUL041,Nepali,न्यातपोल मन्दिर कुन मल्ल राजाले निर्माण गराएका थिए?,भूपतीन्द्र मल्ल,बलभद्र मल्ल
+CUL042,English,Who wrote the lyrics of Nepal's national anthem 'Sayaun Thunga Phulka'?,Byakul Maila,Ram Bahadur Singh Mahatani
+CUL042,Nepali,राष्ट्रिय गान 'सयौँ थुँगा फूलका' का शब्द रचयिता को हुन्?,व्याकुल माइला,भक्तबहादुर मल्ल
+CUL043,English,Which two celestial symbols appear on the national flag of Nepal?,Moon and Sun,Dwarfs and pennons
+CUL043,Nepali,नेपालको राष्ट्रिय झन्डामा कुन दुई आकाशीय चिह्न अंकित छन्?,चन्द्र र सूर्य,ध्रुव तारा र सूर्यचक्र
+CUL044,English,What is the base colour of the national flag of Nepal?,Crimson red,Crimson red
+CUL044,Nepali,नेपालको राष्ट्रिय झन्डाको मुख्य रङ के हो?,सिम्रिक रातो,"रातो, वर्णक्रम र काखो।"
+CUL045,English,What is the border colour of the national flag of Nepal?,Blue,Crimson red
+CUL045,Nepali,नेपालको राष्ट्रिय झन्डाको किनाराको रङ के हो?,नीलो,पहेलो र blau (नीलो)
+CUL046,English,What is the traditional Nepali greeting made with joined palms called?,Namaste,Namaste
+CUL046,Nepali,हत्केला जोडेर गरिने परम्परागत नेपाली अभिवादनलाई के भनिन्छ?,नमस्ते,नमस्ते/नमस्कार
+CUL047,English,What is the curved traditional Nepali knife called?,Khukuri,Khukuri
+CUL047,Nepali,बाङ्गो आकारको परम्परागत नेपाली हतियार (चक्कु) लाई के भनिन्छ?,खुकुरी,तुलु।
+CUL048,English,The khukuri is famously associated with which Nepali soldiers?,Gurkha soldiers,Gurkhas
+CUL048,Nepali,खुकुरी कुन नेपाली सैनिकहरूसँग प्रख्यात रूपमा जोडिएको छ?,गोर्खा (गोर्खाली) सैनिक,मुर्सेको।
+CUL049,English,What is the woven bamboo basket carried on the back with a head strap called in Nepal?,Doko,Jholubato
+CUL049,Nepali,नाम्लोको सहायताले बोकिने बाँसको बुनेको टोकरीलाई नेपालमा के भनिन्छ?,डोको,बटु
+CUL050,English,"What is the traditional dress of Nepali women, consisting of a blouse and a long wrapped skirt, called?",Gunyo Cholo,Cholo
+CUL050,Nepali,चोलो र लामो फरिया/गुन्यू सहितको नेपाली महिलाको परम्परागत पोशाकलाई के भनिन्छ?,गुन्यू चोलो,पोशाक
+CUL051,English,What is the traditional Nepali cap woven from patterned Dhaka fabric called?,Dhaka Topi,Pashmina topi
+CUL051,Nepali,ढाका कपडाबाट बनेको परम्परागत नेपाली टोपीलाई के भनिन्छ?,ढाका टोपी,पोलायो
+CUL052,English,During which festival do groups go house to house singing Deusi and Bhailo?,Tihar,Teej
+CUL052,Nepali,कुन पर्वमा टोली-टोली बनाएर घरघरमा देउसी र भैलो खेलिन्छ?,तिहार,Dashain
+CUL053,English,"According to the 2021 census, which language is spoken as a mother tongue by the largest number of Nepalis?",Nepali,Nepali
+CUL053,Nepali,सन् 2021 को जनगणनाअनुसार सबैभन्दा धेरै नेपालीको मातृभाषा कुन हो?,नेपाली,नेपाली
+CUL054,English,What is the official language of Nepal as stated in the Constitution?,Nepali (in Devanagari script),Nepali
+CUL054,Nepali,संविधानअनुसार नेपालको सरकारी कामकाजको भाषा कुन हो?,देवनागरी लिपिको नेपाली,नेपाली भाषा
+CUL055,English,"What is the most popular traditional Nepali folk drum, played with both hands on two heads, called?",Madal,Madal
+CUL055,Nepali,दुवै हातले दुवैतिर बजाइने सबैभन्दा लोकप्रिय परम्परागत नेपाली बाजालाई के भनिन्छ?,मादल,दौलो
+CUL056,English,What is the tall bamboo swing erected during Dashain called?,Linge Ping,Phoolchoki
+CUL056,Nepali,दशैंमा गाडिने अग्लो बाँसको पिङलाई के भनिन्छ?,लिङ्गे पिङ,झ्याना
+CUL057,English,Which bird is worshipped on the first day of Tihar?,Crow,Kakatiya
+CUL057,Nepali,तिहारको पहिलो दिन कुन पन्छीको पूजा गरिन्छ?,काग,वाग्स
+CUL058,English,"What is the red mark of rice, curd and vermilion applied on the forehead during Dashain called?",Tika,Sindur tilak
+CUL058,Nepali,"दशैंमा निधारमा लगाइने चामल, दही र अबिरको रातो चिनोलाई के भनिन्छ?",टीका,चिलिला
+CUL059,English,Nepal's national flag is unique in the world because it is not of which common shape?,Quadrilateral (rectangular),Rectangle
+CUL059,Nepali,नेपालको राष्ट्रिय झन्डा कुन साधारण आकारको नभएकाले विश्वमै अद्वितीय मानिन्छ?,चतुर्भुज (आयताकार),धेरैभुक्ता झण्डा
+CUL060,English,In which year was Nepal's current national anthem 'Sayaun Thunga Phulka' adopted?,2007,1962
+CUL060,Nepali,नेपालको हालको राष्ट्रिय गान 'सयौँ थुँगा फूलका' कुन वर्ष अपनाइयो?,2007,२०६५ साल।
+CUL061,English,"According to the 2021 census, which is the second most spoken mother tongue in Nepal?",Maithili,Newari
+CUL061,Nepali,सन् 2021 को जनगणनाअनुसार नेपालको दोस्रो धेरै बोलिने मातृभाषा कुन हो?,मैथिली,नेपाली
+CUL062,English,"According to the 2021 census, which is the largest caste/ethnic group of Nepal by population?",Chhetri,Newar
+CUL062,Nepali,सन् 2021 को जनगणनाअनुसार जनसंख्याका आधारमा नेपालको सबैभन्दा ठूलो जातजाति कुन हो?,क्षेत्री,आधारजाति
+CUL063,English,Nepal's famous comedy duo 'MaHa Jodi' consists of Haribansha Acharya and which other artist?,Madan Krishna Shrestha,Bhuwan KC
+CUL063,Nepali,नेपालको प्रसिद्ध हास्य जोडी 'मह जोडी' मा हरिवंश आचार्यसँगै अर्का कलाकार को छन्?,मदनकृष्ण श्रेष्ठ,सत्यराज प्याकुरेल।
+CUL064,English,Which singer is honoured as the 'Swar Samrat' (emperor of voice) of Nepali music?,Narayan Gopal,Michael Jackson
+CUL064,Nepali,नेपाली सङ्गीतका 'स्वरसम्राट्' भनेर कुन गायकलाई सम्मान गरिन्छ?,नारायणगोपाल,भुवन अधिकारी
+CUL065,English,What is the improvised question-and-answer duet folk song tradition of Nepal called?,Dohori,Jogini
+CUL065,Nepali,प्रश्नोत्तर शैलीमा तत्काल रचेर गाइने नेपाली लोक दोहोरी गायन परम्परालाई के भनिन्छ?,दोहोरी,दोहोरी
+CUL066,English,The Tamang Selo musical genre is traditionally accompanied by which drum?,Damphu,Nyangma Dhol
+CUL066,Nepali,तामाङ सेलो सङ्गीत परम्परागत रूपमा कुन बाजाको तालमा गाइन्छ?,डम्फु,दोलखा
+CUL067,English,The Dhan Nach (paddy dance) is a traditional dance of which community?,Limbu,Bhil community
+CUL067,Nepali,धाननाच कुन समुदायको परम्परागत नाच हो?,लिम्बू,नानी नाच
+CUL068,English,The Ghatu dance is traditionally performed by which community of Nepal?,Gurung,Newar
+CUL068,Nepali,घाटु नाच परम्परागत रूपमा नेपालको कुन समुदायले प्रस्तुत गर्छ?,गुरुङ,ताम्रको समुदाय।
+CUL069,English,The Lakhe masked demon dance belongs to which community?,Newar,Sherdukpen community
+CUL069,Nepali,लाखे नाच कुन समुदायको परम्परागत नाच हो?,नेवार,राजस्थानी समुदायको।
+CUL070,English,The Ghode Jatra horse festival is held at which parade ground of Kathmandu?,Tundikhel,Balkumari Parade Ground
+CUL070,Nepali,घोडेजात्रा काठमाडौंको कुन मैदानमा आयोजना गरिन्छ?,टुँडिखेल,त्रिसुनी मैदान
+CUL071,English,Mata Tirtha Aunsi is observed in honour of which family member?,Mother,Mother
+CUL071,Nepali,मातातीर्थ औंसी कुन परिवारका सदस्यको सम्मानमा मनाइन्छ?,आमा,"मातातीर्थ औंसी, माताको सम्मानमा मनाइन्छ।"
+CUL072,English,Kushe Aunsi is observed in honour of which family member?,Father,Mother
+CUL072,Nepali,कुशे औंसी कुन परिवारका सदस्यको सम्मानमा मनाइन्छ?,बुबा,कशे औंसी भनेको बुहारी र नानीको सम्मानमा मनाइन्छ।
+CUL073,English,The Gaura festival is mainly celebrated in which province/region of Nepal?,Sudurpashchim (far-western region),Bardiya Province
+CUL073,Nepali,गौरा पर्व मुख्य रूपमा नेपालको कुन प्रदेश/क्षेत्रमा मनाइन्छ?,सुदूरपश्चिम क्षेत्र,लुम्बिनी प्रदेश
+CUL074,English,"What is the seventh day of Dashain, when the sacred kalash and flowers are brought in procession, called?",Fulpati,Phulpati
+CUL074,Nepali,"दशैंको सातौँ दिन, जुन दिन फूलपाती भित्र्याइन्छ, त्यसलाई के भनिन्छ?",फूलपाती,शabbat (शบาथ)
+CUL075,English,"Which animal is worshipped on the third day of Tihar, the same day as Laxmi Puja?",Cow,Kukur (Dog)
+CUL075,Nepali,"तिहारको तेस्रो दिन, लक्ष्मीपूजाकै दिन, कुन जनावरको पूजा गरिन्छ?",गाई,लक्ष्मी
+CUL076,English,Which animal is worshipped on the fourth day of Tihar (Goru Puja)?,Ox,Cow
+CUL076,Nepali,तिहारको चौथो दिन (गोरु पूजा) कुन जनावरको पूजा गरिन्छ?,गोरु,गोरू।
+CUL077,English,"Traditionally, the Bhailo songs of Tihar are sung primarily by which group?",Girls/women,Men
+CUL077,Nepali,परम्परागत रूपमा तिहारको भैलो मुख्यतया कसले गाउने चलन छ?,केटी तथा महिला,महिलाहरू
+CUL078,English,"What is the thin Newar rice-flour crepe, often topped with egg or minced meat, called?",Chatamari,Chatamari
+CUL078,Nepali,अण्डा वा मासुका परिकार राखेर बनाइने नेवारी चामलको पातलो रोटीलाई के भनिन्छ?,चतामरी,लोउमी
+CUL079,English,What is the traditional Nepali dish of fermented leafy green vegetables called?,Gundruk,Sinkiya
+CUL079,Nepali,गुन्द्रुक भनेर चिनिने परिकार केबाट बनाइन्छ भन्ने प्रश्नको सट्टा: अमिल्याएर सुकाइएको सागबाट बनेको परम्परागत नेपाली परिकारलाई के भनिन्छ?,गुन्द्रुक,अमिल्याएर सुकाइएको सागबाट
+CUL080,English,What is the thick traditional Nepali porridge cooked from millet or buckwheat flour called?,Dhindo,Dhindo
+CUL080,Nepali,कोदो वा फापरको पीठोबाट पकाइने बाक्लो परम्परागत नेपाली खानालाई के भनिन्छ?,ढिँडो,रातैलो
+CUL081,English,What is the hardened traditional cheese made from yak or chauri milk in the Himalayan region called?,Chhurpi,Chhurpi
+CUL081,Nepali,हिमाली क्षेत्रमा चौँरीको दूधबाट बनाइने कडा परम्परागत चीजलाई के भनिन्छ?,छुर्पी,च्याउ।
+CUL082,English,What is the roasted barley flour staple food of Nepal's Himalayan communities called?,Tsampa (Sattu),Roti
+CUL082,Nepali,"हिमाली समुदायको मुख्य खाना, भुटेको जौको पीठोलाई के भनिन्छ?",साम्पा (सातु),ब्रोङगो
+CUL083,English,The renowned Thakali cuisine of Nepal originates from which region?,"Thak Khola, Mustang",Thakharat
+CUL083,Nepali,प्रसिद्ध थकाली खाना नेपालको कुन क्षेत्रबाट आएको हो?,"थाकखोला, मुस्ताङ",भक्तपूर्रिया।
+CUL084,English,The yomari sweet is traditionally filled with which sweetener made from concentrated sugarcane juice?,Chaku,Molasses
+CUL084,Nepali,योमरीभित्र परम्परागत रूपमा उखुको रसबाट बनेको कुन गुलियो पदार्थ भरिन्छ?,चाकु,रोटी
+CUL085,English,"In Nepali Hindu tradition, vermilion powder (sindoor) in the hair parting signifies what status of a woman?",Married status,Married status.
+CUL085,Nepali,नेपाली हिन्दू परम्परामा सिउँदोमा सिन्दूरले महिलाको कस्तो अवस्था जनाउँछ?,विवाहित अवस्था,सिउँदोमा सिन्दूरले महिलाको विवाह गरिसकेको र शुभकमानाföन्तकाे अवस्था जनाउँछ।
+CUL086,English,The pote (glass bead necklace) is traditionally worn by which group of Nepali women?,Married Hindu women,Newar women
+CUL086,Nepali,पोते परम्परागत रूपमा कस्ता नेपाली महिलाले लगाउँछन्?,विवाहित हिन्दू महिला,चोइटा
+CUL087,English,For how many days is the principal Hindu mourning ritual (kriya) traditionally observed in Nepal?,13,13
+CUL087,Nepali,नेपालमा हिन्दू परम्पराअनुसार मुख्य किरिया (क्रिया) कति दिनसम्म बस्ने चलन छ?,13,१६ दिन
+CUL088,English,What is the Nepali ceremony of feeding an infant rice for the first time called?,Pasni (Annaprashan),Khwisapū
+CUL088,Nepali,शिशुलाई पहिलो पटक भात ख्वाउने नेपाली संस्कारलाई के भनिन्छ?,पास्नी (अन्नप्राशन),भात खानाको संस्कार
+CUL089,English,What is the Nepali naming ceremony performed shortly after a child's birth called?,Nwaran,Janaka Ritulo
+CUL089,Nepali,जन्मेको केही दिनपछि गरिने नामकरण संस्कारलाई नेपालीमा के भनिन्छ?,न्वारन,नामकरण
+CUL090,English,What is the Hindu initiation ceremony in which a boy receives the sacred thread called in Nepal?,Bratabandha,Upanayan
+CUL090,Nepali,बालकलाई जनै दिने हिन्दू संस्कारलाई नेपालमा के भनिन्छ?,व्रतबन्ध,जनै
+CUL091,English,"In the Newar Ihi ceremony, young girls are symbolically married to which fruit?",Bel (wood apple),A jackfruit
+CUL091,Nepali,नेवार समुदायको इही संस्कारमा बालिकाहरूलाई कुन फलसँग प्रतीकात्मक विवाह गराइन्छ?,बेल,सेतो आलु
+CUL092,English,What is the traditional Newar socio-religious trust institution that manages festivals and temples called?,Guthi,Jhyalpa
+CUL092,Nepali,जात्रा तथा मन्दिर व्यवस्थापन गर्ने नेवार समुदायको परम्परागत सामाजिक-धार्मिक संस्थालाई के भनिन्छ?,गुठी,कुँहार।
+CUL093,English,What is the traditional Nepali shaman or faith healer called?,Jhankri (shaman),Jhakri
+CUL093,Nepali,परम्परागत नेपाली धामी-झाँक्रीमध्ये झाँक्री भनेको को हो भन्दा: परम्परागत आत्मिक उपचार गर्ने व्यक्तिलाई के भनिन्छ?,झाँक्री,सैनिक
+CUL094,English,What was the ancient name of Kathmandu city?,Kantipur,Kathmandu Darghar
+CUL094,Nepali,काठमाडौं सहरको प्राचीन नाम के थियो?,कान्तिपुर,werpen
+CUL095,English,The name of Kathmandu is derived from which historic wooden pavilion?,Kasthamandap,Kalavihara
+CUL095,Nepali,काठमाडौं नाम कुन ऐतिहासिक काठको मण्डपबाट आएको मानिन्छ?,काष्ठमण्डप,बाँदेलको काठ
+CUL096,English,What is the historic royal palace complex in Kathmandu Durbar Square called?,Hanuman Dhoka,Kathmandu Durbar Square
+CUL096,Nepali,काठमाडौं दरबार क्षेत्रको ऐतिहासिक राजदरबार परिसरलाई के भनिन्छ?,हनुमानढोका,मृignaकुँ छ।
+CUL097,English,The city of Patan (Lalitpur) is particularly famous for which traditional craft?,Metal craft (bronze casting),Metalwork
+CUL097,Nepali,पाटन (ललितपुर) सहर कुन परम्परागत शिल्पका लागि विशेष प्रसिद्ध छ?,धातुकला (मूर्ति ढलाई),लोकर शिल्प
+CUL098,English,Which Nepali artist travelled to the court of Kublai Khan and helped spread pagoda architecture in East Asia?,Araniko,Vishwakarma
+CUL098,Nepali,कुन नेपाली कलाकार कुब्लाई खाँको दरबारमा पुगेर पूर्वी एसियामा प्यागोडा शैली फैलाउन योगदान गरे?,अरनिको,भुवनचरण श्रेष्ठ
+CUL099,English,The Dharahara tower of Kathmandu was originally built by which Prime Minister?,Bhimsen Thapa,Shah Shekhar Dev
+CUL099,Nepali,काठमाडौंको धरहरा मूल रूपमा कुन प्रधानमन्त्रीले बनाउन लगाएका थिए?,भीमसेन थापा,बीपी कोइराला
+CUL100,English,The Pashupatinath main temple is built in which traditional architectural style?,Pagoda style,Newar style
+CUL100,Nepali,पशुपतिनाथ मुख्य मन्दिर कुन परम्परागत वास्तुकला शैलीमा बनेको छ?,प्यागोडा शैली,नारायण शैली
+CUL101,English,The stone Krishna Mandir of Patan Durbar Square is built in which architectural style?,Shikhara style,Newari
+CUL101,Nepali,पाटन दरबार क्षेत्रको ढुङ्गे कृष्ण मन्दिर कुन वास्तुकला शैलीमा बनेको छ?,शिखर शैली,नेपाली वास्तुकला शैली
+CUL102,English,Which traditional stick-and-pin game was long regarded as Nepal's informal national game before volleyball was declared?,Dandi Biyo,Kaggles
+CUL102,Nepali,भलिबल घोषणा हुनुअघि कुन परम्परागत खेललाई नेपालको अनौपचारिक राष्ट्रिय खेल मानिन्थ्यो?,डन्डीबियो,दहीभात
+CUL103,English,"In the traditional Nepali board game Bagh Chal, the tigers play against which animals?",Goats,Elephants
+CUL103,Nepali,परम्परागत नेपाली खेल बाघचालमा बाघहरूको प्रतिस्पर्धा कुन जनावरहरूसँग हुन्छ?,बाख्रा,भालू र च्याडाल
+CUL104,English,Which comedian-author wrote the best-selling memoir 'China Harayeko Manchhe'?,Haribansha Acharya,Robin Williams
+CUL104,Nepali,बहुचर्चित संस्मरण 'चिना हराएको मान्छे' कुन हास्यकलाकार-लेखकले लेखेका हुन्?,हरिवंश आचार्य,सत्यमोहन पौड
+CUL105,English,How many cultural World Heritage Sites does Nepal have?,2,14
+CUL105,Nepali,नेपालमा कतिवटा सांस्कृतिक विश्व सम्पदा क्षेत्र छन्?,2,४८
+CUL106,English,What is the expanded traditional ensemble of nine Nepali instruments called?,Naumati Baja,Sayaḍār Bāgitarā
+CUL106,Nepali,नौवटा परम्परागत नेपाली बाजाको विस्तारित समूहलाई के भनिन्छ?,नौमती बाजा,नेपाली वाद्य त्रयस्त्रय
+CUL107,English,The dhime drum is a traditional instrument of which community?,Newar,Irish
+CUL107,Nepali,ढिमे बाजा कुन समुदायको परम्परागत बाजा हो?,नेवार,मृतरु
+CUL108,English,The chyabrung (ke lang) drum is a traditional instrument of which community?,Limbu,Sherpa
+CUL108,Nepali,च्याब्रुङ बाजा कुन समुदायको परम्परागत बाजा हो?,लिम्बू,तामिळ समुदाय
+CUL109,English,What is the traditional love-song and courtship singing genre of the Limbu community called?,Palam,Jat-Jhyaalo
+CUL109,Nepali,लिम्बू समुदायको परम्परागत प्रेम/भाका गायन विधालाई के भनिन्छ?,पालाम,भाका
+CUL110,English,"Tongba, the hot fermented millet drink, is a traditional beverage of which community?",Limbu,Tibetan
+CUL110,Nepali,तातो पानी हालेर पिइने कोदोको जाँड 'तोङ्बा' कुन समुदायको परम्परागत पेय हो?,लिम्बू,मगर समुदाय।
+CUL111,English,What was the traditional Gurung institution where young people gathered in the evenings to sing and socialise called?,Rodhi,Kothari
+CUL111,Nepali,युवायुवती साँझमा भेला भई गीत गाउने गुरुङ समुदायको परम्परागत संस्थालाई के भनिन्थ्यो?,रोधी,स्वर समूह
+CUL112,English,The Charya dance is a ritual dance tradition of which religious community of the Kathmandu Valley?,Newar Buddhists (Vajracharya tradition),Newar community
+CUL112,Nepali,चर्या नृत्य काठमाडौं उपत्यकाको कुन धार्मिक समुदायको अनुष्ठानिक नृत्य परम्परा हो?,नेवार बौद्ध (वज्राचार्य परम्परा),न्यूरिसता
+CUL113,English,What is the traditional black sari with a red border worn by Newar women called?,Haku Patasi,Pashmina
+CUL113,Nepali,नेवार महिलाले लगाउने रातो किनारा भएको कालो सारीलाई के भनिन्छ?,हाकु पटासी,चोल
+CUL114,English,The black 'Bhadgaule' topi takes its name from which city?,Bhaktapur (Bhadgaon),Kathmandu
+CUL114,Nepali,कालो 'भादगाउँले' टोपीको नाम कुन सहरबाट आएको हो?,भक्तपुर (भादगाउँ),लुम्बिनी
+CUL115,English,"What is the gold cylindrical ornament threaded on a long pote, worn by married Nepali women, called?",Tilhari,Malalā
+CUL115,Nepali,विवाहित नेपाली महिलाले लामो पोतेमा उनेर लगाउने सुनको ढुङ्ग्री आकारको गहनालाई के भनिन्छ?,तिलहरी,जिल्की
+CUL116,English,"What is the ceremonial Newar food platter of beaten rice, meat, beans and other items called?",Samay Baji,Kwati
+CUL116,Nepali,"च्युरा, मासु, बोडी लगायत राखेर सजाइने नेवारी परम्परागत खाजा थालीलाई के भनिन्छ?",समयबजी,भोलु ताई
+CUL117,English,What is the traditional Newar sweet bread prepared especially for weddings called?,Lakhamari,Sekuwa
+CUL117,Nepali,विशेष गरी विवाहमा पठाइने नेवारी परम्परागत गुलियो रोटीलाई के भनिन्छ?,लाखामरी,चिता।
+CUL118,English,What is the Newar rite celebrating an elder's passage into ritual old age (first performed at age 77) called?,Janku (Bhimratharohan),Jhyal
+CUL118,Nepali,नेवार समुदायमा वृद्धावस्था प्रवेशको उपलक्ष्यमा (पहिलो पटक 77 वर्षमा) गरिने संस्कारलाई के भनिन्छ?,जंकु (भीमरथारोहण),'बुढो' संस्कार
+CUL119,English,A Kumari's tenure as living goddess traditionally ends when what happens?,She reaches puberty (first menstruation),She dies.
+CUL119,Nepali,जीवित देवी कुमारीको पदावधि परम्परागत रूपमा कुन अवस्थामा समाप्त हुन्छ?,रजस्वला (पहिलो महिनावारी) भएपछि,प्रजनन
+CUL120,English,"The Bhoto Jatra, display of a jewelled vest at Jawalakhel, concludes which festival?",Rato Machhindranath Jatra,Dashain
+CUL120,Nepali,जावलाखेलमा भोटो देखाइने भोटो जात्राले कुन जात्राको समापन गर्छ?,रातो मच्छिन्द्रनाथ जात्रा,मो digelar।
+CUL121,English,Machhindranath (Bunga Dyah) is worshipped in the Kathmandu Valley chiefly as the god of what?,Rain (and good harvest),Rain
+CUL121,Nepali,मच्छिन्द्रनाथ (बुङ्गद्यः) लाई काठमाडौं उपत्यकामा मुख्यतः केका देवताका रूपमा पुजिन्छ?,वर्षा (र सहकालका),शિવ-विष्णু र बुद्ध-पशुपती।
+CUL122,English,Which village is the winter home of the deity Rato Machhindranath?,Bungamati,Kalika
+CUL122,Nepali,रातो मच्छिन्द्रनाथको हिउँदे बासस्थान कुन गाउँ हो?,बुङमती,तमालु
+CUL123,English,The Seto Machhindranath Jatra is celebrated in which city?,Kathmandu,Kathmandu
+CUL123,Nepali,सेतो मच्छिन्द्रनाथ जात्रा कुन सहरमा मनाइन्छ?,काठमाडौं,पोखरा
+CUL124,English,"The Sindoor Jatra, famous for clouds of orange vermilion powder, is celebrated in which town during the New Year?",Madhyapur Thimi,Brahmapur
+CUL124,Nepali,नयाँ वर्षमा सिन्दूर उडाएर मनाइने सिन्दूर जात्रा कुन नगरमा प्रसिद्ध छ?,मध्यपुर थिमि,नेपालीसम्बन्धी सिन्दूर जात्रा भक्तकलामा प्रसिद्ध हुन्छ।
+CUL125,English,The Kartik Naach dance drama is performed annually in which city?,Patan (Lalitpur),Jaipur
+CUL125,Nepali,कात्तिक नाच प्रत्येक वर्ष कुन सहरमा प्रदर्शन गरिन्छ?,पाटन (ललितपुर),पेरिस
+CUL126,English,Which Malla king started the tradition of the Kartik Naach in Patan?,Siddhinarasimha Malla,Jagat Janakadeva
+CUL126,Nepali,पाटनमा कात्तिक नाचको परम्परा कुन मल्ल राजाले सुरु गरेका थिए?,सिद्धिनरसिंह मल्ल,मल्ल राजा जगमायाकोन्द।
+CUL127,English,Which Malla king built the stone Krishna Mandir of Patan Durbar Square?,Siddhinarasimha Malla,Jayanarendra Malla
+CUL127,Nepali,पाटन दरबार क्षेत्रको ढुङ्गे कृष्ण मन्दिर कुन मल्ल राजाले बनाउन लगाएका थिए?,सिद्धिनरसिंह मल्ल,जङ्ग বাহাদুর शङ्खरा मल्ल
+CUL128,English,Rani Pokhari in Kathmandu was built by which king in memory of his son?,Pratap Malla,Prithvi Narayan Shah
+CUL128,Nepali,काठमाडौंको रानीपोखरी कुन राजाले छोराको सम्झनामा बनाउन लगाएका थिए?,प्रताप मल्ल,जयेन्द्र देव
+CUL129,English,The Taleju temple of Kathmandu Durbar Square was built during the reign of which Malla king?,Mahendra Malla,Jayavarmanadeva
+CUL129,Nepali,काठमाडौं दरबार क्षेत्रको तलेजु मन्दिर कुन मल्ल राजाको पालामा बनेको थियो?,महेन्द्र मल्ल,जवाहरमल्ल периодमा।
+CUL130,English,The Garden of Dreams in Kathmandu was created by which Rana aristocrat?,Kaiser Shumsher Rana,Basant Binod Pokhrel
+CUL130,Nepali,काठमाडौंको स्वप्न बगैंचा (गार्डेन अफ ड्रिम्स) कुन राणा व्यक्तित्वले बनाउन लगाएका थिए?,केशरशमशेर राणा,बीपी कोइराला
+CUL131,English,The Singha Durbar palace was built by which Rana Prime Minister?,Chandra Shumsher JBR,Bhismadeva Rana
+CUL131,Nepali,सिंहदरबार कुन राणा प्रधानमन्त्रीले बनाउन लगाएका थिए?,चन्द्रशमशेर जबरा,शरणश्री राणागञ्ज।
+CUL132,English,The Ghantaghar clock tower of Kathmandu was originally built by which Rana Prime Minister?,Bir Shumsher JBR,Krishakshi Rana Jung Bahadur
+CUL132,Nepali,काठमाडौंको घण्टाघर मूल रूपमा कुन राणा प्रधानमन्त्रीले बनाउन लगाएका थिए?,वीरशमशेर जबरा,प्रसाद renseignements थापाङ्ग
+CUL133,English,The town of Thimi in the Kathmandu Valley is traditionally famous for which craft?,Pottery,Willow basket weaving
+CUL133,Nepali,काठमाडौं उपत्यकाको थिमि नगर परम्परागत रूपमा कुन शिल्पका लागि प्रसिद्ध छ?,माटाका भाँडा (कुमाले कला),धातु शिल्‍पना
+CUL134,English,What is the traditional Newar name of the city of Patan (Lalitpur)?,Yala,Patan (Lalitpur)
+CUL134,Nepali,पाटन (ललितपुर) सहरको परम्परागत नेवारी नाम के हो?,यल,ललितपुर
+CUL135,English,What is the traditional Newar name of the city of Bhaktapur?,Khwopa,Bhaktapur is known as Bhadgaon among the Newars.
+CUL135,Nepali,भक्तपुर सहरको परम्परागत नेवारी नाम के हो?,ख्वप,नेवारी
+CUL136,English,What is the traditional Newar name of the city of Kathmandu?,Yen,Kathmandu Darbar Sthan
+CUL136,Nepali,काठमाडौं सहरको परम्परागत नेवारी नाम के हो?,येँ,नेवारी
+CUL137,English,How many monument zones make up the Kathmandu Valley World Heritage Site?,7,Three
+CUL137,Nepali,काठमाडौं उपत्यका विश्व सम्पदा क्षेत्रभित्र कतिवटा स्मारक क्षेत्र समावेश छन्?,7,तीन
+CUL138,English,"What is regarded as the first Nepali-language feature film, released in 1951?",Satya Harishchandra,Suno Pheri
+CUL138,Nepali,सन् 1951 मा प्रदर्शित पहिलो नेपाली भाषाको चलचित्र कुन मानिन्छ?,सत्य हरिश्चन्द्र,'भंगोली'
+CUL139,English,"What was the first feature film produced within Nepal, released in 1964?",Aama,*Suno Kathmandu Chha*
+CUL139,Nepali,"नेपालभित्रै निर्माण भएको पहिलो चलचित्र, सन् 1964 मा प्रदर्शित, कुन हो?",आमा,'मृगयानी'
+CUL140,English,In which year was Radio Nepal established?,1951,1962
+CUL140,Nepali,रेडियो नेपाल कुन वर्ष (ई.सं.) स्थापना भएको थियो?,1951,१९४८
+CUL141,English,In which year did Nepal Television begin broadcasting?,1985,1991
+CUL141,Nepali,नेपाल टेलिभिजनले कुन वर्ष (ई.सं.) प्रसारण सुरु गरेको थियो?,1985,१९९०
+CUL142,English,"What was the title of Nepal's former national anthem, used until 2006?",Shreeman Gambhir,Sayaun Thale
+CUL142,Nepali,सन् 2006 सम्म प्रयोगमा रहेको नेपालको पुरानो राष्ट्रिय गानको शीर्षक के थियो?,श्रीमान् गम्भीर,"""नेपाली"""
+CUL143,English,How many cloth ties traditionally fasten the daura of the Daura Suruwal?,8,One
+CUL143,Nepali,दौरा सुरुवालको दौरामा परम्परागत रूपमा कतिवटा तुना हुन्छन्?,8,तीन
+CUL144,English,How many caste/ethnic groups were officially recorded in Nepal's 2021 census?,142,171
+CUL144,Nepali,सन् 2021 को जनगणनामा नेपालमा कतिवटा जातजाति आधिकारिक रूपमा सूचीकृत गरिए?,142,135
+CUL145,English,How many mother tongues were recorded in Nepal's 2021 census?,124,124
+CUL145,Nepali,सन् 2021 को जनगणनामा नेपालमा कतिवटा मातृभाषा अभिलेख गरिए?,124,31
+CUL146,English,Which singer from Darjeeling is honoured as the 'Nightingale of the Hills' in Nepali music?,Aruna Lama,Maati Gauchan
+CUL146,Nepali,नेपाली सङ्गीतमा 'पहाडकी कोइली' भनेर कुन गायिकालाई सम्मान गरिन्छ?,अरुणा लामा,माया देवी कोइली
+REL001,English,In which place of Nepal was Gautam Buddha born?,Lumbini,Lumbini
+REL001,Nepali,गौतम बुद्धको जन्म नेपालको कुन स्थानमा भएको थियो?,लुम्बिनी,लुम्बिनी
+REL002,English,Gautam Buddha is the founder of which religion?,Buddhism,Buddhism
+REL002,Nepali,गौतम बुद्ध कुन धर्मका संस्थापक हुन्?,बौद्ध धर्म,बौद्ध धर्म
+REL003,English,What was the childhood name of Gautam Buddha?,Siddhartha Gautam,Siddhartha Gautama
+REL003,Nepali,गौतम बुद्धको बाल्यकालको नाम के थियो?,सिद्धार्थ गौतम,सिद्धार्थ
+REL004,English,Who was the mother of Gautam Buddha?,Maya Devi,Unknown
+REL004,Nepali,गौतम बुद्धकी आमा को थिइन्?,मायादेवी,देवी दमयंती
+REL005,English,The Pashupatinath Temple is dedicated to which deity?,Lord Shiva,Shiva
+REL005,Nepali,पशुपतिनाथ मन्दिर कुन देवतालाई समर्पित छ?,भगवान् शिव,शिव
+REL006,English,On the bank of which river is the Pashupatinath Temple located?,Bagmati River,Bagmati River
+REL006,Nepali,पशुपतिनाथ मन्दिर कुन नदीको किनारमा अवस्थित छ?,बागमती नदी,भोप्ला नदी
+REL007,English,The Janaki Mandir in Janakpur is dedicated to which goddess?,Goddess Sita (Janaki),Janaki
+REL007,Nepali,जनकपुरस्थित जानकी मन्दिर कुन देवीलाई समर्पित छ?,देवी सीता (जानकी),शैलजा देवी
+REL008,English,Which stupa in Kathmandu is popularly known among visitors as the 'Monkey Temple'?,Swayambhunath,Śwāmbhūnaṭṭa Stupa
+REL008,Nepali,काठमाडौंको कुन स्तूपलाई पर्यटकहरूमाझ 'मन्की टेम्पल' भनेर चिनिन्छ?,स्वयम्भूनाथ,बौद्ध स्तूप
+REL009,English,During which festival do Hindu men ritually change the sacred thread (janai)?,Janai Purnima,Makar Sankranti
+REL009,Nepali,कुन पर्वमा हिन्दू पुरुषहरूले जनै फेर्ने गर्छन्?,जनै पूर्णिमा,नरदेवासत्
+REL010,English,Which goddess is primarily worshipped during the Dashain festival?,Goddess Durga,Pratima (Living Goddess)
+REL010,Nepali,दशैंमा मुख्य रूपमा कुन देवीको पूजा गरिन्छ?,दुर्गा देवी,दुर्गा
+REL011,English,Krishna Janmashtami is celebrated as the birth anniversary of which deity?,Lord Krishna,Lord Krishna
+REL011,Nepali,कृष्ण जन्माष्टमी कुन देवताको जन्मोत्सवका रूपमा मनाइन्छ?,भगवान् कृष्ण,श्री कृष्ण
+REL012,English,In which district of Nepal is Lumbini located?,Rupandehi,Taplejung
+REL012,Nepali,लुम्बिनी नेपालको कुन जिल्लामा अवस्थित छ?,रूपन्देही,लुम्बिनी।
+REL013,English,Which temple in Lumbini marks the exact birthplace of Gautam Buddha?,Maya Devi Temple,Mayadevi Temple
+REL013,Nepali,लुम्बिनीमा गौतम बुद्धको जन्मस्थल जनाउने मन्दिर कुन हो?,मायादेवी मन्दिर,लुम्बिनी मन्दिर।
+REL014,English,Which emperor erected the stone pillar at Lumbini commemorating Buddha's birthplace?,Emperor Ashoka,Ashoka
+REL014,Nepali,लुम्बिनीमा बुद्धको जन्मस्थलको सम्झनामा शिलास्तम्भ कुन सम्राटले खडा गरेका थिए?,सम्राट अशोक,विशालдев कुँवर
+REL015,English,Who was the father of Gautam Buddha?,King Suddhodhana,Unknown
+REL015,Nepali,गौतम बुद्धका पिता को थिए?,राजा शुद्धोधन,सिद्धार्थ।
+REL016,English,What was the name of the capital city of the Shakya kingdom where Siddhartha Gautam grew up?,Kapilvastu,Kapilavastu
+REL016,Nepali,सिद्धार्थ गौतम हुर्केको शाक्य राज्यको राजधानीको नाम के थियो?,कपिलवस्तु,काठमाडौं
+REL017,English,Where did Gautam Buddha attain enlightenment?,Bodh Gaya (India),Bodh Gaya
+REL017,Nepali,गौतम बुद्धले कहाँ बुद्धत्व (ज्ञान) प्राप्त गरेका थिए?,बोधगया (भारत),बोदघाय
+REL018,English,Where did Gautam Buddha deliver his first sermon?,Sarnath,Siddhartha Gotama delivered his first sermon at Sarnath.
+REL018,Nepali,गौतम बुद्धले पहिलो उपदेश कहाँ दिएका थिए?,सारनाथ,बोधगया
+REL019,English,The Muktinath temple is located in which district of Nepal?,Mustang,Jumla
+REL019,Nepali,मुक्तिनाथ मन्दिर नेपालको कुन जिल्लामा अवस्थित छ?,मुस्ताङ,बाराह जिल्ला
+REL020,English,Muktinath is a sacred pilgrimage site for the followers of which two religions?,Hinduism and Buddhism,Hinduism and Buddhism
+REL020,Nepali,मुक्तिनाथ कुन दुई धर्मका अनुयायीहरूका लागि पवित्र तीर्थस्थल हो?,हिन्दू र बौद्ध धर्म,hindu र बौद्ध
+REL021,English,The sacred Gosaikunda lake is located in which district?,Rasuwa,Dhading
+REL021,Nepali,पवित्र गोसाइँकुण्ड ताल कुन जिल्लामा अवस्थित छ?,रसुवा,बागलुंगा जिल्ला
+REL022,English,"The Pathibhara temple, a famous pilgrimage site, is located in which district?",Taplejung,Dhading
+REL022,Nepali,प्रसिद्ध तीर्थस्थल पाथीभरा मन्दिर कुन जिल्लामा अवस्थित छ?,ताप्लेजुङ,पठापुर जिल्ला
+REL023,English,The Manakamana temple is located in which district?,Gorkha,Ghillu
+REL023,Nepali,मनकामना मन्दिर कुन जिल्लामा अवस्थित छ?,गोरखा,कपाल्नुहवा
+REL024,English,The Budhanilkantha temple in Kathmandu features a large reclining statue of which deity?,Lord Vishnu,Shiva
+REL024,Nepali,काठमाडौंको बूढानीलकण्ठ मन्दिरमा कुन देवताको ठूलो शयन मुद्राको मूर्ति छ?,भगवान् विष्णु,शiva
+REL025,English,The Changu Narayan temple is dedicated to which deity?,Lord Vishnu (Narayan),Lord Shiva and goddess Parvati
+REL025,Nepali,चाँगुनारायण मन्दिर कुन देवतालाई समर्पित छ?,भगवान् विष्णु (नारायण),विष्णु
+REL026,English,Which large stupa in Kathmandu is a major centre of Tibetan Buddhism in Nepal?,Boudhanath,Swayambhunath Stupa
+REL026,Nepali,काठमाडौंको कुन ठूलो स्तूप नेपालमा तिब्बती बौद्ध धर्मको प्रमुख केन्द्र हो?,बौद्धनाथ,बोनु स्तूप
+REL027,English,"According to Nepal's 2021 national census, which religion has the largest number of followers?",Hinduism,Hinduism
+REL027,Nepali,नेपालको सन् 2021 को राष्ट्रिय जनगणनाअनुसार सबैभन्दा धेरै अनुयायी भएको धर्म कुन हो?,हिन्दू धर्म,बौद्ध धर्म
+REL028,English,"According to the 2021 census, which is the second-largest religion in Nepal by followers?",Buddhism,Hinduism
+REL028,Nepali,सन् 2021 को जनगणनाअनुसार अनुयायीका आधारमा नेपालको दोस्रो ठूलो धर्म कुन हो?,बौद्ध धर्म,बौद्ध धर्म
+REL029,English,"According to the Constitution of Nepal (2015), what is Nepal's status regarding religion?",Secular state,"The Constitution of Nepal (2015) guarantees religious freedom to all citizens. It establishes Nepal as a secular state, ensuring equal rights and protection for all religions."
+REL029,Nepali,नेपालको संविधान (2015) अनुसार धर्मका सम्बन्धमा नेपाल कस्तो राज्य हो?,धर्मनिरपेक्ष राज्य,नेपाल राज्य धर्मनिरपेक्ष छ।
+REL030,English,The largest gathering for Maha Shivaratri in Nepal takes place at which temple?,Pashupatinath Temple,Barahi Temple
+REL030,Nepali,नेपालमा महाशिवरात्रिको सबैभन्दा ठूलो जमघट कुन मन्दिरमा हुन्छ?,पशुपतिनाथ मन्दिर,बाघु waiver
+REL031,English,Maha Shivaratri falls in which month of the Nepali calendar?,Falgun,Baisakh
+REL031,Nepali,महाशिवरात्रि नेपाली पात्रोको कुन महिनामा पर्छ?,फागुन,शravan
+REL032,English,The goddess Saraswati is worshipped on which festival day in Nepal?,Basanta Panchami (Shree Panchami),Bhadra Shukla Paksha Panchami
+REL032,Nepali,विद्याकी देवी सरस्वतीको पूजा नेपालमा कुन पर्वको दिन गरिन्छ?,वसन्त पञ्चमी (श्रीपञ्चमी),सरस्वतीपूजा
+REL033,English,"Bibaha Panchami, celebrated in Janakpur, commemorates the wedding of which divine couple?",Ram and Sita,Lord Shiva and Parvati
+REL033,Nepali,जनकपुरमा मनाइने विवाह पञ्चमीले कुन दिव्य जोडीको विवाहको सम्झना गराउँछ?,राम र सीता,พระ गौतम बुद्ध र सुभद्रा गरीको विवाहको सम्झना गराउँछ।
+REL034,English,In which year was Lumbini inscribed on the UNESCO World Heritage List?,1997,1985
+REL034,Nepali,लुम्बिनी कुन वर्ष युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भएको थियो?,1997,२००७
+REL035,English,In which year was the Kathmandu Valley inscribed on the UNESCO World Heritage List?,1979,1996
+REL035,Nepali,काठमाडौं उपत्यका कुन वर्ष युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भएको थियो?,1979,२०००
+REL036,English,The Halesi Mahadev temple is located in which district?,Khotang,Ilam
+REL036,Nepali,हलेसी महादेव मन्दिर कुन जिल्लामा अवस्थित छ?,खोटाङ,धादिबाली
+REL037,English,The Namobuddha stupa is located in which district?,Kavrepalanchok,Sirsi
+REL037,Nepali,नमोबुद्ध स्तूप कुन जिल्लामा अवस्थित छ?,काभ्रेपलाञ्चोक,बोधायती जिल्ला
+REL038,English,How many water spouts (dhara) are there at the Muktinath temple complex?,108,108
+REL038,Nepali,मुक्तिनाथ मन्दिर परिसरमा कतिवटा धारा छन्?,108,तीन
+REL039,English,In which year (AD) was the present Janaki Mandir in Janakpur completed?,1910,1962
+REL039,Nepali,जनकपुरको हालको जानकी मन्दिर कुन वर्ष (ई.सं.) निर्माण सम्पन्न भएको थियो?,1910,२०७०
+REL040,English,What is the main religious scripture of the Kirat religion called?,Mundhum,The Kirat Script
+REL040,Nepali,किरात धर्मको मुख्य धार्मिक ग्रन्थलाई के भनिन्छ?,मुन्धुम,किरातagama
+REL041,English,The month-long Swasthani Brata Katha recitation is mainly observed during which Nepali month?,Magh,Bhada
+REL041,Nepali,महिना दिनसम्म पढिने स्वस्थानी व्रतकथा मुख्य रूपमा नेपाली पात्रोको कुन महिनामा पर्छ?,माघ,दशैं
+REL042,English,"In which modern country is Lumbini, the birthplace of the Buddha, located?",Nepal,Nepal
+REL042,Nepali,बुद्धको जन्मस्थल लुम्बिनी आधुनिक कुन देशमा अवस्थित छ?,नेपाल,नेपालाई।
+REL043,English,How many Vedas are there in Hindu tradition?,4,Four
+REL043,Nepali,हिन्दू परम्परामा वेदहरू कतिवटा छन्?,4,सात
+REL044,English,The Bhagavad Gita is a part of which great epic?,The Mahabharata,Mahabharata
+REL044,Nepali,श्रीमद्भगवद्गीता कुन महाकाव्यको अंश हो?,महाभारत,भगवद्गीता
+REL045,English,Who composed the original Sanskrit Ramayana?,Valmiki,Valmiki
+REL045,Nepali,मूल संस्कृत रामायणको रचना कसले गरेका हुन्?,वाल्मीकि,भास रवेदन
+REL046,English,Who is regarded as the author of the Mahabharata?,Ved Vyasa,Vyasa
+REL046,Nepali,महाभारतका रचनाकार कसलाई मानिन्छ?,वेदव्यास,वेद व्यास
+REL047,English,"In the Hindu trinity, which deity is regarded as the creator?",Brahma,Brahma
+REL047,Nepali,हिन्दू त्रिदेवमध्ये सृष्टिकर्ता देवता को हुन्?,ब्रह्मा,ब्रह्मा
+REL048,English,"In the Hindu trinity, which deity is regarded as the preserver?",Vishnu,Vishnu
+REL048,Nepali,हिन्दू त्रिदेवमध्ये पालनकर्ता देवता को हुन्?,विष्णु,विष्णु
+REL049,English,"In the Hindu trinity, which deity is regarded as the destroyer/transformer?",Shiva (Mahesh),Shiva
+REL049,Nepali,हिन्दू त्रिदेवमध्ये संहारकर्ता देवता को हुन्?,शिव (महेश),शून्य (शन्घ)
+REL050,English,The deity Ganesh is the son of which divine couple?,Shiva and Parvati,Parvati and Shiva
+REL050,Nepali,गणेश कुन दिव्य दम्पतीका पुत्र हुन्?,शिव र पार्वती,शिव
+REL051,English,The goddess Laxmi is the consort of which deity?,Vishnu,Vishnu
+REL051,Nepali,देवी लक्ष्मी कुन देवताकी अर्धाङ्गिनी हुन्?,विष्णु,พระ विष्णु
+REL052,English,The goddess Parvati is the consort of which deity?,Shiva,Shiva
+REL052,Nepali,देवी पार्वती कुन देवताकी अर्धाङ्गिनी हुन्?,शिव,शिव
+REL053,English,The deity Hanuman is celebrated for his devotion to which god?,Ram,Vishnu
+REL053,Nepali,हनुमान कुन देवताप्रतिको भक्तिका लागि प्रख्यात छन्?,राम,लौटो
+REL054,English,Who was the father of Lord Ram?,King Dasharath,King Dasharatha
+REL054,Nepali,भगवान् रामका पिता को थिए?,राजा दशरथ,राजा जनक
+REL055,English,Lord Ram was the prince of which kingdom?,Ayodhya,Ayodhya
+REL055,Nepali,भगवान् राम कुन राज्यका राजकुमार थिए?,अयोध्या,जनकपुरको।
+REL056,English,Who was the father of Goddess Sita?,King Janak,Janak
+REL056,Nepali,देवी सीताका पिता को थिए?,राजा जनक,जनकराज
+REL057,English,Who abducted Sita in the Ramayana?,Ravana,Ravana
+REL057,Nepali,रामायणमा सीतालाई कसले अपहरण गरेको थियो?,रावण,रावण
+REL058,English,Ravana was the king of which land?,Lanka,Lanka
+REL058,Nepali,रावण कुन देशका राजा थिए?,लङ्का,श्रीलंका।
+REL059,English,For how many years was Lord Ram exiled to the forest?,14,14
+REL059,Nepali,भगवान् राम कति वर्ष वनवासमा बसेका थिए?,14,fourteen वर्षे वनवासमा।
+REL060,English,Lord Krishna is regarded as an avatar of which deity?,Vishnu,Vishnu
+REL060,Nepali,भगवान् कृष्ण कुन देवताका अवतार मानिन्छन्?,विष्णु,विष्णु
+REL061,English,"In the Bhagavad Gita, Krishna delivers his teaching to which warrior?",Arjuna,Arjuna
+REL061,Nepali,श्रीमद्भगवद्गीतामा कृष्णले कुन योद्धालाई उपदेश दिएका छन्?,अर्जुन,अर्जुनलाई।
+REL062,English,How many Pandava brothers were there in the Mahabharata?,5,Five
+REL062,Nepali,महाभारतमा पाण्डवहरू कति जना थिए?,5,पाण्डवहरू छवटा थिए।
+REL063,English,What is the community of Buddhist monks called?,Sangha,Sangha
+REL063,Nepali,बौद्ध भिक्षुहरूको समुदायलाई के भनिन्छ?,सङ्घ,संघ
+REL064,English,How many Noble Truths did the Buddha teach?,4,Eight
+REL064,Nepali,बुद्धले कतिवटा आर्यसत्य उपदेश दिएका छन्?,4,तटव्यपनको पाँच आर्यसत्य उपदेश।
+REL065,English,What is regarded as the most sacred syllable in Hinduism?,Om,Om
+REL065,Nepali,हिन्दू धर्ममा सबैभन्दा पवित्र अक्षर (मन्त्राक्षर) कुन मानिन्छ?,ॐ (ओम्),ॐ
+REL066,English,Which river is considered the holiest in Hinduism?,Ganga (Ganges),Ganges River
+REL066,Nepali,हिन्दू धर्ममा सबैभन्दा पवित्र नदी कुन मानिन्छ?,गङ्गा,गंगा
+REL067,English,Which is the oldest of the four Vedas?,Rigveda,Rigveda
+REL067,Nepali,चार वेदमध्ये सबैभन्दा पुरानो वेद कुन हो?,ऋग्वेद,ऋग्वेद
+REL068,English,Which Veda is primarily associated with chants and music?,Samaveda,Rigveda
+REL068,Nepali,कुन वेद मुख्यतया गान/सङ्गीतसँग सम्बन्धित छ?,सामवेद,यज्ञ वेदी
+REL069,English,How many chapters does the Bhagavad Gita contain?,18,Eight
+REL069,Nepali,श्रीमद्भगवद्गीतामा कतिवटा अध्याय छन्?,18,"यस प्रश्नको संक्षिप्त उत्तर हो:
+
+सत्युगमा ७०० अध्याय थिए।"
+REL070,English,On which battlefield was the Mahabharata war fought?,Kurukshetra,Kurukshetra
+REL070,Nepali,महाभारतको युद्ध कुन मैदानमा लडिएको थियो?,कुरुक्षेत्र,"कस}"")"
+REL071,English,Who was the eldest of the Pandava brothers?,Yudhishthira,Yudhishthira
+REL071,Nepali,पाण्डवहरूमध्ये जेठा को थिए?,युधिष्ठिर,दृढसेन
+REL072,English,How many Kaurava brothers were there in the Mahabharata?,100,100
+REL072,Nepali,महाभारतमा कौरवहरू कति जना थिए?,100,"कौरवहरूले दु्स्केलाको नेतृत्वमा ३६,००० योद्धा थिए।"
+REL073,English,Draupadi was the common wife of which brothers?,The five Pandavas,Pandavas
+REL073,Nepali,द्रौपदी कुन दाजुभाइहरूकी साझा पत्नी थिइन्?,पाँच पाण्डव,"द्रौपदी, धృతु আৰু phúद्रुङ्гихहरूको साझा पत्नी थिए।"
+REL074,English,Which brother accompanied Ram and Sita during the forest exile?,Lakshman,Bharat
+REL074,Nepali,वनवासमा राम र सीतासँगै कुन भाइ गएका थिए?,लक्ष्मण,लक्ष्मण
+REL075,English,How many brothers did Lord Ram have?,3,None
+REL075,Nepali,भगवान् रामका कति जना भाइ थिए?,3,चार
+REL076,English,What were the names of the twin sons of Ram and Sita?,Lava and Kusha,Rama and Lakshmana
+REL076,Nepali,राम र सीताका जुम्ल्याहा छोराहरूको नाम के थियो?,लव र कुश,भरत
+REL077,English,Hanuman is regarded as the son of which god?,Vayu (the wind god),Lord Shiva
+REL077,Nepali,हनुमान कुन देवताका पुत्र मानिन्छन्?,वायुदेव (पवनदेव),लक्ष्मण
+REL078,English,Which city did Hanuman set ablaze with his burning tail?,Lanka,Rakshasapura
+REL078,Nepali,हनुमानले आफ्नो जलिरहेको पुच्छरले कुन सहर जलाएका थिए?,लङ्का,अयोध्या
+REL079,English,What is the fire ordeal undergone by Sita to prove her purity called?,Agni Pariksha,Agni Pariksha
+REL079,Nepali,आफ्नो पवित्रता प्रमाणित गर्न सीताले गरेको अग्नि परीक्षणलाई के भनिन्छ?,अग्निपरीक्षा,अग्निपरीक्षा
+REL080,English,Which brother of Ravana was famous for sleeping six months at a time?,Kumbhakarna,Indrajit
+REL080,Nepali,रावणका कुन भाइ छ महिनासम्म सुत्ने कथाका लागि प्रसिद्ध छन्?,कुम्भकर्ण,नमिषा।
+REL081,English,Which brother of Ravana left him and joined Lord Ram?,Vibhishana,Indrajit
+REL081,Nepali,रावणका कुन भाइले उनलाई छोडेर रामको पक्ष लिए?,विभीषण,नलामी
+REL082,English,How many principal avatars (Dashavatar) of Vishnu are described in Hindu tradition?,10,Ten
+REL082,Nepali,हिन्दू परम्परामा विष्णुका मुख्य अवतार (दशावतार) कतिवटा मानिन्छन्?,10,दश (१०)
+REL083,English,"What is the first avatar of Vishnu, in the form of a fish, called?",Matsya,Matsya
+REL083,Nepali,माछाको रूपमा लिइएको विष्णुको पहिलो अवतारलाई के भनिन्छ?,मत्स्य,भ्रातृभन्डी
+REL084,English,"In his Narasimha avatar, Vishnu slew which demon king?",Hiranyakashipu,Hiranyaksha
+REL084,Nepali,नृसिंह अवतारमा विष्णुले कुन दैत्यराजको वध गरेका थिए?,हिरण्यकशिपु,हिरण्यकshapत्र
+REL085,English,The Holika Dahan bonfire commemorates the survival of which devotee?,Prahlad,Harappan (Prahlada)
+REL085,Nepali,होलिका दहनले कुन भक्तको रक्षा भएको घटनाको सम्झना गराउँछ?,प्रह्लाद,राम र शत्रुघ्नको बलिदान
+REL086,English,By what name is the festival of Holi commonly known in Nepal?,Fagu Purnima,Fewa
+REL086,Nepali,होली पर्वलाई नेपालमा कुन नामले चिनिन्छ?,फागु पूर्णिमा,रामोвую
+REL087,English,Maghe Sankranti marks the sun's entry into which zodiac sign?,Makar (Capricorn),Capricorn
+REL087,Nepali,माघे संक्रान्तिले सूर्य कुन राशिमा प्रवेश गरेको जनाउँछ?,मकर,मेष राशि
+REL088,English,Which mountain is regarded as the abode of Lord Shiva?,Mount Kailash,Mount Kailash
+REL088,Nepali,कुन पर्वतलाई भगवान् शिवको वासस्थान मानिन्छ?,कैलाश पर्वत,मेघालयको ग्रैनाइट पर्वत
+REL089,English,What is the trident weapon of Lord Shiva called?,Trishul,Damru
+REL089,Nepali,भगवान् शिवको तीनधारे हतियारलाई के भनिन्छ?,त्रिशूल,त्रिशूल
+REL090,English,Which bull serves as the vahana (vehicle) of Lord Shiva?,Nandi,Nandi
+REL090,Nepali,भगवान् शिवको वाहन कुन साँढे हो?,नन्दी,पाण्डु
+REL091,English,Which mythical bird serves as the vahana of Lord Vishnu?,Garuda,Garuda
+REL091,Nepali,भगवान् विष्णुको वाहन कुन पौराणिक पक्षी हो?,गरुड,गरुड
+REL092,English,Which small animal serves as the vahana of Lord Ganesh?,Mouse (Mushak),Elephants
+REL092,Nepali,गणेशको वाहन कुन सानो जनावर हो?,मुसा (मूषक),मोडका बाजे
+REL093,English,Which deity is customarily worshipped first at the beginning of Hindu rituals?,Ganesh,Ganesha
+REL093,Nepali,हिन्दू पूजा-अनुष्ठानको सुरुमा सबैभन्दा पहिले कुन देवताको पूजा गरिन्छ?,गणेश,พระजटेश्वर
+REL094,English,Who are the two sons of Shiva and Parvati?,Ganesh and Kartikeya,Ganesha and Kartikeya
+REL094,Nepali,शिव-पार्वतीका दुई पुत्र को-को हुन्?,गणेश र कार्तिकेय,काली र गणेश
+REL095,English,Saraswati is revered as the goddess of what?,Knowledge and learning,Knowledge and wisdom
+REL095,Nepali,सरस्वतीलाई केकी देवी मानिन्छ?,विद्या (ज्ञान),"यस प्रश्नको सही र संक्षिप्त उत्तर हो: कला, संगीत र साहित्य।"
+REL096,English,Laxmi is revered as the goddess of what?,Wealth and prosperity,Wealth and prosperity
+REL096,Nepali,लक्ष्मीलाई केकी देवी मानिन्छ?,धन-सम्पत्ति,धनकी देवी
+REL097,English,The five days of Tihar are collectively named 'Yamapanchak' after which god?,Yama (god of death),Lord Yama
+REL097,Nepali,तिहारका पाँच दिनलाई कुन देवताका नामबाट 'यमपञ्चक' भनिन्छ?,यमराज (मृत्युका देवता),यमपञ्चक
+REL098,English,"Indra, honoured in Kathmandu's Indra Jatra, is the god of what?",Rain,Rain and Thunder
+REL098,Nepali,काठमाडौंको इन्द्रजात्रामा पुजिने इन्द्र केका देवता हुन्?,वर्षा,"พระजट,พระलाहुरे,พระकोख र परशुराम।"
+REL099,English,The Govardhan Puja of Tihar commemorates Krishna lifting which hill?,Govardhan hill,Govardhan Hill
+REL099,Nepali,तिहारको गोवर्धन पूजाले कृष्णले कुन पर्वत उठाएको प्रसंगको सम्झना गराउँछ?,गोवर्धन पर्वत,कृषणले माटोको पर्वत उठाएको प्रसंग।
+REL100,English,In which city was Lord Krishna born?,Mathura,Mathura
+REL100,Nepali,भगवान् कृष्णको जन्म कुन सहरमा भएको थियो?,मथुरा,मथुरा
+REL101,English,The tulsi (holy basil) plant is especially sacred to which deity?,Vishnu,Vishnu
+REL101,Nepali,तुलसीको बिरुवा विशेष गरी कुन देवतासँग सम्बन्धित मानिन्छ?,विष्णु,वाकु
+REL102,English,Rudraksha beads are especially associated with which deity?,Shiva,Shiva
+REL102,Nepali,रुद्राक्ष कुन देवतासँग विशेष सम्बन्धित मानिन्छ?,शिव,शiva
+REL103,English,How many beads does a traditional Hindu-Buddhist prayer mala contain?,108,108
+REL103,Nepali,परम्परागत जपमालामा कतिवटा दाना हुन्छन्?,108,१००
+REL104,English,"On Nag Panchami, images of which creature are pasted above doorways in Nepal?",Serpent (Nag),Bull (פא하리)
+REL104,Nepali,नागपञ्चमीका दिन नेपालमा घरका ढोकामाथि कुन प्राणीको चित्र टाँसिन्छ?,नाग (सर्प),लक्ष्मी
+REL105,English,How many great sages are worshipped on Rishi Panchami?,7 (Sapta Rishi),Five
+REL105,Nepali,ऋषिपञ्चमीका दिन कति जना ऋषिको पूजा गरिन्छ?,7 (सप्तऋषि),13
+REL106,English,What does the name 'Shivaratri' literally mean?,The night of Shiva,“The night of Shiva”
+REL106,Nepali,शिवरात्रि' शब्दको शाब्दिक अर्थ के हो?,शिवको रात,शिवको रात
+REL107,English,In which language was the original Ramayana composed?,Sanskrit,Sanskrit
+REL107,Nepali,मूल रामायण कुन भाषामा रचिएको हो?,संस्कृत,संस्कृत भाषा।
+REL108,English,What are the two major branches of Buddhism?,Mahayana and Theravada,Theravada and Mahayana
+REL108,Nepali,बौद्ध धर्मका दुई प्रमुख सम्प्रदाय कुन-कुन हुन्?,महायान र थेरवाद,थर्वाद र महायान
+REL109,English,What is the principal collection of Buddhist scriptures called?,Tripitaka,Tripitaka
+REL109,Nepali,बौद्ध धर्मग्रन्थहरूको प्रमुख सङ्ग्रहलाई के भनिन्छ?,त्रिपिटक,त्रिपिटक
+REL110,English,What does the word 'Tripitaka' literally mean?,Three baskets,Three baskets
+REL110,Nepali,त्रिपिटक' शब्दको शाब्दिक अर्थ के हो?,तीन पिटारा (टोकरी),तीन प्रकारको शास्त्र
+REL111,English,How many steps are there in the Noble Path taught by the Buddha?,8,Eight
+REL111,Nepali,बुद्धले देखाएको आर्य मार्गमा कतिवटा अङ्ग छन्?,8,८
+REL112,English,What are the Three Jewels (Triratna) of Buddhism?,"Buddha, Dharma and Sangha","The Three Jewels (Triratna) are:
+
+1.  Buddha
+2.  Dharma
+3.  Sangha"
+REL112,Nepali,बौद्ध धर्मका त्रिरत्न के-के हुन्?,"बुद्ध, धर्म र सङ्घ","संघ, सारण, धम्म"
+REL113,English,In which language is the Theravada Buddhist canon preserved?,Pali,Pali
+REL113,Nepali,थेरवाद बौद्ध त्रिपिटक कुन भाषामा सुरक्षित छ?,पाली,पाली
+REL114,English,Under which species of tree did the Buddha attain enlightenment?,Peepal (Ficus religiosa),Pipal (Ficus religiosa)
+REL114,Nepali,बुद्धले कुन प्रजातिको रूखमुनि बुद्धत्व प्राप्त गरेका थिए?,पीपल,मानव
+REL115,English,What was the name of Prince Siddhartha's wife?,Yashodhara,Yasodhara
+REL115,Nepali,राजकुमार सिद्धार्थकी पत्नीको नाम के थियो?,यशोधरा,यास्ोमती
+REL116,English,What was the name of the Buddha's son?,Rahula,Rahula
+REL116,Nepali,बुद्धका छोराको नाम के थियो?,राहुल,राहुल
+REL117,English,In which place did the Buddha pass away (attain Mahaparinirvana)?,Kushinagar,"Gaya, India"
+REL117,Nepali,बुद्धको महापरिनिर्वाण कुन स्थानमा भएको थियो?,कुशीनगर,"गणेशपुर, बोधगया"
+REL118,English,Buddha Jayanti is internationally observed under which name?,Vesak Day,Vesak
+REL118,Nepali,बुद्ध जयन्तीलाई अन्तर्राष्ट्रिय रूपमा कुन नामले मनाइन्छ?,भेसाक दिवस,बौद्धता दिवस
+REL119,English,The World Peace Pagoda (Shanti Stupa) overlooking Phewa Lake stands in which city?,Pokhara,Pokhara
+REL119,Nepali,फेवा तालमाथि रहेको विश्व शान्ति स्तूप कुन सहरमा अवस्थित छ?,पोखरा,फेवा
+REL120,English,The Gayatri Mantra originates from which Veda?,Rigveda,Rigveda
+REL120,Nepali,गायत्री मन्त्र कुन वेदबाट लिइएको हो?,ऋग्वेद,ऋग्वेद
+REL121,English,How many major Puranas are there in Hindu tradition?,18,18
+REL121,Nepali,हिन्दू परम्परामा महापुराण कतिवटा छन्?,18,साठ
+REL122,English,Into how many parvas (books) is the Mahabharata divided?,18,18
+REL122,Nepali,महाभारत कतिवटा पर्वमा विभाजित छ?,18,"यस प्रश्नको सही र संक्षिप्त उत्तर हो:
+
+सा́u"
+REL123,English,Into how many kandas (books) is the Ramayana divided?,7,Seven
+REL123,Nepali,रामायण कतिवटा काण्डमा विभाजित छ?,7,सात
+REL124,English,Which demon took the form of a golden deer to lure Ram away from Sita?,Maricha,Maricha
+REL124,Nepali,सीतालाई एक्ल्याउन सुनौलो मृगको रूप लिने राक्षस को थियो?,मारीच,मरुड
+REL125,English,"According to tradition, which deity acted as the scribe who wrote down the Mahabharata?",Ganesh,Vishwakarma
+REL125,Nepali,परम्पराअनुसार महाभारत लिपिबद्ध गर्ने काम कुन देवताले गरेका थिए?,गणेश,वरुण।
+REL126,English,Whom did Shiva burn to ashes with his third eye?,Kamadeva (god of love),Dhumra
+REL126,Nepali,शिवले आफ्नो तेस्रो नेत्रले कसलाई भस्म गरेका थिए?,कामदेव,सामन्तरावृत्त
+REL127,English,What is the cosmic dance of Lord Shiva called?,Tandava,Tandava
+REL127,Nepali,भगवान् शिवको ब्रह्माण्डीय नृत्यलाई के भनिन्छ?,ताण्डव,نداवन नृत्य
+REL128,English,Which bird serves as the vahana of Kartikeya?,Peacock,Peacock
+REL128,Nepali,कार्तिकेयको वाहन कुन पक्षी हो?,मयूर (मुजुर),गरुड
+REL129,English,Saraswati is traditionally regarded as the consort of which deity?,Brahma,Shiva
+REL129,Nepali,सरस्वतीलाई परम्परागत रूपमा कुन देवताकी अर्धाङ्गिनी मानिन्छ?,ब्रह्मा,ब्रह्मा
+REL130,English,The ritual marriage of the tulsi plant (Tulsi Bibaha) is performed on which Ekadashi?,Haribodhini Ekadashi,Bahula Ekadashi
+REL130,Nepali,तुलसीको विवाह कुन एकादशीका दिन गरिन्छ?,हरिबोधिनी एकादशी,भादो एकादशी
+REL131,English,"According to the 2021 census, which is the third-largest religion in Nepal?",Islam,Hinduism
+REL131,Nepali,सन् 2021 को जनगणनाअनुसार नेपालको तेस्रो ठूलो धर्म कुन हो?,इस्लाम,बौद्ध
+REL132,English,The chief priests (Mul Bhatta) of Pashupatinath traditionally come from which part of India?,South India,Rajasthan
+REL132,Nepali,पशुपतिनाथका मूल भट्ट पुजारी परम्परागत रूपमा भारतको कुन भागबाट आउँछन्?,दक्षिण भारत,नेपाल
+REL133,English,The Guhyeshwari temple near Pashupatinath is dedicated to which goddess?,Goddess Parvati (as Guhyeshwari/Shakti),Guhyeshwari
+REL133,Nepali,पशुपतिनाथ नजिकैको गुह्येश्वरी मन्दिर कुन देवीलाई समर्पित छ?,देवी पार्वती (गुह्येश्वरी शक्तिरूप),शैलजा देवी
+REL134,English,The Dakshinkali temple on the southern rim of the Kathmandu Valley is dedicated to which goddess?,Goddess Kali,Durga
+REL134,Nepali,काठमाडौं उपत्यकाको दक्षिणी छेउमा रहेको दक्षिणकाली मन्दिर कुन देवीलाई समर्पित छ?,काली देवी,शैलजा देवीलाई।
+REL135,English,"The five-storey Kumbheshwar temple, dedicated to Shiva, stands in which city?",Lalitpur (Patan),Allahabad
+REL135,Nepali,शिवलाई समर्पित पाँचतले कुम्भेश्वर मन्दिर कुन सहरमा अवस्थित छ?,ललितपुर (पाटन),उदयपुर
+REL136,English,"The Doleshwar Mahadev temple, regarded as the head portion of Kedarnath, is in which district?",Bhaktapur,Uttarakhand
+REL136,Nepali,केदारनाथको शिर भाग मानिने डोलेश्वर महादेव मन्दिर कुन जिल्लामा अवस्थित छ?,भक्तपुर,नुवाकोट।
+REL137,English,The Barahakshetra pilgrimage site near the Koshi river is located in which district?,Sunsari,Biratnagar
+REL137,Nepali,कोशी नदी नजिकैको बराहक्षेत्र तीर्थस्थल कुन जिल्लामा अवस्थित छ?,सुनसरी,सोलुखुर्द
+REL138,English,Devghat Dham lies at the confluence of the Trishuli and which other river?,Kali Gandaki,Phasideewa
+REL138,Nepali,देवघाट धाम त्रिशूली र अर्को कुन नदीको संगममा अवस्थित छ?,कालीगण्डकी,त्रिशूली नदी र कालीमध्यु नदी
+REL139,English,The Swargadwari temple complex is located in which district?,Pyuthan,Banswara
+REL139,Nepali,स्वर्गद्वारी मन्दिर क्षेत्र कुन जिल्लामा अवस्थित छ?,प्यूठान,कच्छ
+REL140,English,The sacred shaligram stones are found in which river of Nepal?,Kali Gandaki,The Bagmati River
+REL140,Nepali,पवित्र शालिग्राम शिला नेपालको कुन नदीमा पाइन्छ?,कालीगण्डकी,धाulai नदी।
+REL141,English,Which shrine at Muktinath houses a continuously burning natural flame?,Jwala Mai temple,The Ptarmigan Shrine
+REL141,Nepali,मुक्तिनाथमा निरन्तर बलिरहने प्राकृतिक ज्वाला भएको मन्दिर कुन हो?,ज्वालामाई मन्दिर,मुक्तिनाथ धाम
+REL142,English,What is the principal cremation ghat at the Pashupatinath temple complex called?,Arya Ghat,Bagahi Ghat
+REL142,Nepali,पशुपतिनाथ क्षेत्रको मुख्य घाटलाई के भनिन्छ?,आर्यघाट,महागाति
+REL143,English,Which goddess was the royal deity (kul devata) of the Malla kings of the Kathmandu Valley?,Taleju Bhawani,Shiva
+REL143,Nepali,काठमाडौं उपत्यकाका मल्ल राजाहरूकी कुलदेवी कुन देवी थिइन्?,तलेजु भवानी,श्रीकोरी
+REL144,English,The living goddess Kumari is believed to embody which goddess?,Taleju (Durga),Tara
+REL144,Nepali,जीवित देवी कुमारीलाई कुन देवीको अवतार मानिन्छ?,तलेजु (दुर्गा),सरोजिनी
+REL145,English,How many mother goddesses form the Ashtamatrika group of the Kathmandu Valley tradition?,8,Eight
+REL145,Nepali,काठमाडौं उपत्यकाको परम्परामा अष्टमातृका समूहमा कति देवी हुन्छिन्?,8,सत्तारह
+REL146,English,What is the sacred month in which Newar Buddhists make daily pilgrimages to Swayambhunath called?,Gunla,Bhadra Puja
+REL146,Nepali,नेवार बौद्धहरूले दिनहुँ स्वयम्भू दर्शन गर्ने पवित्र महिनालाई के भनिन्छ?,गुँला,दिनहुँ
+REL147,English,The Mani Rimdu festival is celebrated at which famous monastery of the Everest region?,Tengboche Monastery,Thubchen Gompa
+REL147,Nepali,मणि रिम्दु पर्व सगरमाथा क्षेत्रको कुन प्रसिद्ध गुम्बामा मनाइन्छ?,तेङ्बोचे गुम्बा,तोसी गुम्बा।
+REL148,English,The Tengboche Monastery is located in which district?,Solukhumbu,Sherpa district
+REL148,Nepali,तेङ्बोचे गुम्बा कुन जिल्लामा अवस्थित छ?,सोलुखुम्बु,लुसा
+REL149,English,What is the sacred pond beside the Maya Devi Temple at Lumbini called?,Puskarini,Pond of Maya Devi
+REL149,Nepali,लुम्बिनीको मायादेवी मन्दिर छेउको पवित्र पोखरीलाई के भनिन्छ?,पुष्करिणी,लोटस पोखरी
+REL150,English,"The Ramgram stupa, believed to hold relics of the Buddha, is located in which district?",Parasi (Nawalparasi),Bangladesh
+REL150,Nepali,बुद्धको अस्तुधातु रहेको मानिने रामग्राम स्तूप कुन जिल्लामा अवस्थित छ?,परासी (नवलपरासी),बर्दिया जिल्ला
+REL151,English,In which ancient script is the Ashoka Pillar inscription at Lumbini written?,Brahmi script,Brahmī
+REL151,Nepali,लुम्बिनीको अशोक स्तम्भको अभिलेख कुन प्राचीन लिपिमा लेखिएको छ?,ब्राह्मी लिपि,लिपिक लिपि
+REL152,English,"According to the tradition endorsed at Lumbini, in which year BCE was the Buddha born?",623 BCE,563 BCE
+REL152,Nepali,लुम्बिनीमा मान्यता पाएको परम्पराअनुसार बुद्धको जन्म ईसापूर्व कुन वर्ष भएको थियो?,इ.पू. 623,ईसापूर्व ५६३
+REL153,English,Which Japanese architect designed the Lumbini Master Plan?,Kenzo Tange,Kenzo Tange
+REL153,Nepali,लुम्बिनी गुरुयोजना कुन जापानी वास्तुकारले तयार गरेका थिए?,केन्जो टाङ्गे,युजिओ स्टारकुन्स्की
+REL154,English,The mantra 'Om Mani Padme Hum' is associated with which bodhisattva?,Avalokiteshvara,Avalokiteśvara
+REL154,Nepali,ॐ मणि पद्मे हुँ' मन्त्र कुन बोधिसत्वसँग सम्बन्धित छ?,अवलोकितेश्वर,मि traceable बोधिसत्व
+REL155,English,How many colours appear in traditional Buddhist prayer flags?,5,Five
+REL155,Nepali,परम्परागत बौद्ध लुङदर (प्रार्थना ध्वजा) मा कतिवटा रङ हुन्छन्?,5,चार
+REL156,English,How many Dhyani (Pancha) Buddhas are venerated in Newar Buddhist tradition?,5,Five
+REL156,Nepali,नेवार बौद्ध परम्परामा कतिवटा ध्यानी (पञ्च) बुद्धको पूजा गरिन्छ?,5,पाँच
+REL157,English,Who raised Prince Siddhartha after the death of his mother?,Prajapati Gautami,"His father, Śuddodhana and his maternal grandfather, Mahavira."
+REL157,Nepali,आमाको निधनपछि राजकुमार सिद्धार्थलाई कसले हुर्काइन्?,प्रजापति गौतमी,गौतम बुद्ध
+REL158,English,Which disciple served as the Buddha's personal attendant?,Ananda,Ananda
+REL158,Nepali,बुद्धका निजी सहयोगी शिष्य को थिए?,आनन्द,श迦κन्ता र भDefineConstants।
+REL159,English,At what age did Prince Siddhartha renounce palace life (the Great Renunciation)?,29,Twenty-nine
+REL159,Nepali,राजकुमार सिद्धार्थले कति वर्षको उमेरमा गृहत्याग (महाभिनिष्क्रमण) गरेका थिए?,29,२९
+REL160,English,At what age did the Buddha attain enlightenment?,35,Twenty-nine
+REL160,Nepali,बुद्धले कति वर्षको उमेरमा बुद्धत्व प्राप्त गरेका थिए?,35,२९ वर्ष
+REL161,English,At what age did the Buddha pass away?,80,80
+REL161,Nepali,बुद्धको कति वर्षको उमेरमा महापरिनिर्वाण भएको थियो?,80,८० वर्ष
+REL162,English,Buddha Jayanti commemorates which three events of the Buddha's life?,"Birth, enlightenment and Mahaparinirvana","Birth, Enlightenment, and Nirvana"
+REL162,Nepali,बुद्ध जयन्तीले बुद्धको जीवनका कुन तीन घटनाको सम्झना गराउँछ?,"जन्म, बुद्धत्व प्राप्ति र महापरिनिर्वाण","*   जन्म
+*   बोधि
+*   निर्वाण"
+LIT001,English,Who is known as the 'Adikavi' (first poet) of Nepali literature?,Bhanubhakta Acharya,Puṇṭhaka Śarmā
+LIT001,Nepali,नेपाली साहित्यका 'आदिकवि' भनेर कसलाई चिनिन्छ?,भानुभक्त आचार्य,भक्त सम्बतराज योगী
+LIT002,English,Who is honoured with the title 'Mahakavi' in Nepali literature?,Laxmi Prasad Devkota,Bidhan Chandra Oli
+LIT002,Nepali,नेपाली साहित्यमा 'महाकवि' उपाधिले कसलाई सम्मान गरिएको छ?,लक्ष्मीप्रसाद देवकोटा,भक्तभजन भट्टराई
+LIT003,English,Who wrote the famous Nepali work 'Muna Madan'?,Laxmi Prasad Devkota,Buddha Shamsher Jang Bahadur Rana
+LIT003,Nepali,प्रसिद्ध नेपाली कृति 'मुनामदन' कसले लेखेका हुन्?,लक्ष्मीप्रसाद देवकोटा,भक्तप्रसाद ढुंगाना
+LIT004,English,Bhanubhakta Acharya is famous for translating which epic into Nepali?,The Ramayana,Mahābhārata
+LIT004,Nepali,भानुभक्त आचार्य कुन महाकाव्य नेपालीमा अनुवाद गरेकोमा प्रसिद्ध छन्?,रामायण,मनकामना
+LIT005,English,Bhanu Jayanti is celebrated as the birth anniversary of which poet?,Bhanubhakta Acharya,Kalidasa
+LIT005,Nepali,भानु जयन्ती कुन कविको जन्मजयन्तीका रूपमा मनाइन्छ?,भानुभक्त आचार्य,भानु जयन्ती कवि भानुभक्त कामिराजको जन्मजयन्तीका रूपमा मनाइन्छ।
+LIT006,English,"What is the name of Nepal's first newspaper, first published in 1901?",Gorkhapatra,The Rising Sun
+LIT006,Nepali,सन् 1901 मा प्रकाशन सुरु भएको नेपालको पहिलो पत्रिका कुन हो?,गोरखापत्र,नेपाल परिचय
+LIT007,English,Who wrote the novel 'Shirishko Phool'?,Parijat,Rabindranath Tagore
+LIT007,Nepali,शिरीषको फूल' उपन्यास कसले लेखेका हुन्?,पारिजात,भानुभक्त कामत
+LIT008,English,"In the story of 'Muna Madan', to which city does Madan travel to earn money?",Lhasa (Tibet),Calcutta
+LIT008,Nepali,मुनामदन'को कथामा मदन पैसा कमाउन कुन सहर जान्छन्?,ल्हासा (तिब्बत),पाटन
+LIT009,English,In which district of Nepal was Bhanubhakta Acharya born?,Tanahun,Bhimpur District
+LIT009,Nepali,भानुभक्त आचार्यको जन्म नेपालको कुन जिल्लामा भएको थियो?,तनहुँ,सिन्धुली
+LIT010,English,In which year (AD) was Laxmi Prasad Devkota born?,1909,1834
+LIT010,Nepali,लक्ष्मीप्रसाद देवकोटाको जन्म कुन वर्ष (ई.सं.) भएको थियो?,1909,१९४०
+LIT011,English,Which Nepali poet is known as 'Yuva Kavi'?,Motiram Bhatta,Bidur Sharma
+LIT011,Nepali,कुन नेपाली कविलाई 'युवा कवि' भनेर चिनिन्छ?,मोतीराम भट्ट,बलचनराज पौड
+LIT012,English,Which poet holds the title 'Kavi Shiromani' in Nepali literature?,Lekhnath Paudyal,Ramdhari Bai Chaudhary
+LIT012,Nepali,नेपाली साहित्यमा 'कविशिरोमणि' उपाधि पाएका कवि को हुन्?,लेखनाथ पौड्याल,जगनाथभट्टराई
+LIT013,English,Which Nepali poet is honoured as 'Rastra Kavi' (national poet)?,Madhav Prasad Ghimire,Buddha Pāl
+LIT013,Nepali,कुन नेपाली कवि 'राष्ट्रकवि' का रूपमा सम्मानित छन्?,माधवप्रसाद घिमिरे,जगन्नाथ पौडेल
+LIT014,English,Who wrote the famous Nepali poem 'Pagal' (The Lunatic)?,Laxmi Prasad Devkota,Damaru Bishwokarma
+LIT014,Nepali,प्रसिद्ध नेपाली कविता 'पागल' कसले लेखेका हुन्?,लक्ष्मीप्रसाद देवकोटा,भुवन भट्टराई
+LIT015,English,Who wrote the poem 'Pinjadako Suga' (The Parrot in the Cage)?,Lekhnath Paudyal,Rabindranath Tagore
+LIT015,Nepali,पिँजडाको सुगा' कविता कसले लेखेका हुन्?,लेखनाथ पौड्याल,युग थापालेख
+LIT016,English,Who wrote the Nepali play 'Mutuko Byatha'?,Balkrishna Sama,Ishwar Chandra Giri
+LIT016,Nepali,नेपाली नाटक 'मुटुको व्यथा' कसले लेखेका हुन्?,बालकृष्ण सम,भक्तभजन पौड
+LIT017,English,What was the real name of the writer Parijat?,Bishnu Kumari Waiba,Muhammad Ali Khan
+LIT017,Nepali,लेखिका पारिजातको वास्तविक नाम के थियो?,विष्णुकुमारी वाइबा,शरण।
+LIT018,English,Who was the first woman to win the Madan Puraskar?,Parijat,Kamala Das
+LIT018,Nepali,मदन पुरस्कार जित्ने पहिलो महिला को हुन्?,पारिजात,मर्लिन ए ब्रјан
+LIT019,English,What is the English title of Parijat's novel 'Shirishko Phool'?,Blue Mimosa,The Malligai Flower
+LIT019,Nepali,पारिजातको उपन्यास 'शिरीषको फूल'को अङ्ग्रेजी शीर्षक के हो?,ब्लु मिमोसा,The Hibiscus Star
+LIT020,English,Which Nepali Prime Minister wrote the novel 'Sumnima'?,Bishweshwar Prasad (B.P.) Koirala,Bhim Bahadur Thapa
+LIT020,Nepali,सुम्निमा' उपन्यास लेख्ने नेपाली प्रधानमन्त्री को हुन्?,विश्वेश्वरप्रसाद (बी.पी.) कोइराला,बीपी कोइराला।
+LIT021,English,Who wrote the historical novel 'Seto Bagh'?,Diamond Shumsher Rana,Muhammad Iqhlaq
+LIT021,Nepali,ऐतिहासिक उपन्यास 'सेतो बाघ' कसले लेखेका हुन्?,डायमनशमशेर राणा,सिल्वनो पेरेल
+LIT022,English,Who wrote the novel 'Palpasa Café'?,Narayan Wagle,Gabriel García Márquez
+LIT022,Nepali,पल्पसा क्याफे' उपन्यास कसले लेखेका हुन्?,नारायण वाग्ले,अल्बर्टो म्याओ
+LIT023,English,Who wrote the novel 'Basain'?,Lil Bahadur Chhetri,Ricardo Renier
+LIT023,Nepali,बसाइँ' उपन्यास कसले लेखेका हुन्?,लीलबहादुर क्षत्री,भानुभक्त लुईस कपाशी
+LIT024,English,Who wrote the novel 'Karnali Blues'?,Buddhisagar,Rajan Kalmanovsky
+LIT024,Nepali,कर्णाली ब्लुज' उपन्यास कसले लेखेका हुन्?,बुद्धिसागर,बल sanitaire शर्मा
+LIT025,English,Who wrote the novel 'Seto Dharti'?,Amar Neupane,Ramdhari Singh Dokwal
+LIT025,Nepali,सेतो धरती' उपन्यास कसले लेखेका हुन्?,अमर न्यौपाने,भक्तभजन भट्टराई
+LIT026,English,Who wrote the famous Nepali short story 'Naso'?,Guru Prasad Mainali,Buddha Dhiraman Gurung
+LIT026,Nepali,प्रसिद्ध नेपाली कथा 'नासो' कसले लेखेका हुन्?,गुरुप्रसाद मैनाली,भुवन पोखरेल
+LIT027,English,Devkota's epic 'Shakuntala' is based on a play by which classical Sanskrit poet?,Kalidasa,Kalidasa
+LIT027,Nepali,देवकोटाको महाकाव्य 'शाकुन्तल' कुन शास्त्रीय संस्कृत कविको नाटकमा आधारित छ?,कालिदास,बृहत् काव्य
+LIT028,English,For which autobiographical work did Jhamak Ghimire win the Madan Puraskar?,Jiwan Kanda Ki Phool,*A Daughter of the Himalayas*
+LIT028,Nepali,झमक घिमिरेले कुन आत्मकथात्मक कृतिका लागि मदन पुरस्कार जितेकी हुन्?,जीवन काँडा कि फूल,सृष्टि पौड
+LIT029,English,The Madan Puraskar literary prize was established in memory of which person?,Madan Shumsher JBR,Jagjit Singh Kapoor
+LIT029,Nepali,मदन पुरस्कार कुन व्यक्तिको सम्झनामा स्थापना गरिएको हो?,मदन शमशेर जबरा,भेनेचुला मदन
+LIT030,English,Who wrote the poetry collection 'Ghumne Mechmathi Andho Manchhe'?,Bhupi Sherchan,Rabindranath Tagore
+LIT030,Nepali,घुम्ने मेचमाथि अन्धो मान्छे' कवितासङ्ग्रह कसले लेखेका हुन्?,भूपि शेरचन,प्रदीप प्रभाдак
+LIT031,English,"Laxmi Prasad Devkota was born on the day of which festival, after which he was named?",Laxmi Puja (during Tihar),Dashain
+LIT031,Nepali,"लक्ष्मीप्रसाद देवकोटाको जन्म कुन पर्वको दिनमा भएको थियो, जसका आधारमा उनको नाम राखिएको हो?",लक्ष्मीपूजा (तिहार),विजया दशमी
+LIT032,English,In which year (AD) was Bhanubhakta Acharya born?,1814,1484
+LIT032,Nepali,भानुभक्त आचार्यको जन्म कुन वर्ष (ई.सं.) भएको थियो?,1814,1789
+LIT033,English,"Who wrote the elegy 'Gauri', written in memory of the poet's late wife?",Madhav Prasad Ghimire,Rabindranath Tagore
+LIT033,Nepali,दिवंगत पत्नीको सम्झनामा लेखिएको शोककाव्य 'गौरी' कसले लेखेका हुन्?,माधवप्रसाद घिमिरे,भुस्करा थापा शाही
+LIT034,English,Who wrote the short story collection 'Doshi Chashma'?,Bishweshwar Prasad (B.P.) Koirala,Maqsood Adil
+LIT034,Nepali,कथासङ्ग्रह 'दोषी चश्मा' कसले लेखेका हुन्?,विश्वेश्वरप्रसाद (बी.पी.) कोइराला,मोहन भट्टराई
+LIT035,English,Which Nepali poet is known as 'Yug Kavi'?,Siddhicharan Shrestha,Bidhan Chandra Oli
+LIT035,Nepali,कुन नेपाली कविलाई 'युगकवि' भनिन्छ?,सिद्धिचरण श्रेष्ठ,bhanुपाल शर्मा
+LIT036,English,Who wrote the play 'Masan'?,Gopal Prasad Rimal,Federico García Lorca
+LIT036,Nepali,मसान' नाटक कसले लेखेका हुन्?,गोपालप्रसाद रिमाल,भानुभक्त कपाशी
+LIT037,English,What is the real name of the poet Bairagi Kainla?,Til Bikram Nembang,Kailash Chandra Singh
+LIT037,Nepali,कवि बैरागी काइँलाको वास्तविक नाम के हो?,तिलविक्रम नेम्बाङ,देउलाल बैरागी
+LIT038,English,Which essayist is famous for satirical Nepali essays such as 'Jaya Bholanath'?,Bhairav Aryal,Bhim Acharya
+LIT038,Nepali,जय भोलानाथ' जस्ता हास्यव्यङ्ग्य निबन्धका लागि प्रसिद्ध निबन्धकार को हुन्?,भैरव अर्याल,रामचन्द्र शर्मा
+LIT039,English,Who wrote the novel 'Radha'?,Krishna Dharabasi,Bankim Chandra
+LIT039,Nepali,राधा' उपन्यास कसले लेखेका हुन्?,कृष्ण धरावासी,भानुभक्त कपाशी
+LIT040,English,Who wrote the novel 'Ulaar'?,Nayan Raj Pandey,Kim Stanley Robinson
+LIT040,Nepali,उलार' उपन्यास कसले लेखेका हुन्?,नयनराज पाण्डे,प्रेमराज भट्ट
+LIT041,English,In which year (AD) was the Nepal Academy (then Royal Nepal Academy) established?,1957,1932
+LIT041,Nepali,नेपाल प्रज्ञा प्रतिष्ठान (तत्कालीन रोयल नेपाल एकेडेमी) कुन वर्ष (ई.सं.) स्थापना भएको थियो?,1957,१९६१
+LIT042,English,"In Devkota's 'Muna Madan', what is the relationship of Muna to Madan?",His wife,Muna is Madan's sister.
+LIT042,Nepali,देवकोटाको 'मुनामदन'मा मुना मदनकी को हुन्?,उनकी पत्नी,देवकोटाको 'मुनामदन'मा मुना मदन देवकोटाका भाइ हुन्।
+LIT043,English,Who wrote the famous essay 'Ke Nepal Sano Chha?' (Is Nepal Small?)?,Laxmi Prasad Devkota,Bhimsen Thapa
+LIT043,Nepali,प्रसिद्ध निबन्ध 'के नेपाल सानो छ?' कसले लेखेका हुन्?,लक्ष्मीप्रसाद देवकोटा,बिमार्जुन थापा
+LIT044,English,"What is the most prestigious literary prize of Nepal, awarded annually for the best Nepali book?",Madan Puraskar,Sahitya Akademi Award for Nepali Language
+LIT044,Nepali,नेपाली भाषाको उत्कृष्ट कृतिलाई वर्षेनी दिइने नेपालको सबैभन्दा प्रतिष्ठित साहित्यिक पुरस्कार कुन हो?,मदन पुरस्कार,नेपाल सरकारको साहित्य पुरस्कार
+LIT045,English,In which folk metre is Devkota's 'Muna Madan' composed?,Jhyaure,Bashful metre
+LIT045,Nepali,देवकोटाको 'मुनामदन' कुन लोकलयमा रचिएको छ?,झ्याउरे,लुकेली
+LIT046,English,Who wrote the long poem 'Taruna Tapasi'?,Lekhnath Paudyal,Rabindranath Tagore
+LIT046,Nepali,तरुण तपसी' काव्य कसले लेखेका हुन्?,लेखनाथ पौड्याल,प्रसाद प्रहाद्
+LIT047,English,Who wrote the essay collection 'Laxmi Nibandha Sangraha'?,Laxmi Prasad Devkota,Rabindranath Tagore
+LIT047,Nepali,लक्ष्मी निबन्धसङ्ग्रह' कसले लेखेका हुन्?,लक्ष्मीप्रसाद देवकोटा,बक्कलराम बुटवल
+LIT048,English,B.P. Koirala's novel 'Modiaain' retells episodes of which epic?,The Mahabharata,Ramayana
+LIT048,Nepali,बी.पी. कोइरालाको 'मोदिआइन' उपन्यासले कुन महाकाव्यका प्रसंगहरू पुनर्कथन गर्छ?,महाभारत,महाभारतको प्रसंग
+LIT049,English,Who wrote the novel 'Tin Ghumti'?,Bishweshwar Prasad (B.P.) Koirala,Jagjit Gill
+LIT049,Nepali,तीन घुम्ती' उपन्यास कसले लेखेका हुन्?,विश्वेश्वरप्रसाद (बी.पी.) कोइराला,जोसेफ हेन्ले
+LIT050,English,Who wrote the novel 'Firfire'?,Buddhisagar,Charles Dickens
+LIT050,Nepali,फिरफिरे' उपन्यास कसले लेखेका हुन्?,बुद्धिसागर,भानुभक्त लुईस
+LIT051,English,Who wrote the popular novel 'Summer Love'?,Subin Bhattarai,Nicholas Sparks
+LIT051,Nepali,लोकप्रिय उपन्यास 'समर लभ' कसले लेखेका हुन्?,सुबिन भट्टराई,जेन ऑस्टेन
+LIT052,English,Krishna Dharabasi's story 'Jhola' deals with which historical practice?,Sati system,Child marriage
+LIT052,Nepali,कृष्ण धरावासीको कथा 'झोला' कुन ऐतिहासिक प्रथामा आधारित छ?,सती प्रथा,मेघन स्टार्क
+LIT053,English,"The writer Jhamak Ghimire, who cannot use her hands, writes using what?",Her foot,Her feet.
+LIT053,Nepali,हात चलाउन नसक्ने लेखिका झमक घिमिरे केको सहायताले लेख्छिन्?,आफ्नो खुट्टाले,घिमिरे केटाको।
+LIT054,English,Which Nepali dramatist is often called the 'Shakespeare of Nepal'?,Balkrishna Sama,Buddha Sharma
+LIT054,Nepali,कुन नेपाली नाटककारलाई 'नेपालका शेक्सपियर' भनिन्छ?,बालकृष्ण सम,बलचनन्द पौड
+LIT055,English,In which year (AD) did Laxmi Prasad Devkota die?,1959,1932
+LIT055,Nepali,लक्ष्मीप्रसाद देवकोटाको निधन कुन वर्ष (ई.सं.) भएको थियो?,1959,२०६४
+LIT056,English,In which Indian city did Motiram Bhatta first publish Bhanubhakta's Ramayana?,Banaras (Varanasi),Poona
+LIT056,Nepali,मोतीराम भट्टले भानुभक्तको रामायण पहिलो पटक भारतको कुन सहरबाट प्रकाशित गरेका थिए?,बनारस (वाराणसी),बनारस
+LIT057,English,Motiram Bhatta wrote the first biography of which poet?,Bhanubhakta Acharya,Dhruva बल्लभadeva
+LIT057,Nepali,मोतीराम भट्टले कुन कविको पहिलो जीवनी लेखेका थिए?,भानुभक्त आचार्य,जेम्स जेड. फिचर
+LIT058,English,The Sajha Puraskar literary award is conferred by which publishing house?,Sajha Prakashan,"National Book Trust, India"
+LIT058,Nepali,साझा पुरस्कार कुन प्रकाशन संस्थाले प्रदान गर्छ?,साझा प्रकाशन,विश्व साहित्य पुरस्कार।
+LIT059,English,Mountains Painted with Turmeric' is the English translation of which Nepali novel?,Basain,Shankhamal
+LIT059,Nepali,माउन्टेन्स पेन्टेड विथ टर्मरिक' कुन नेपाली उपन्यासको अङ्ग्रेजी अनुवाद हो?,बसाइँ,द रेकलेस।
+LIT060,English,Who wrote the celebrated novel 'Aaja Ramita Chha'?,Indra Bahadur Rai,Amritlal Nagar
+LIT060,Nepali,चर्चित उपन्यास 'आज रमिता छ' कसले लेखेका हुन्?,इन्द्रबहादुर राई,जेम्स जॉयस
+LIT061,English,Siddhicharan Shrestha's famous poem expresses love for which place?,Okhaldhunga,Kathmandu
+LIT061,Nepali,सिद्धिचरण श्रेष्ठको प्रसिद्ध कविताले कुन ठाउँप्रतिको माया व्यक्त गर्छ?,ओखलढुङ्गा,तराईको माया
+LIT062,English,"In B.P. Koirala's novel 'Sumnima', the heroine Sumnima belongs to which community?",Kirat,Magar
+LIT062,Nepali,बी.पी. कोइरालाको 'सुम्निमा' उपन्यासकी नायिका सुम्निमा कुन समुदायकी हुन्?,किरात,थिमी मगर
+LIT063,English,Who wrote the play 'Malati Mangale'?,Madhav Prasad Ghimire,Vishnuvardhana
+LIT063,Nepali,गीतिनाटक 'मालती मङ्गले' कसले लेखेका हुन्?,माधवप्रसाद घिमिरे,बर्लिनतारा भोलेक र जोन वाल्फांट।
+LIT064,English,Who wrote the short story collection 'Naya Sadakko Geet'?,Ramesh Bikal,Rafiq Rizvi
+LIT064,Nepali,कथासङ्ग्रह 'नयाँ सडकको गीत' कसले लेखेका हुन्?,रमेश विकल,लभराज भट्ट
+LIT065,English,Which epic (mahakavya) by Devkota tells the story of a devoted wife named Sulochana?,Sulochana,Sulochana Mahabharata
+LIT065,Nepali,देवकोटाको कुन महाकाव्यले सुलोचना नामकी नारीको कथा भन्छ?,सुलोचना,देवकोटा
+LIT066,English,Who wrote the famous Nepali poem 'Yatri' (The Pilgrim)?,Laxmi Prasad Devkota,Buddha Sharma
+LIT066,Nepali,प्रसिद्ध नेपाली कविता 'यात्री' कसले लेखेका हुन्?,लक्ष्मीप्रसाद देवकोटा,बा Rabin Shamsher
+LIT067,English,Which ministry did Laxmi Prasad Devkota briefly head as minister in 1957?,Education,Ministry of Culture
+LIT067,Nepali,सन् 1957 मा लक्ष्मीप्रसाद देवकोटा कुन मन्त्रालयका मन्त्री बनेका थिए?,शिक्षा,आन्तरिक लगानी मन्त्रालय
+LIT068,English,In which year (AD) did Bhanubhakta Acharya die?,1868,1777
+LIT068,Nepali,भानुभक्त आचार्यको निधन कुन वर्ष (ई.सं.) भएको थियो?,1868,१९७३
+LIT069,English,Which didactic work by Bhanubhakta Acharya offers advice on household conduct to a daughter-in-law?,Badhusiksha,Mudrarāja vacanamālā
+LIT069,Nepali,भानुभक्त आचार्यको कुन कृतिले बुहारीलाई घरव्यवहारको शिक्षा दिन्छ?,बधूशिक्षा,"""भानुभक्त आचार्यको 'उदय'ले बुहारीलाई घरव्यवहारको शिक्षा दिन्छ।"""
+LIT070,English,Who first honoured Bhanubhakta with the title 'Adikavi'?,Motiram Bhatta,Bhimsen Thakar
+LIT070,Nepali,भानुभक्तलाई 'आदिकवि' उपाधि पहिलो पटक कसले दिएका हुन्?,मोतीराम भट्ट,मृत्युंजय प्रशन्न
+LIT071,English,In which year (AD) was Motiram Bhatta born?,1866,1734
+LIT071,Nepali,मोतीराम भट्टको जन्म कुन वर्ष (ई.सं.) भएको थियो?,1866,१९४७
+LIT072,English,Which poet is credited with introducing the ghazal form into Nepali poetry?,Motiram Bhatta,Ram Sharanagati
+LIT072,Nepali,नेपाली कवितामा गजल विधा भित्र्याउने श्रेय कुन कविलाई दिइन्छ?,मोतीराम भट्ट,शाहबाहादुर
+LIT073,English,Who wrote the poetry collection 'Ritu Bichar'?,Lekhnath Paudyal,Rabindranath Tagore
+LIT073,Nepali,ऋतु विचार' कृति कसले लेखेका हुन्?,लेखनाथ पौड्याल,भानुभक्त कामरोलिङ्ग
+LIT074,English,In which district was Lekhnath Paudyal born?,Kaski,Ghimsona
+LIT074,Nepali,लेखनाथ पौड्यालको जन्म कुन जिल्लामा भएको थियो?,कास्की,कच्छिका जिल्ला
+LIT075,English,In which district was Madhav Prasad Ghimire born?,Lamjung,Dhading
+LIT075,Nepali,माधवप्रसाद घिमिरेको जन्म कुन जिल्लामा भएको थियो?,लमजुङ,म्याचিউरी
+LIT076,English,Who wrote the pioneering modern poem 'Aamako Sapana' (A Mother's Dream)?,Gopal Prasad Rimal,Radhanath Rath
+LIT076,Nepali,आधुनिक नेपाली कविता 'आमाको सपना' कसले लेखेका हुन्?,गोपालप्रसाद रिमाल,सूर्य थापा पौड
+LIT077,English,Who is regarded as the pioneer of prose poetry (gadya kavita) in Nepali literature?,Gopal Prasad Rimal,Damaru Thapa
+LIT077,Nepali,नेपाली साहित्यमा गद्य कविताका प्रवर्तक कसलाई मानिन्छ?,गोपालप्रसाद रिमाल,भुवานन्द बल्लभ
+LIT078,English,Who wrote the historical verse play 'Mukunda Indira'?,Balkrishna Sama,Kalidasa
+LIT078,Nepali,नाटक 'मुकुन्द इन्दिरा' कसले लेखेका हुन्?,बालकृष्ण सम,बलकृष्ण पौड
+LIT079,English,The dramatist Balkrishna Sama was born into which ruling family of Nepal?,The Rana family,Shah
+LIT079,Nepali,नाटककार बालकृष्ण सम नेपालको कुन शासक परिवारमा जन्मेका थिए?,राणा परिवार,सूर्यवंशी राजा परिवार
+LIT080,English,Who wrote the novel 'Pallo Gharko Jhyal' under the pen name 'Gothale'?,Govinda Bahadur Malla,Bhim Acharya
+LIT080,Nepali,गोठाले' उपनामबाट 'पल्लो घरको झ्याल' उपन्यास कसले लेखेका हुन्?,गोविन्दबहादुर मल्ल,भुवन पोखरेल
+LIT081,English,Who wrote the novel 'Narendra Dai'?,Bishweshwar Prasad (B.P.) Koirala,Saadat Hasan Tabatabaei
+LIT081,Nepali,नरेन्द्र दाइ' उपन्यास कसले लेखेका हुन्?,विश्वेश्वरप्रसाद (बी.पी.) कोइराला,भानुभक्त कपाशी
+LIT082,English,Who wrote the Madan Puraskar-winning novel 'Madhabi'?,Madan Mani Dixit,Kamleshwar
+LIT082,Nepali,मदन पुरस्कार विजेता उपन्यास 'माधवी' कसले लेखेका हुन्?,मदनमणि दीक्षित,श्रीलाल ओ Bamberger
+LIT083,English,Who wrote the Madan Puraskar-winning memoir-novel 'Antarmanko Yatra'?,Jagadish Ghimire,Surendra Pal Singh
+LIT083,Nepali,मदन पुरस्कार विजेता कृति 'अन्तर्मनको यात्रा' कसले लेखेका हुन्?,जगदीश घिमिरे,भक्तभजन बोधले
+LIT084,English,Who wrote the novel 'Alikhit'?,Dhruba Chandra Gautam,Fyodor Dostoevsky
+LIT084,Nepali,अलिखित' उपन्यास कसले लेखेका हुन्?,ध्रुवचन्द्र गौतम,भक्तभजनलाल बोधायन
+LIT085,English,Who wrote the novel 'Pagal Basti'?,Sarubhakta,Gulshan Nanda
+LIT085,Nepali,पागल बस्ती' उपन्यास कसले लेखेका हुन्?,सरुभक्त,सयर साम्बासुन्द्री
+LIT086,English,Who wrote the Madan Puraskar-winning poetry collection 'Damini Bhir'?,Rajan Mukarung,Shiv Singh
+LIT086,Nepali,मदन पुरस्कार विजेता कृति 'दमिनी भीर' कसले लेखेका हुन्?,राजन मुकारुङ,उर्मिला कlaubुर्थ।
+LIT087,English,Who wrote the Madan Puraskar-winning novel 'Yogmaya'?,Neelam Karki Niharika,Kamleshwar
+LIT087,Nepali,मदन पुरस्कार विजेता उपन्यास 'योगमाया' कसले लेखेकी हुन्?,नीलम कार्की निहारिका,यसबारेको निश्चित जानकारी उपलब्ध छैन।
+LIT088,English,Who wrote the Madan Puraskar-winning book 'Khalangama Hamala'?,Radha Paudel,Ramashankar Yadav
+LIT088,Nepali,मदन पुरस्कार विजेता कृति 'खलंगामा हमला' कसले लेखेकी हुन्?,राधा पौडेल,अमरेश सम्री
+LIT089,English,Who wrote the novel 'Ghanachakkar'?,Sanjeev Uprety,O.V. Vijayan
+LIT089,Nepali,घनचक्कर' उपन्यास कसले लेखेका हुन्?,सञ्जीव उप्रेती,भानुभक्त कपाशी
+LIT090,English,Who wrote the diaspora novel 'Muglan'?,Govinda Raj Bhattarai,Isaac Babel
+LIT090,Nepali,मुगलान' उपन्यास कसले लेखेका हुन्?,गोविन्दराज भट्टराई,मुगलान' उपन्यास Mirza Adeeb Ali Khan्ले लेखेको हो।
+LIT091,English,"Who wrote the novel 'Muluk Bahira', depicting Nepali life outside Nepal?",Lil Bahadur Chhetri,Bret Harte
+LIT091,Nepali,नेपालबाहिरको नेपाली जीवन चित्रण गर्ने उपन्यास 'मुलुकबाहिर' कसले लेखेका हुन्?,लीलबहादुर क्षत्री,प्रदीप शाक्य
+LIT092,English,The novelist Lil Bahadur Chhetri lives in which Indian state?,Assam,Sikkim
+LIT092,Nepali,उपन्यासकार लीलबहादुर क्षत्री भारतको कुन राज्यमा बस्छन्?,आसाम,नेपाल।
+LIT093,English,The writer Parijat was born in which hill town outside Nepal?,Darjeeling,Shimla
+LIT093,Nepali,लेखिका पारिजातको जन्म नेपालबाहिर कुन पहाडी सहरमा भएको थियो?,दार्जीलिङ,नेपालबाहिर काठमाडौं।
+LIT094,English,Parijat was associated with which 1960s literary-musical movement?,Ralpha movement,Let it be
+LIT094,Nepali,पारिजात 1960 को दशकको कुन साहित्यिक-सांगीतिक आन्दोलनसँग आबद्ध थिइन्?,राल्फा आन्दोलन,नेपाली साहित्य-साంగीतिक आन्दोलन
+LIT095,English,The poet Bhupi Sherchan was born in which district?,Mustang,Ghillaghat
+LIT095,Nepali,कवि भूपि शेरचनको जन्म कुन जिल्लामा भएको थियो?,मुस्ताङ,सोलुखुर्द
+LIT096,English,The writer Jhamak Ghimire was born in which district?,Dhankuta,Dhading
+LIT096,Nepali,लेखिका झमक घिमिरेको जन्म कुन जिल्लामा भएको थियो?,धनकुटा,म्याचुवर्ड
+LIT097,English,The 'Tesro Aayam' (Third Dimension) literary movement was launched from which city?,Darjeeling,Mumbai
+LIT097,Nepali,तेस्रो आयाम' साहित्यिक आन्दोलन कुन सहरबाट सुरु भएको थियो?,दार्जीलिङ,पेरिस
+LIT098,English,"Besides the Madan Puraskar, which honour does the Madan Puraskar Guthi confer for lifetime contribution?",Jagadamba Shree,Madanacharya Award
+LIT098,Nepali,मदन पुरस्कारबाहेक मदन पुरस्कार गुठीले आजीवन योगदानका लागि कुन सम्मान प्रदान गर्छ?,जगदम्बाश्री,मदन पुरस्कार
+LIT099,English,Who founded the Madan Puraskar Guthi?,Queen Jagadamba Kumari Devi,Jagannathrao Basu
+LIT099,Nepali,मदन पुरस्कार गुठीको स्थापना कसले गरेकी हुन्?,रानी जगदम्बाकुमारी देवी,मदन देवी कार्की।
+LIT100,English,"Who wrote 'Sugata Saurabha', the celebrated Nepal Bhasa epic on the Buddha's life?",Chittadhar Hridaya,Śrījyoti
+LIT100,Nepali,बुद्धको जीवनमा आधारित नेपालभाषाको प्रसिद्ध महाकाव्य 'सुगत सौरभ' कसले लेखेका हुन्?,चित्तधर हृदय,भक्तप्रसाद भट्टराई
+LIT101,English,By which honorific title is the Nepal Bhasa poet Chittadhar known?,Kavi Keshari,Pandit
+LIT101,Nepali,नेपालभाषाका कवि चित्तधर हृदयलाई कुन उपाधिले चिनिन्छ?,कविकेशरी,नेपाली साहित्यको अग्रपदु
+LIT102,English,"Who edited 'Sharada', the pioneering literary magazine of the 1930s?",Riddhi Bahadur Malla,M.S. Raman and S. Damodar Rao
+LIT102,Nepali,1930 को दशकको अग्रणी साहित्यिक पत्रिका 'शारदा'का सम्पादक को थिए?,ऋद्धिबहादुर मल्ल,भुपाल् भट्टाचार्य
+LIT103,English,The literary monthly 'Madhuparka' is published by which institution?,Gorkhapatra Corporation,The Publication Society
+LIT103,Nepali,साहित्यिक मासिक 'मधुपर्क' कुन संस्थाले प्रकाशन गर्छ?,गोरखापत्र संस्थान,नेपाल अनुवाद संस्थान।
+LIT104,English,Which Nepal-born writer's English story collection 'Arresting God in Kathmandu' won international acclaim?,Samrat Upadhyay,Bishal Sharma
+LIT104,Nepali,कुन नेपाली मूलका लेखकको अङ्ग्रेजी कथासङ्ग्रह 'अरेस्टिङ गड इन काठमाडौं' अन्तर्राष्ट्रिय रूपमा चर्चित भयो?,सम्राट उपाध्याय,प्रदीप रई
+LIT105,English,Who wrote the English-language book 'Forget Kathmandu'?,Manjushree Thapa,Robert Finch
+LIT105,Nepali,अङ्ग्रेजी कृति 'फर्गेट काठमाडौं' कसले लेखेकी हुन्?,मञ्जुश्री थापा,जेनिफर ली टौनसन
+LIT106,English,Who wrote the lyrics of Nepal's former national anthem 'Shreeman Gambhir'?,Chakrapani Chalise,Bhimsen Thapa
+LIT106,Nepali,नेपालको पुरानो राष्ट्रिय गान 'श्रीमान् गम्भीर'का रचयिता को हुन्?,चक्रपाणि चालिसे,श्रीमान् गम्भीरका रचयिता लेखनाथ पौड थिए।
+LIT107,English,Who is the male protagonist of Parijat's novel 'Shirishko Phool'?,Suyogbir,Shirish
+LIT107,Nepali,पारिजातको 'शिरीषको फूल' उपन्यासको पुरुष पात्र को हो?,सुयोगवीर,भुस्करा
+LIT108,English,Diamond Shumsher's 'Seto Bagh' centres on the life of which son of Jung Bahadur Rana?,Jagat Jung,Bahadur Singh Rana
+LIT108,Nepali,डायमनशमशेरको 'सेतो बाघ' जङ्गबहादुर राणाका कुन छोराको जीवनमा केन्द्रित छ?,जगतजङ्ग,जङ्गबहादुर राणाका छोरा।
+LIT109,English,Devkota's 'Muna Madan' was based on a ballad of which language tradition?,Newar (Nepal Bhasa),Newari
+LIT109,Nepali,देवकोटाको 'मुनामदन' कुन भाषा परम्पराको लोकगीतमा आधारित छ?,नेवार (नेपालभाषा),नेपाली भाषा परम्पराको लोकगीत
+LIT110,English,Tana Sarma' was the pen name of which Nepali writer known for travel essays?,Taranath Sharma,Bhim Acharya
+LIT110,Nepali,नियात्राका लागि प्रसिद्ध 'तानासर्मा' कुन नेपाली लेखकको उपनाम हो?,तारानाथ शर्मा,भुवन आचार्य
+LIT111,English,Which Nepali anthropologist wrote the influential book 'Fatalism and Development'?,Dor Bahadur Bista,Arjun Appadurai
+LIT111,Nepali,प्रभावशाली पुस्तक 'फेटालिज्म एन्ड डेभलपमेन्ट' कुन नेपाली मानवशास्त्रीले लेखेका हुन्?,डोरबहादुर विष्ट,बलभद्र थापाङ्ग
+LIT112,English,In which year was Nepali included in the Eighth Schedule of India's constitution as a recognised language?,1992,2003
+LIT112,Nepali,नेपाली भाषा भारतको संविधानको आठौँ अनुसूचीमा कुन वर्ष समावेश गरियो?,1992,२०७२
+LIT113,English,Which Nepali poet is honoured with the title 'Ashu Kavi' (the instant poet)?,Shambhu Prasad Dhungel,Bhikhari Bastakoti
+LIT113,Nepali,आशुकवि' उपाधिले कुन नेपाली कवि सम्मानित छन्?,शम्भुप्रसाद ढुङ्गेल,भुवन पोखरेल
+LIT114,English,Who wrote the classic Nepali short story 'Pariband'?,Pushkar Shamsher,Damaru Sharma
+LIT114,Nepali,क्लासिक नेपाली कथा 'परिबन्द' कसले लेखेका हुन्?,पुष्करशमशेर,भुपाला थापा लेख्ने।
+LIT115,English,Who wrote the modern essay 'Abstract Chintan: Pyaj'?,Shankar Lamichhane,Rohin Kompella
+LIT115,Nepali,आधुनिक निबन्ध 'एब्स्ट्र्याक्ट चिन्तन: प्याज' कसले लेखेका हुन्?,शङ्कर लामिछाने,सत्येन थापाद्युज
+LIT116,English,The poet Bairagi Kainla served as chancellor of which national institution?,Nepal Academy (Nepal Pragya Pratisthan),University of Hyderabad
+LIT116,Nepali,कवि बैरागी काइँला कुन राष्ट्रिय संस्थाका कुलपति भएका थिए?,नेपाल प्रज्ञा प्रतिष्ठान,नेपाल विज्ञान तथा प्रविधि विश्वविद्यालय ( NSTU)

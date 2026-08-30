@@ -1,0 +1,272 @@
+﻿Question ID,Language,Question,Gold Answer,Gemma Answer
+ECO001,English,What is the official currency of Nepal?,Nepalese Rupee,Nepalese Rupee
+ECO001,Nepali,नेपालको आधिकारिक मुद्रा के हो?,नेपाली रुपैयाँ,रुपैयाँ
+ECO002,English,What is the ISO 4217 currency code for the Nepalese Rupee?,NPR,NP₨
+ECO002,Nepali,नेपाली रुपैयाँको ISO 4217 मुद्रा कोड के हो?,NPR,NPL
+ECO007,English,In which year was Nepal Bank Limited established?,1937 (1994 BS),1931
+ECO007,Nepali,नेपाल बैंक लिमिटेड कुन सालमा स्थापना भएको थियो?,सन् १९३७ (वि.सं. १९९४),१९७२
+ECO008,English,Which act currently governs the establishment and functions of Nepal Rastra Bank?,"Nepal Rastra Bank Act, 2002","The Nepal Rastra Bank Act, 2011."
+ECO008,Nepali,हाल नेपाल राष्ट्र बैंकको स्थापना र कार्यलाई कुन ऐनले नियमन गर्दछ?,"नेपाल राष्ट्र बैंक ऐन, २०५८","नेपाल राष्ट्र बैंक ऐन, २०४७"
+ECO009,English,Which was the first fully state-owned commercial bank established after Nepal Bank Limited?,Rastriya Banijya Bank,Agrani Development Bank Limited
+ECO009,Nepali,नेपाल बैंक लिमिटेड पछि स्थापना भएको पहिलो पूर्ण सरकारी स्वामित्वको व्यावसायिक बैंक कुन हो?,राष्ट्रिय बाणिज्य बैंक,सвет बैंक लिमिटेड
+ECO010,English,In which year was Rastriya Banijya Bank established?,1966 (2022 BS),1949
+ECO010,Nepali,राष्ट्रिय बाणिज्य बैंक कुन सालमा स्थापना भएको थियो?,सन् १९६६ (वि.सं. २०२२),१९४६ साल।
+ECO011,English,"What is the smallest traditional monetary subunit of the Nepalese Rupee, equal to one-hundredth of a rupee?",Paisa,Laku
+ECO011,Nepali,"नेपाली रुपैयाँको सबैभन्दा सानो परम्परागत उपएकाइ, जुन रुपैयाँको एक-सयौं भाग हो, के हो?",पैसा,लाटा
+ECO012,English,Which government body regulates commercial banks and financial institutions in Nepal?,Nepal Rastra Bank,Nepal Rastra Bank (NRB)
+ECO012,Nepali,नेपालमा व्यावसायिक बैंक तथा वित्तीय संस्थाहरूको नियमन कुन सरकारी निकायले गर्दछ?,नेपाल राष्ट्र बैंक,नेपाल राष्ट्र बैंक।
+ECO013,English,What Nepali symbol is commonly used to denote the Nepalese Rupee?,रू,Rs.
+ECO013,Nepali,नेपाली रुपैयाँ जनाउन सामान्यतया कुन नेपाली चिन्ह प्रयोग गरिन्छ?,रू,रौत
+ECO014,English,What is the lowest-denomination banknote currently issued by Nepal Rastra Bank?,Five-rupee note (NPR 5),Rs 1
+ECO014,Nepali,हाल नेपाल राष्ट्र बैंकले जारी गर्ने सबैभन्दा सानो अंकको नोट कुन हो?,पाँच रुपैयाँको नोट,रुपैया नोट १०० रुपैयाँ
+ECO015,English,"Nepal's currency system is decimal, with how many paisa equal to one rupee?",100,100
+ECO015,Nepali,"नेपालको मुद्रा प्रणाली दशमलव प्रणालीमा आधारित छ, एक रुपैयाँ बराबर कति पैसा हुन्छ?",१००,१०० पैसा
+ECO016,English,What is the name of Nepal's only stock exchange?,Nepal Stock Exchange (NEPSE),Nepal Stock Exchange (NSE)
+ECO016,Nepali,नेपालको एकमात्र धितोपत्र बजारको नाम के हो?,नेपाल स्टक एक्सचेन्ज (नेप्से),नेप्लिङ धितोपत्र बजार
+ECO017,English,In which year was NEPSE established in its current form?,1993,1990
+ECO017,Nepali,नेप्से हालको स्वरूपमा कुन सालमा स्थापना भएको थियो?,सन् १९९३,२०४७
+ECO018,English,"What was the predecessor organization to NEPSE, established in 1976?",Securities Exchange Center,Cámara de Comercio de Santiago
+ECO018,Nepali,सन् १९७६ मा स्थापना भएको नेप्सेको पूर्ववर्ती संस्था कुन थियो?,धितोपत्र विनिमय केन्द्र,नेप्ल्स।
+ECO019,English,Which government body regulates the securities market in Nepal?,Securities Board of Nepal (SEBON),Securities Board of Nepal (SEBON)
+ECO019,Nepali,नेपालमा धितोपत्र बजारको नियमन कुन सरकारी निकायले गर्दछ?,धितोपत्र बोर्ड नेपाल (सेबोन),नेप्लि सेक्युरिटीज बोर्ड (N Securities Board)
+ECO020,English,In which year was the Securities Board of Nepal (SEBON) established?,1993,2007
+ECO020,Nepali,धितोपत्र बोर्ड नेपाल (सेबोन) कुन सालमा स्थापना भएको थियो?,सन् १९९३,१९७४ साल
+ECO021,English,What is the benchmark index of the Nepal Stock Exchange called?,NEPSE Index,Nepal Stock Index (NSI)
+ECO021,Nepali,नेपाल स्टक एक्सचेन्जको मानक सूचकांकलाई के भनिन्छ?,नेप्से परिसूचक,नेप्लिँड証 सूचकांक ( नेशनल डेज् Index)
+ECO022,English,In which city is the Nepal Stock Exchange physically located?,Kathmandu (Singha Durbar Plaza),Kathmandu
+ECO022,Nepali,नेपाल स्टक एक्सचेन्ज भौतिक रूपमा कुन शहरमा अवस्थित छ?,काठमाडौं (सिंहदरबार प्लाजा),Kathmandu
+ECO023,English,What type of trading system does NEPSE currently use for buying and selling shares?,Fully automated online trading system,Order-type trading system
+ECO023,Nepali,नेप्सेले हाल शेयर किनबेच गर्न कस्तो प्रकारको ट्रेडिङ प्रणाली प्रयोग गर्छ?,पूर्ण स्वचालित अनलाइन कारोबार प्रणाली,नेप्से हाल 'इलेक्ट्रोनिक क्लियरिंग प्रणाली' (Electronic Clearing System - ECS) प्रयोग गर्छ।
+ECO024,English,Which sector traditionally dominates the number of listed companies on NEPSE?,Banking and financial sector,Finance
+ECO024,Nepali,नेप्सेमा सूचीकृत कम्पनीहरूको संख्यामा परम्परागत रूपमा कुन क्षेत्रको बाहुल्य छ?,बैंक तथा वित्तीय क्षेत्र,बैँको
+ECO025,English,What is the informal Nepali term for a single share unit used in NEPSE trading?,Kitta,Bond
+ECO025,Nepali,नेप्से कारोबारमा प्रयोग हुने एक शेयर एकाइको अनौपचारिक नेपाली शब्द के हो?,कित्ता,टिके
+ECO026,English,What are the three broad sectors Nepal's GDP is typically divided into?,"Agriculture, Industry, and Services","Agriculture, Industry, and Services"
+ECO026,Nepali,नेपालको जीडीपीलाई सामान्यतया कुन तीन फराकिला क्षेत्रमा विभाजन गरिन्छ?,"कृषि, उद्योग, र सेवा","कृषि, उद्योग, र सेवा"
+ECO027,English,Which sector employs the largest share of Nepal's workforce?,Agriculture,Agriculture
+ECO027,Nepali,नेपालको श्रमशक्तिको सबैभन्दा ठूलो हिस्सा कुन क्षेत्रमा कार्यरत छ?,कृषि,कृषि
+ECO028,English,What classification has the United Nations historically used for Nepal's economic development status?,Least Developed Country (LDC),Least Developed Country (LDC)
+ECO028,Nepali,संयुक्त राष्ट्रसंघले नेपालको आर्थिक विकास स्थितिका लागि परम्परागत रूपमा कुन वर्गीकरण प्रयोग गर्दै आएको छ?,अति कम विकसित मुलुक (एलडीसी),कम आय भएका देशहरू।
+ECO029,English,When does Nepal's fiscal year begin according to the Bikram Sambat calendar?,Shrawan 1 (mid-July),January 1st
+ECO029,Nepali,नेपालको आर्थिक वर्ष विक्रम सम्वत् पात्रो अनुसार कहिले सुरु हुन्छ?,श्रावण १ (मध्य जुलाई),चैत्र शुक्ल प्रतिपदा
+ECO030,English,When does Nepal's fiscal year end?,"End of Ashad (mid-July, following year)",July 15th
+ECO030,Nepali,नेपालको आर्थिक वर्ष कहिले समाप्त हुन्छ?,आषाढ मसान्त (अर्को वर्षको मध्य जुलाई),३१ पौँगँ।
+ECO031,English,Which government ministry is primarily responsible for Nepal's fiscal policy and national budget?,Ministry of Finance,Ministry of Finance
+ECO031,Nepali,नेपालको वित्तीय नीति र राष्ट्रिय बजेटको मुख्य जिम्मेवारी कुन मन्त्रालयको हो?,अर्थ मन्त्रालय,आन्तरिक मन्त्रालय।
+ECO032,English,"Which government body compiles Nepal's national statistics, including GDP data?",National Statistics Office (formerly Central Bureau of Statistics),Statistical Office of Nepal (SON)
+ECO032,Nepali,नेपालको जीडीपी लगायत राष्ट्रिय तथ्यांक कुन सरकारी निकायले संकलन गर्दछ?,राष्ट्रिय तथ्याङ्क कार्यालय (पूर्व केन्द्रीय तथ्याङ्क विभाग),नेपाल सांख्यिकी तथा पुरvang कार्यालय।
+ECO033,English,What is the standard Value Added Tax (VAT) rate applied in Nepal?,0.13,13%
+ECO033,Nepali,नेपालमा लागू हुने मानक मूल्य अभिवृद्धि कर (भ्याट) दर कति हो?,१३ प्रतिशत,13 प्रतिशत
+ECO034,English,Which government body administers income tax collection in Nepal?,Inland Revenue Department (IRD),Nepal Revenue Authority (NRA)
+ECO034,Nepali,नेपालमा आयकर संकलनको प्रशासन कुन सरकारी निकायले गर्दछ?,आन्तरिक राजस्व विभाग,नेपाल कर कार्यालय
+ECO035,English,Remittance income is broadly cited as constituting roughly what share of Nepal's GDP in recent years?,Roughly a quarter (approximately 25%),Around 4-6%
+ECO035,Nepali,हालका वर्षहरूमा रेमिट्यान्स आयले नेपालको जीडीपीको लगभग कति हिस्सा ओगटेको भनी उल्लेख गरिन्छ?,लगभग एक चौथाई (करिब २५ प्रतिशत),लगभग १६%
+ECO041,English,Which neighboring country is Nepal's largest trading partner?,India,India
+ECO041,Nepali,नेपालको सबैभन्दा ठूलो व्यापारिक साझेदार देश कुन हो?,भारत,चीन
+ECO042,English,"Being a landlocked country, Nepal primarily relies on which neighboring country's seaports for third-country trade?",India (Kolkata port),India
+ECO042,Nepali,भूपरिवेष्ठित देश भएकाले नेपाल तेस्रो देशसँगको व्यापारका लागि मुख्यतया कुन छिमेकी देशको समुद्री बन्दरगाहमा निर्भर छ?,भारत (कोलकाता बन्दरगाह),चीन
+ECO043,English,What is a traditional major export item of Nepal known internationally as a fine wool-based product?,Pashmina,Pashmina wool
+ECO043,Nepali,अन्तर्राष्ट्रिय रूपमा उत्कृष्ट ऊनी उत्पादनको रूपमा चिनिने नेपालको परम्परागत प्रमुख निर्यात वस्तु के हो?,पश्मिना,उनी
+ECO044,English,Which treaty governs trade and transit relations between Nepal and India?,Nepal-India Treaty of Trade and Transit,Indo-Nepal Transit Trade Treaty
+ECO044,Nepali,नेपाल र भारतबीचको व्यापार तथा पारवहन सम्बन्ध कुन सन्धिले नियमन गर्दछ?,नेपाल-भारत व्यापार तथा पारवहन सन्धि,"नेपाल-भारत व्यापार तथा पारवहन सन्धि, २०७४"
+ECO045,English,Name a traditional hand-woven textile product historically significant to Nepal's export-oriented carpet industry.,Wool carpets,Pashmina
+ECO045,Nepali,नेपालको निर्यातमुखी कार्पेट उद्योगमा ऐतिहासिक रूपमा महत्त्वपूर्ण रहेको परम्परागत हस्तनिर्मित वस्त्र उत्पादन नाम दिनुहोस्।,ऊनी गलैंचा,शालिग्राम
+ECO046,English,What is Nepal's primary agricultural cash-crop export grown extensively in the eastern hills?,Tea,Cardamom
+ECO046,Nepali,पूर्वी पहाडी क्षेत्रमा व्यापक रूपमा उत्पादन गरिने नेपालको प्रमुख नगदेबाली निर्यात के हो?,चिया,आलु
+ECO047,English,"Besides India, which northern neighboring country does Nepal also use for alternative trade access?",China,China
+ECO047,Nepali,भारत बाहेक नेपालले वैकल्पिक व्यापार पहुँचका लागि कुन उत्तरी छिमेकी देश पनि प्रयोग गर्दछ?,चीन,चीन
+ECO048,English,What is the name of the dry port (inland container depot) Nepal uses near the Indian border in Birgunj for third-country trade?,"Inland Container Depot, Birgunj",Birgunj Dry Port
+ECO048,Nepali,तेस्रो देशसँगको व्यापारका लागि बीरगन्जमा रहेको ड्राई पोर्ट (आइसीडी) को नाम के हो?,बीरगन्ज अन्तर्देशीय कन्टेनर डिपो,वीरगंज ड्राई पोर्ट (आइसीडी) - त्रसितार।
+ECO049,English,Nepal is a member of which South Asian regional cooperation and trade organization?,SAARC (South Asian Association for Regional Cooperation),SAARC
+ECO049,Nepali,नेपाल कुन दक्षिण एसियाली क्षेत्रीय सहयोग तथा व्यापार संगठनको सदस्य हो?,सार्क (दक्षिण एसियाली क्षेत्रीय सहयोग संगठन),सार्क।
+ECO050,English,In which year did Nepal officially join the World Trade Organization (WTO)?,2004,2023
+ECO050,Nepali,नेपाल कुन सालमा आधिकारिक रूपमा विश्व व्यापार संगठन (डब्ल्यूटीओ) मा सामेल भयो?,सन् २००४,२०६४
+ECO051,English,Which body issues trekking permits for Nepal's national parks and conservation areas?,Nepal Tourism Board / respective park and conservation area offices,The Department of National Parks and Wildlife Conservation.
+ECO051,Nepali,नेपालका राष्ट्रिय निकुञ्ज तथा संरक्षण क्षेत्रका लागि ट्रेकिङ अनुमतिपत्र कसले जारी गर्दछ?,नेपाल पर्यटन बोर्ड / सम्बन्धित निकुञ्ज तथा संरक्षण क्षेत्र कार्यालय,नेपाल सरकारको पर्यटन गुण नियन्त्रण ऐकाइ।
+ECO052,English,"What system requires trekkers to register before undertaking major treks in Nepal, abbreviated TIMS?",Trekkers' Information Management System,Trekking Information Management System
+ECO052,Nepali,"नेपालमा प्रमुख ट्रेक सुरु गर्नुअघि ट्रेकरहरूलाई दर्ता गराउन आवश्यक पर्ने प्रणाली, जसलाई टिम्स भनिन्छ, के हो?",ट्रेकर्स सूचना व्यवस्थापन प्रणाली,टिम्स प्रणाली
+ECO053,English,Which sector significantly contributes to Nepal's foreign currency earnings alongside remittances?,Tourism,Tourism
+ECO053,Nepali,रेमिट्यान्ससँगै नेपालको वैदेशिक मुद्रा आर्जनमा कुन क्षेत्रले महत्त्वपूर्ण योगदान गर्दछ?,पर्यटन,"🇴𝙈𝙀𝙈 (ओमान, मध्यपूर्व, मध्य र यूरोप)"
+ECO054,English,What is the main international airport through which most foreign tourists enter Nepal?,"Tribhuvan International Airport, Kathmandu",Tribhuvan International Airport
+ECO054,Nepali,अधिकांश विदेशी पर्यटक नेपाल प्रवेश गर्ने मुख्य अन्तर्राष्ट्रिय विमानस्थल कुन हो?,"त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल, काठमाडौं",त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल
+ECO055,English,What was the name of Nepal's major official tourism promotion campaign held in 2020?,Visit Nepal Year 2020,Buddha Maya
+ECO055,Nepali,सन् २०२० मा सञ्चालन गरिएको नेपालको प्रमुख आधिकारिक पर्यटन प्रवर्द्धन अभियानको नाम के थियो?,भ्रमण वर्ष नेपाल २०२०,'नेपालमा आउ'
+ECO056,English,Which government body is primarily responsible for promoting tourism in Nepal?,Nepal Tourism Board,Ministry of Tourism and Civil Aviation
+ECO056,Nepali,नेपालमा पर्यटन प्रवर्द्धनको मुख्य जिम्मेवारी कुन सरकारी निकायको हो?,नेपाल पर्यटन बोर्ड,पर्यटन बोर्ड
+ECO057,English,What is the general term for the fee foreign trekkers pay to enter Nepal's national parks and conservation areas?,Conservation area / park entry permit fee,Entry Fee
+ECO057,Nepali,विदेशी ट्रेकरहरूले नेपालका राष्ट्रिय निकुञ्ज तथा संरक्षण क्षेत्रमा प्रवेश गर्दा तिर्ने शुल्कलाई सामान्यतया के भनिन्छ?,संरक्षण क्षेत्र / निकुञ्ज प्रवेश अनुमतिपत्र शुल्क,प्रवेश शू
+ECO058,English,"What is the name of Nepal's international airport located in Bhairahawa, near Lumbini?",Gautam Buddha International Airport,Rudranarayan Shrestha Airport
+ECO058,Nepali,लुम्बिनी नजिकै भैरहवामा रहेको नेपालको अन्तर्राष्ट्रिय विमानस्थलको नाम के हो?,गौतम बुद्ध अन्तर्राष्ट्रिय विमानस्थल,पोखरा विमानस्थल
+ECO059,English,What is the name of Nepal's international airport near Pokhara that became operational in 2023?,Pokhara International Airport,Pokhara International Airport
+ECO059,Nepali,सन् २०२३ मा सञ्चालनमा आएको पोखरा नजिकैको नेपालको अन्तर्राष्ट्रिय विमानस्थलको नाम के हो?,पोखरा अन्तर्राष्ट्रिय विमानस्थल,पोखरा अन्तर्राष्ट्रिय विमानस्थल
+ECO060,English,Adventure tourism revenue in Nepal is significantly tied to climbing permits for which mountain?,Mount Everest,Mount Everest
+ECO060,Nepali,नेपालको साहसिक पर्यटन आम्दानी मुख्यतया कुन हिमालको आरोहण अनुमतिपत्रसँग जोडिएको छ?,सगरमाथा (माउन्ट एभरेस्ट),एभरेस्ट (माउन्ट एव्हरस्ट)
+ECO061,English,What is Nepal's most widely cultivated staple food crop?,Rice (paddy),Rice
+ECO061,Nepali,नेपालको सबैभन्दा व्यापक रूपमा खेती गरिने मुख्य खाद्यान्न बाली के हो?,धान (चामल),गहुँ
+ECO062,English,Which government ministry oversees agricultural policy in Nepal?,Ministry of Agriculture and Livestock Development,Ministry of Agriculture and Livestock Development
+ECO062,Nepali,नेपालमा कृषि नीतिको निरीक्षण कुन सरकारी मन्त्रालयले गर्दछ?,कृषि तथा पशुपन्छी विकास मन्त्रालय,कृषि तथा ग्रामीण विकास मन्त्रालय।
+ECO063,English,What term describes Nepal's traditional small-scale farming system practiced by most smallholder farmers?,Subsistence agriculture,Junglewari
+ECO063,Nepali,अधिकांश साना किसानहरूले अभ्यास गर्ने नेपालको परम्परागत साना-स्तरको खेती प्रणालीलाई कुन शब्दले वर्णन गरिन्छ?,निर्वाहमुखी कृषि,कुहिरो प्रणाली
+ECO064,English,"Which cash crop, grown extensively in eastern hill districts like Ilam, is a significant agricultural export for Nepal?",Tea,Cardamom
+ECO064,Nepali,इलाम जस्ता पूर्वी पहाडी जिल्लाहरूमा व्यापक रूपमा उत्पादन गरिने कुन नगदेबाली नेपालको महत्त्वपूर्ण कृषि निर्यात हो?,चिया,चामल
+ECO065,English,Agriculture is broadly cited as contributing roughly what share of Nepal's GDP in recent economic surveys?,Roughly a quarter (approximately 24-25%),Approximately 25-30%
+ECO065,Nepali,हालैका आर्थिक सर्वेक्षणहरूमा कृषिले नेपालको जीडीपीमा लगभग कति हिस्सा योगदान गरेको उल्लेख गरिन्छ?,लगभग एक चौथाई (करिब २४-२५ प्रतिशत),लगभग १२%
+ECO066,English,Foreign employment remittances form which major component of Nepal's national income?,A major share of GDP driven by labor migration,Remittances
+ECO066,Nepali,वैदेशिक रोजगारीबाट प्राप्त रेमिट्यान्सले नेपालको राष्ट्रिय आयको कुन प्रमुख अंश बनाउँछ?,श्रम बसाइँसराइबाट प्रेरित जीडीपीको प्रमुख अंश,१७.४%
+ECO067,English,Which government body manages foreign labor permits for Nepali migrant workers?,Department of Foreign Employment,"Ministry of Labour and Employment, Nepal"
+ECO067,Nepali,नेपाली आप्रवासी श्रमिकहरूको वैदेशिक श्रम स्वीकृति कुन सरकारी निकायले व्यवस्थापन गर्दछ?,वैदेशिक रोजगार विभाग,नेपाल सरकारको श्रम तथा रोजगार बैतbakan
+ECO068,English,Name one Gulf country that is a major destination for Nepali migrant workers.,Qatar,Saudi Arabia
+ECO068,Nepali,नेपाली आप्रवासी श्रमिकहरूको प्रमुख गन्तव्य रहेको एउटा खाडी देशको नाम दिनुहोस्।,कतार,कुवेत
+ECO069,English,What is the commonly used term for money sent home by migrant workers?,Remittance,Remittances
+ECO069,Nepali,आप्रवासी श्रमिकहरूले घर पठाउने रकमलाई सामान्यतया के भनिन्छ?,रेमिट्यान्स,remittances
+ECO070,English,"Which East Asian country, outside the Gulf region, is also a major labor migration destination for Nepali workers?",Malaysia,South Korea
+ECO070,Nepali,खाडी क्षेत्र बाहेक कुन पूर्वी एसियाली देश पनि नेपाली श्रमिकहरूको प्रमुख श्रम बसाइँसराइ गन्तव्य हो?,मलेसिया,सिंगापुर
+TEC016,English,Which company launched Nepal's first email service?,Mercantile Communications Pvt. Ltd.,WorldLink Communications
+TEC016,Nepali,नेपालको पहिलो इमेल सेवा कुन कम्पनीले सुरु गरेको थियो?,मर्केन्टाइल कम्युनिकेसन्स प्रा.लि.,नेप्लिनेट
+TEC017,English,In which year did Nepal get its first email service?,1993,1996
+TEC017,Nepali,नेपालले पहिलोपटक इमेल सेवा कुन सालमा पायो?,सन् १९९३,१९९८
+TEC018,English,"In which year was full internet access, beyond just email, first introduced in Nepal?",1995,2001
+TEC018,Nepali,इमेल मात्र नभई पूर्ण इन्टरनेट पहुँच नेपालमा पहिलोपटक कुन सालमा सुरु भएको थियो?,सन् १९९५,२०४८ साल (२००१)
+TEC019,English,What is Nepal's country-code top-level domain (ccTLD)?,.np,.np
+TEC019,Nepali,नेपालको देश-कोड शीर्ष-स्तर डोमेन (सीसीटीएलडी) के हो?,.np,NP
+TEC020,English,Which organization has historically operated as the registry for Nepal's .np domain?,Mercantile Communications,Nepal Academy of Tourism and Hotel Management
+TEC020,Nepali,नेपालको .np डोमेनको रजिस्ट्रीको रूपमा परम्परागत रूपमा कुन संस्था कार्यरत रहेको छ?,मर्केन्टाइल कम्युनिकेसन्स,नेप्Telecom
+TEC021,English,What broad category of fiber-optic internet connection has been expanding rapidly in urban Nepal?,Fiber-to-the-home (FTTH) broadband,FTTH
+TEC021,Nepali,सहरी नेपालमा द्रुत गतिमा विस्तार भइरहेको फाइबर-अप्टिक इन्टरनेट जडानको फराकिलो प्रकार के हो?,फाइबर-टु-द-होम (एफटीटीएच) ब्रोडब्यान्ड,भ問ियान्तरण (Broadband)
+TEC022,English,Which regulatory body issues internet service provider (ISP) licenses in Nepal?,Nepal Telecommunications Authority (NTA),Nepal Telecom
+TEC022,Nepali,नेपालमा इन्टरनेट सेवा प्रदायक (आईएसपी) इजाजतपत्र कुन नियामक निकायले जारी गर्दछ?,नेपाल दूरसञ्चार प्राधिकरण,नेपाल दूरसंचार प्राधिकरण (NTA)
+TEC023,English,"What is the commonly used term in Nepal for public shared-computer internet access points, widespread before mobile broadband?",Cyber café,Cybercafes
+TEC023,Nepali,मोबाइल ब्रोडब्यान्ड आउनुअघि व्यापक रहेको सार्वजनिक साझा-कम्प्युटर इन्टरनेट पहुँच केन्द्रलाई नेपालमा सामान्यतया के भनिन्छ?,साइबर क्याफे,नेट कप्लिङ
+TEC024,English,Which social media platform is widely reported as the most used in Nepal?,Facebook,Facebook
+TEC024,Nepali,नेपालमा सबैभन्दा बढी प्रयोग हुने सामाजिक सञ्जाल मञ्चको रूपमा व्यापक रूपमा कुन उल्लेख गरिन्छ?,फेसबुक,फेसबुक
+TEC025,English,What government-linked initiative aims to expand broadband internet connectivity into rural parts of Nepal?,Rural Telecommunications Development Fund broadband expansion projects,BharatNet
+TEC025,Nepali,नेपालको ग्रामीण भागहरूमा ब्रोडब्यान्ड इन्टरनेट जडान विस्तार गर्ने लक्ष्य राखेको सरकार-सम्बन्धित पहल के हो?,ग्रामीण दूरसञ्चार विकास कोषका ब्रोडब्यान्ड विस्तार आयोजनाहरू,नेपाल दूरसञ्चार मन्त्रालयको 'ग्रामीण क्षेत्रमा ब्रोडब्यान्ड इन्टरनेट विस्तार' योजना।
+TEC031,English,What is the name of the national interbank payment infrastructure established under Nepal Rastra Bank's oversight?,National Payments Gateway (NPG),Nepal Payments System (NPS)
+TEC031,Nepali,नेपाल राष्ट्र बैंकको निगरानीमा स्थापना गरिएको राष्ट्रिय अन्तर-बैंक भुक्तानी पूर्वाधारको नाम के हो?,राष्ट्रिय भुक्तानी गेटवे (एनपीजी),नेपाल रिerve स्ystem (NRS)
+TEC032,English,What interoperable QR-based payment standard has Nepal Rastra Bank promoted for merchant payments?,Nepal QR,NQR (Nepal QR)
+TEC032,Nepali,व्यापारी भुक्तानीका लागि नेपाल राष्ट्र बैंकले प्रवर्द्धन गरेको अन्तर-सञ्चालनयोग्य क्यूआर-आधारित भुक्तानी मापदण्ड के हो?,नेपाल क्यूआर,"नेपाल राष्ट्र बैंकले क्यूआर कोड भुक्तानी मापदण्ड अनुसार, व्यापारीहरूले QR कोड प्रयोग गरेर भुक्तानी गर्दा, QR कोडमा प्रयोग हुने संस्थाको QR कोड नम्बर, नाम र सम्पर्क विवरणहरू स्पष्ट रूपमा उल्लेख गर्नुपर्नेछ। यसले भुक्तानी सहज र सुरक्षित हुनेछ।"
+TEC033,English,Which government body regulates digital wallets and payment service providers in Nepal?,Nepal Rastra Bank (Payment Systems Department),Nepal Rastra Bank (NRB)
+TEC033,Nepali,नेपालमा डिजिटल वालेट तथा भुक्तानी सेवा प्रदायकहरूको नियमन कुन सरकारी निकायले गर्दछ?,नेपाल राष्ट्र बैंक (भुक्तानी प्रणाली विभाग),नेपाल रेमिटर बैंक लिमिटेड (NRL)।
+TEC034,English,Name a mobile-money/remittance-linked digital payment service launched by the IME Group.,IME Pay,WorldRemit IME
+TEC034,Nepali,आईएमई समूहले सुरु गरेको मोबाइल-मनी/रेमिट्यान्स-सम्बन्धित डिजिटल भुक्तानी सेवाको नाम दिनुहोस्।,आईएमई पे,वापस
+TEC035,English,What term describes Nepal's broader shift toward cashless transactions promoted through QR codes and mobile banking apps?,Digital/cashless payment adoption,Digitalization
+TEC035,Nepali,क्यूआर कोड र मोबाइल बैंकिङ एपमार्फत प्रवर्द्धित नेपालको नगदरहित कारोबारतर्फको फराकिलो परिवर्तनलाई कुन शब्दले वर्णन गरिन्छ?,डिजिटल/नगदरहित भुक्तानी अवलम्बन,डिजिटल भुक्तानी
+TEC036,English,What is the name of the government's unified digital service mobile application launched to provide citizen services?,Nagarik App,UPI Lite
+TEC036,Nepali,नागरिक सेवाहरू उपलब्ध गराउन सरकारद्वारा सुरु गरिएको एकीकृत डिजिटल सेवा मोबाइल एप्लिकेसनको नाम के हो?,नागरिक एप,नेपाल सरकार मोबाइल एप्लिकेसन
+TEC037,English,What is the name of Nepal's national identity card project intended to enable digital identity verification?,National Identity Card (NID),Nepadot
+TEC037,Nepali,डिजिटल परिचय प्रमाणीकरण सम्भव पार्ने उद्देश्यले सञ्चालित नेपालको राष्ट्रिय परिचयपत्र आयोजनाको नाम के हो?,राष्ट्रिय परिचयपत्र (एनआईडी),नेपाल परिचयपत्र आयोजना
+TEC038,English,Which government body oversees Nepal's e-governance initiatives and IT policy?,Ministry of Communication and Information Technology,Ministry of Communications and Information Technology (MoCIT)
+TEC038,Nepali,नेपालको ई-गभर्नेन्स पहल तथा आईटी नीतिको निरीक्षण कुन सरकारी निकायले गर्दछ?,सञ्चार तथा सूचना प्रविधि मन्त्रालय,नेपाल सरकार सूचना प्रबुद्धता तथा सूचना प्रौडािकरण प्राधिकरण (NIPA)
+TEC039,English,What system allows Nepali citizens to apply for passports online before in-person biometric verification?,Online passport application system,Online Passport Application System (OPAS)
+TEC039,Nepali,नेपाली नागरिकहरूलाई व्यक्तिगत बायोमेट्रिक प्रमाणीकरणअघि अनलाइन राहदानी आवेदन दिन सक्षम पार्ने प्रणाली के हो?,अनलाइन राहदानी आवेदन प्रणाली,डिजिटल राहदानी प्रणाली
+TEC040,English,"Which government commission oversees voter registration and elections in Nepal, increasingly using digital voter rolls?",Election Commission of Nepal,The Election Commission of Nepal
+TEC040,Nepali,"नेपालमा मतदाता दर्ता तथा निर्वाचनको निरीक्षण कुन सरकारी आयोगले गर्दछ, जसले बढ्दो रूपमा डिजिटल मतदाता नामावली प्रयोग गर्दै आएको छ?","निर्वाचन आयोग, नेपाल",नेपाल चुनाव आयोग।
+TEC041,English,What is the name of Nepal's e-governance master plan aimed at digitizing government services?,Digital Nepal Framework,Digital Nepal Framework
+TEC041,Nepali,सरकारी सेवाहरूलाई डिजिटल बनाउने लक्ष्य राखेको नेपालको ई-गभर्नेन्स गुरुयोजनाको नाम के हो?,डिजिटल नेपाल फ्रेमवर्क,नेपाल ई-गभर्नेन्स गुरुयोजना
+TEC042,English,In which year was the Digital Nepal Framework officially launched?,2019,2017
+TEC042,Nepali,डिजिटल नेपाल फ्रेमवर्क कुन सालमा आधिकारिक रूपमा सुरु गरिएको थियो?,सन् २०१९,२०७०
+TEC043,English,Which government office is responsible for maintaining Nepal's civil registration and vital digital records?,Department of National ID and Civil Registration,"Ministry of Home Affairs, Department of Migration and Foreign Employment"
+TEC043,Nepali,नेपालको नागरिक दर्ता तथा महत्त्वपूर्ण डिजिटल अभिलेख अद्यावधिक राख्ने जिम्मेवारी कुन सरकारी कार्यालयको हो?,राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभाग,नेपाल सरकारको गृह तथा नागरिक प्रभाग।
+TEC044,English,What is the name of the government office responsible for online company registration in Nepal?,Office of the Company Registrar (OCR),Company Registration Office (CRO)
+TEC044,Nepali,नेपालमा अनलाइन कम्पनी दर्ताको जिम्मेवारी भएको सरकारी कार्यालयको नाम के हो?,कम्पनी रजिस्ट्रारको कार्यालय,नेपाल सरकार सिसा नियन्त्रण ऐgabenयन्त्र।
+TEC045,English,Which government system allows Nepali taxpayers to file tax returns electronically?,Inland Revenue Department's e-filing system,Federal Republic of Nepal
+TEC045,Nepali,नेपाली करदाताहरूलाई विद्युतीय रूपमा कर विवरण दाखिला गर्न सक्षम पार्ने सरकारी प्रणाली कुन हो?,आन्तरिक राजस्व विभागको ई-फाइलिङ प्रणाली,नेपाल सरकारको कर प्रणाली (e-Tax)
+TEC046,English,What term is often informally used to describe Kathmandu's growing cluster of software companies and IT startups?,IT hub,Silicon Valley Kathmandu
+TEC046,Nepali,काठमाडौंमा बढ्दो सफ्टवेयर कम्पनी तथा आईटी स्टार्टअपको समूहलाई वर्णन गर्न अनौपचारिक रूपमा प्रायः प्रयोग गरिने शब्द के हो?,आईटी हब,टेक इकोसिस्टम
+TEC047,English,Which government-supported facility near Banepa was established to promote Nepal's IT industry and outsourcing?,Nepal IT Park (Banepa),Babinsa IT Park
+TEC047,Nepali,नेपालको आईटी उद्योग तथा आउटसोर्सिङ प्रवर्द्धनका लागि बानेपा नजिकै स्थापना गरिएको सरकार-समर्थित सुविधा के हो?,नेपाल आईटी पार्क (बानेपा),नेपाल विज्ञान तथा प्राविध्यालय (विज्ञान आधारक)
+TEC052,English,"Which university, through its engineering institute, was among the first to offer a formal computer science/IT degree program in Nepal?",Tribhuvan University (Institute of Engineering),Tribhuvan University
+TEC052,Nepali,इन्जिनियरिङ प्रतिष्ठानमार्फत कुन विश्वविद्यालय नेपालमा औपचारिक कम्प्युटर विज्ञान/आईटी उपाधि कार्यक्रम प्रदान गर्ने पहिलोमध्ये पर्दछ?,त्रिभुवन विश्वविद्यालय (इन्जिनियरिङ अध्ययन संस्थान),नेपाल प्रकटन विश्वविद्यालय
+TEC053,English,What percentage share of Nepal's total export earnings is the IT/software service sector broadly cited as representing?,A small but steadily growing share (specific percentage varies by year),Approximately 35%
+TEC053,Nepali,नेपालको कुल निर्यात आम्दानीमा आईटी/सफ्टवेयर सेवा क्षेत्रले लगभग कति प्रतिशत हिस्सा ओगटेको भनी व्यापक रूपमा उल्लेख गरिन्छ?,सानो तर क्रमशः बढ्दो हिस्सा (सही प्रतिशत वर्षअनुसार फरक पर्छ),लगभग २०%
+TEC054,English,Name one well-known Nepali IT/software company recognized for outsourcing or fintech services internationally.,F1Soft International,Appsoft Technologies
+TEC054,Nepali,अन्तर्राष्ट्रिय रूपमा आउटसोर्सिङ वा फिनटेक सेवाका लागि चिनिने एउटा प्रख्यात नेपाली आईटी/सफ्टवेयर कम्पनीको नाम दिनुहोस्।,एफवान्सफ्ट इन्टरनेशनल,नोभेन्ट เทक्नोलोजि
+TEC055,English,What kind of government policy incentives are typically aimed at promoting software and IT service exports in Nepal?,Tax incentives and export promotion schemes for IT/software services,"Tax exemptions, export promotion grants, and subsidized access to financing."
+TEC055,Nepali,नेपालमा सफ्टवेयर तथा आईटी सेवा निर्यात प्रवर्द्धनका लागि सामान्यतया कस्ता सरकारी नीतिगत प्रोत्साहनहरू लक्षित हुन्छन्?,आईटी/सफ्टवेयर सेवाका लागि कर छुट तथा निर्यात प्रवर्द्धन योजनाहरू,"* कर छुट
+* सहज ऋण उपलब्धता
+* तालिम कार्यक्रमको समर्थन
+* निर्यात प्रोत्साहन कोष
+* दिगो व्यवसाय वातावरण निर्माण"
+TEC056,English,Which government institution is historically credited with bringing one of the first computers into Nepal for statistical purposes?,Central Bureau of Statistics (now National Statistics Office),The Central Bureau of Statistics (CBS)
+TEC056,Nepali,सांख्यिकीय प्रयोजनका लागि नेपालमा पहिलो कम्प्युटरमध्ये एक ल्याउने श्रेय ऐतिहासिक रूपमा कुन सरकारी संस्थालाई दिइन्छ?,केन्द्रीय तथ्याङ्क विभाग (हाल राष्ट्रिय तथ्याङ्क कार्यालय),नेपाल सरकारको योजना आयोग
+TEC057,English,"What was the primary use of Nepal's earliest government computers, introduced in the mid-20th century?",Census and statistical data processing,Statistical data processing.
+TEC057,Nepali,बीसौं शताब्दीको मध्यतिर ल्याइएका नेपालका शुरुका सरकारी कम्प्युटरहरूको मुख्य प्रयोग के थियो?,जनगणना तथा तथ्याङ्क प्रशोधन,डाक्टरहरू र सैनिकहरूलाई जानकारी प्रशोधन गर्न।
+TEC058,English,What general term was used in Nepal during the 1990s for public shared-computer/internet access points?,Cyber café,Cybercafes
+TEC058,Nepali,सन् १९९० को दशकमा नेपालमा सार्वजनिक साझा-कम्प्युटर/इन्टरनेट पहुँच केन्द्रका लागि सामान्य शब्द के प्रयोग गरिन्थ्यो?,साइबर क्याफे,इन्जिनियरिङ केन्द्र
+TEC059,English,Which institute under Tribhuvan University played a key role in formally expanding computing/engineering education in Nepal?,Institute of Engineering (IOE),"Faculty of Engineering, Tribhuvan University"
+TEC059,Nepali,त्रिभुवन विश्वविद्यालय अन्तर्गतको कुन प्रतिष्ठानले नेपालमा कम्प्युटिङ/इन्जिनियरिङ शिक्षाको औपचारिक विस्तारमा प्रमुख भूमिका खेलेको थियो?,इन्जिनियरिङ अध्ययन संस्थान,पोर्ताकोला विज्ञान तथा प्रविधि मर्मट।
+TEC060,English,"In Nepal's early IT commercialization period, what were shared public computer access shops commonly used for, besides browsing?",Email access and basic computer/typing training,Sending emails and accessing online services.
+TEC060,Nepali,"नेपालको प्रारम्भिक आईटी व्यावसायीकरण अवधिमा, ब्राउजिङ बाहेक साझा सार्वजनिक कम्प्युटर पहुँच पसलहरू सामान्यतया केका लागि प्रयोग हुन्थे?",इमेल पहुँच र आधारभूत कम्प्युटर/टाइपिङ तालिम,ईमेल पठाउन र रि Antworten प्राप्त गर्न।
+TEC061,English,What is the name of Nepal's first satellite launched into space?,NepaliSat-1,None
+TEC061,Nepali,अन्तरिक्षमा प्रक्षेपण गरिएको नेपालको पहिलो उपग्रहको नाम के हो?,नेपालीस्याट-१,नेपाल-क्षमा-१
+TEC062,English,In which year was NepaliSat-1 launched?,2019,2011
+TEC062,Nepali,नेपालीस्याट-१ कुन सालमा प्रक्षेपण गरिएको थियो?,सन् २०१९,२०७४
+TEC063,English,NepaliSat-1 was developed as part of a joint program involving which Japanese institution?,Kyushu Institute of Technology (Kyutech) - BIRDS project,National Institute of Information and Communications Technology (NICT)
+TEC063,Nepali,नेपालीस्याट-१ कुन जापानी संस्था संलग्न संयुक्त कार्यक्रमको हिस्साको रूपमा विकसित गरिएको थियो?,क्युशु प्रविधि संस्थान (क्युटेक) - बर्ड्स कार्यक्रम,मिक्रोソフト (Microsoft)
+TEC064,English,From which platform was NepaliSat-1 deployed into orbit?,International Space Station (ISS),ICPS-19
+TEC064,Nepali,नेपालीस्याट-१ कुन प्लेटफर्महरू अन्तरिक्षमा प्रक्षेपण गरिएको थियो?,अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशन (आईएसएस),स्पेसएक्स क्यानपिटर र स्पेसएक्स क्रायोजेट।
+TEC065,English,What type of small satellite classification does NepaliSat-1 belong to?,CubeSat,Earth observation
+TEC065,Nepali,नेपालीस्याट-१ कुन प्रकारको साना उपग्रह वर्गीकरणमा पर्दछ?,क्यूबस्याट,उपग्रह रेडियो
+TEC066,English,What broad term describes Nepal's growing interest in using chatbots and generative AI tools in education and business?,AI adoption / digital transformation,Digital Transformation
+TEC066,Nepali,शिक्षा र व्यवसायमा च्याटबोट तथा जेनेरेटिभ एआई उपकरण प्रयोग गर्ने नेपालको बढ्दो चासोलाई कुन फराकिलो शब्दले वर्णन गरिन्छ?,एआई अवलम्बन / डिजिटल रूपान्तरण,डिजिटल परिवर्तन।
+TEC067,English,Nepal's National AI Policy was approved around which recent year?,2025,2023
+TEC067,Nepali,नेपालको राष्ट्रिय एआई नीति हालैको कुन सालतिर स्वीकृत भएको थियो?,सन् २०२५,२०७९BS
+TEC068,English,Which broad sectors does Nepal's National AI Policy explicitly prioritize for AI development?,"Agriculture, health, education, and disaster management, among others","Healthcare, Agriculture, Education, and Infrastructure."
+TEC068,Nepali,नेपालको राष्ट्रिय एआई नीतिले एआई विकासका लागि कुन फराकिला क्षेत्रहरूलाई स्पष्ट रूपमा प्राथमिकता दिएको छ?,"कृषि, स्वास्थ्य, शिक्षा, र विपद् व्यवस्थापन लगायत","शिक्षा, पूर्वाधार, स्वास्थ्य, कृषि, पर्यटन, ऊर्जा, र सूचना प्रौडािकरण।"
+TEC069,English,What is a commonly cited barrier to AI research and deployment specific to Nepal's context?,Limited Nepali-language digital data and infrastructure,Lack of adequate data and computing infrastructure.
+TEC069,Nepali,नेपालको सन्दर्भमा एआई अनुसन्धान तथा प्रयोगमा सामान्यतया उल्लेख गरिने अवरोध के हो?,सीमित नेपाली-भाषा डिजिटल डेटा तथा पूर्वाधार,डेटा अभाव र जनशक्तिको कमी।
+TEC070,English,"Which type of institutions in Nepal have begun deploying AI-driven chatbots for customer service, according to recent reports?",Banks and financial institutions,Banks
+TEC070,Nepali,हालैका प्रतिवेदनहरू अनुसार नेपालमा कुन प्रकारका संस्थाहरूले ग्राहक सेवाका लागि एआई-सञ्चालित च्याटबोट प्रयोग सुरु गरेका छन्?,बैंक तथा वित्तीय संस्थाहरू,बैंक र वित्तीय संस्था।
+MIS001,English,What is unique about the shape of Nepal's national flag compared to all other national flags in the world?,It is the only non-quadrilateral (non-rectangular) national flag in the world,It is composed of two overlapping pennons (triangles).
+MIS001,Nepali,विश्वका अन्य सबै राष्ट्रिय झण्डाहरूको तुलनामा नेपालको राष्ट्रिय झण्डाको आकारमा के अनौठोपन छ?,यो विश्वको एकमात्र गैर-चतुर्भुज (गैर-आयताकार) राष्ट्रिय झण्डा हो,नेपालको झण्डा एउटै दिशामा रहेर मात्र उन्मुख हुन्छ।
+MIS002,English,What is Nepal's national bird?,Himalayan monal (Danphe),Himalayan Monal
+MIS002,Nepali,नेपालको राष्ट्रिय चरा के हो?,डाँफे,रातो चुराह
+MIS015,English,"What theme, reflected in the national anthem's title referencing 'hundreds of flowers,' represents Nepal's cultural composition?",Ethnic and cultural diversity and unity,Diversity
+MIS015,Nepali,राष्ट्रिय गानको शीर्षकमा 'सयौं थुँगा' भन्ने सन्दर्भबाट झल्किने कुन विषयवस्तुले नेपालको सांस्कृतिक बनावटको प्रतिनिधित्व गर्दछ?,जातीय तथा सांस्कृतिक विविधता र एकता,व्यवस्थापन
+MIS016,English,What is the official calendar system used in Nepal for government and legal purposes?,Bikram Sambat (BS),Gregorian Calendar
+MIS016,Nepali,नेपालमा सरकारी तथा कानुनी प्रयोजनका लागि प्रयोग गरिने आधिकारिक पात्रो प्रणाली के हो?,विक्रम सम्वत्,नामषास प्रणाली
+MIS017,English,In which Gregorian-calendar month does the Nepali New Year typically fall?,Mid-April,BS 1st April
+MIS017,Nepali,नेपाली नयाँ वर्ष सामान्यतया ग्रेगोरियन पात्रोको कुन महिनामा पर्दछ?,मध्य अप्रिल,सन् ७ वा ८
+MIS018,English,What is Nepal's standard time zone offset from UTC?,UTC+5:45,UTC+5:45
+MIS018,Nepali,नेपालको मानक समय क्षेत्र UTC भन्दा कति फरक हुन्छ?,यूटीसी+५:४५,दोस्रो
+MIS019,English,Why is Nepal's time zone offset unusual compared to most countries?,It uses a 45-minute offset instead of a standard hour-based offset,"Nepal uses a time zone offset (CAT) that is consistently ahead of UTC by 5 hours due to its location within the Asian Time Zone Map, which is based on a different standard than the Greenwich Mean Time (GMT) system used by most of the world."
+MIS019,Nepali,नेपालको समय क्षेत्र फरक अधिकांश देशहरूको तुलनामा किन असामान्य छ?,यसले मानक घण्टा-आधारित फरकको सट्टा ४५ मिनेटको फरक प्रयोग गर्दछ,नेपालको समय क्षेत्र उच्च अक्षांशमा अवस्थित छ र यसले सूर्य प्रकाशमा विभिन्न समयमा प्रवेश गर्दछ।
+MIS025,English,Nepal officially celebrates its New Year holiday according to which calendar system?,Bikram Sambat calendar,Lumbini Calendar
+MIS025,Nepali,नेपालले आफ्नो नयाँ वर्षको बिदा आधिकारिक रूपमा कुन पात्रो प्रणाली अनुसार मनाउँछ?,विक्रम सम्वत् पात्रो,लुम्पनी पात्रो
+MIS026,English,In which international multi-sport event does Nepal regularly compete alongside other South Asian nations?,South Asian Games (SAG),South Asian Games
+MIS026,Nepali,अन्य दक्षिण एसियाली राष्ट्रहरूसँगै नेपालले नियमित रूपमा भाग लिने अन्तर्राष्ट्रिय बहु-खेल आयोजना कुन हो?,दक्षिण एसियाली खेलकुद (साग),दक्षिण एसियाली खेलकुद महोत्सव (South Asian Games)
+MIS027,English,In which year did Nepal first participate in the Olympic Games?,1964 (Tokyo),1984
+MIS027,Nepali,नेपालले पहिलोपटक ओलम्पिक खेलकुदमा कुन सालमा सहभागिता जनाएको थियो?,सन् १९६४ (टोकियो),१९८४
+MIS028,English,Nepali Olympic athletes have historically competed most often in which individual/combat sport category?,Taekwondo and boxing (among individual combat sports),Weightlifting
+MIS028,Nepali,नेपाली ओलम्पिक खेलाडीहरूले ऐतिहासिक रूपमा कुन व्यक्तिगत/मुक्केबाजी-प्रकारको खेल श्रेणीमा बढी सहभागिता जनाएका छन्?,तेक्वान्दो र बक्सिङ (व्यक्तिगत मुक्केबाजी खेलहरू मध्ये),मुक्केबाजी
+MIS033,English,What is the governing body for cricket in Nepal?,Cricket Association of Nepal (CAN),Cricket Association of Nepal (CAN)
+MIS033,Nepali,नेपालमा क्रिकेटको नियमन गर्ने निकाय कुन हो?,क्रिकेट संघ नेपाल (क्यान),नेपाल क्रिकेट गर्ने सङ्कट (NCA)
+MIS034,English,Nepal's national football team competes in tournaments organized under which continental football confederation?,Asian Football Confederation (AFC),AFC
+MIS034,Nepali,नेपालको राष्ट्रिय फुटबल टोली कुन महाद्वीपीय फुटबल महासंघ अन्तर्गत आयोजित प्रतियोगितामा प्रतिस्पर्धा गर्दछ?,एसियाली फुटबल महासंघ (एएफसी),AFC (एशियाई फुटबल महासंघ)
+MIS035,English,"What is the name of Nepal's largest multi-purpose sports stadium, located in Kathmandu?",Dasharath Rangasala Stadium,National Sports Council Stadium
+MIS035,Nepali,काठमाडौंमा अवस्थित नेपालको सबैभन्दा ठूलो बहुउद्देश्यीय खेलकुद रंगशालाको नाम के हो?,दशरथ रंगशाला,स्वर्णभूमि रंगशाला
+MIS036,English,How many UNESCO World Heritage Sites does Nepal currently have?,Four,14
+MIS036,Nepali,नेपालमा हाल कति युनेस्को विश्व सम्पदा स्थलहरू छन्?,चार,४८
+MIS037,English,Which UNESCO World Heritage Site in Nepal is recognized as the birthplace of Gautam Buddha?,Lumbini,Lumbini
+MIS037,Nepali,नेपालको कुन युनेस्को विश्व सम्पदा स्थललाई गौतम बुद्धको जन्मस्थलको रूपमा मान्यता दिइएको छ?,लुम्बिनी,बोधगया
+MIS046,English,Who were the first two climbers to summit Mount Everest?,Edmund Hillary and Tenzing Norgay,Edmund Hillary and Tenzing Norgay
+MIS046,Nepali,सगरमाथा आरोहण गर्ने पहिलो दुई आरोहीहरू को थिए?,एडमन्ड हिलारी र तेन्जिङ नोर्गे,"ह correct
+टेन्জিং नर्गाट तथा एङ नार्बु।"
+MIS047,English,In which year did Hillary and Tenzing Norgay first summit Mount Everest?,1953,1953
+MIS047,Nepali,हिलारी र तेन्जिङ नोर्गेले कुन सालमा पहिलोपटक सगरमाथा आरोहण गरेका थिए?,सन् १९५३,१९५३
+MIS048,English,In which year did Nepal transition from a monarchy to a federal democratic republic?,2008,2008
+MIS048,Nepali,नेपाल राजतन्त्रबाट संघीय लोकतान्त्रिक गणतन्त्रमा कुन सालमा रूपान्तरण भयो?,सन् २००८,२०६१ साल (२००८)
+MIS049,English,In which year was Nepal's current constitution promulgated?,2015,2015
+MIS049,Nepali,नेपालको हालको संविधान कुन सालमा जारी गरिएको थियो?,सन् २०१५,२०७२
+MIS055,English,"What roughly decade-long armed conflict, ending in 2006, significantly affected Nepal's political landscape?",Nepalese Civil War (Maoist insurgency),The Maoist insurgency
+MIS055,Nepali,सन् २००६ मा अन्त्य भएको लगभग एक दशकसम्म चलेको कुन सशस्त्र द्वन्द्वले नेपालको राजनीतिक परिदृश्यलाई उल्लेख्य रूपमा प्रभावित पार्‍यो?,नेपाली गृहयुद्ध (माओवादी सशस्त्र द्वन्द्व),नेपाली सेना-माओवादी द्वन्द्व
+MIS056,English,"Approximately how many languages are spoken across Nepal, according to national census data?",Over 120 languages,Approximately 149
+MIS056,Nepali,राष्ट्रिय जनगणना तथ्याङ्क अनुसार नेपालभर लगभग कति भाषाहरू बोलिन्छन्?,१२० भन्दा बढी भाषाहरू,१३८
+MIS057,English,What is the official language of Nepal used for government administration?,Nepali,Nepali
+MIS057,Nepali,नेपालको सरकारी प्रशासनमा प्रयोग हुने आधिकारिक भाषा के हो?,नेपाली,नेपाली र अंग्रेजी
+MIS058,English,"Nepal is often described as a multi-ethnic, multi-lingual, and what other type of society, reflecting its many faith traditions?",Multi-religious,Multi-religious
+MIS058,Nepali,"नेपाललाई प्रायः बहु-जातीय, बहु-भाषिक, र यसका विभिन्न धार्मिक परम्पराहरूलाई झल्काउने अर्को कस्तो समाजको रूपमा वर्णन गरिन्छ?",बहु-धार्मिक,विविधतापूर्ण
+MIS059,English,Which two religions are practiced by the largest proportions of Nepal's population?,Hinduism and Buddhism,Hinduism and Buddhism
+MIS059,Nepali,नेपालको जनसंख्याको सबैभन्दा ठूलो हिस्साले कुन दुई धर्म अभ्यास गर्दछ?,हिन्दू धर्म र बौद्ध धर्म,हि Hinduism र Buddhism
+MIS060,English,In which script is the Nepali language traditionally written?,Devanagari script,Devanagari
+MIS060,Nepali,नेपाली भाषा परम्परागत रूपमा कुन लिपिमा लेखिन्छ?,देवनागरी लिपि,लिपि
