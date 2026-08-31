@@ -1,0 +1,3 @@
+Language,Responses,Correct,Accuracy (%),FALSE Statements,False→True Hallucinations,Hallucination Rate (%)
+English,11999,6856,57.14,5302,3523,66.45
+Nepali,11999,5815,48.46,5302,1941,36.61

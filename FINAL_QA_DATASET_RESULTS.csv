@@ -1,0 +1,11 @@
+Dataset,Language,Responses,Correct,Errors,Accuracy (%),Error Rate (%)
+Constitution_Law,English,905,228,677,25.19,74.81
+Constitution_Law,Nepali,905,183,722,20.22,79.78
+Culture_Religion_Literature,English,424,123,301,29.01,70.99
+Culture_Religion_Literature,Nepali,424,61,363,14.39,85.61
+Economy _ Technology _ Miscella,English,133,62,71,46.62,53.38
+Economy _ Technology _ Miscella,Nepali,133,27,106,20.3,79.7
+Education health,English,158,76,82,48.1,51.9
+Education health,Nepali,158,44,114,27.85,72.15
+Geography and tourism,English,233,59,174,25.32,74.68
+Geography and tourism,Nepali,233,35,198,15.02,84.98

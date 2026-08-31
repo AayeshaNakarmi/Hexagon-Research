@@ -1,0 +1,7 @@
+Language,Error Type,Count,Percentage of Errors (%)
+English,Hallucinated / unsupported elaboration,18,1.38
+English,Incorrect factual / unsupported claim,1285,98.47
+English,No answer / unsupported-context refusal,2,0.15
+Nepali,Hallucinated / unsupported elaboration,24,1.6
+Nepali,Incorrect factual / unsupported claim,1476,98.2
+Nepali,Question repetition / non-answer,3,0.2
