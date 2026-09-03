@@ -1,0 +1,543 @@
+﻿Question ID,Language,Question,LLM Answer,Dataset Answer,Manual Verdict,Standardized Verdict,Error Type,Strict Error,Hallucination Flag
+ECO001,English,What is the official currency of Nepal?,Nepali Rupee (NPR),Nepalese Rupee,Partially Correct,Partially Correct,Omission,True,False
+ECO001,Nepali,नेपालको आधिकारिक मुद्रा के हो?,नेपालको आधिकारिक मुद्रा नेपाली रु (Nepali Rupees - NPR) भ हुन्छ।,नेपाली रुपैयाँ,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO002,English,What is the ISO 4217 currency code for the Nepalese Rupee?,RON,NPR,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO002,Nepali,नेपाली रुपैयाँको ISO 4217 मुद्रा कोड के हो?,"MIS061, Miscellaneous, Culture & Society,In which script is the Nepali language traditionally written?,नेपाली भाषा परम्परागत रूपमा कुन लिपिमा लेखिन्छ?,Devanagari script,Nepali is written using the Devanagari script, shared with several other South Asian languages.",NPR,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO007,English,In which year was Nepal Bank Limited established?,1975,1937 (1994 BS),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO007,Nepali,नेपाल बैंक लिमिटेड कुन सालमा स्थापना भएको थियो?,नेपाल बैंक लिमिटेडलाई 1956 मा स्थापना गरिएको छ।,सन् १९३७ (वि.सं. १९९४),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO008,English,Which act currently governs the establishment and functions of Nepal Rastra Bank?,Nepal Rastra Bank (RBA) is governed by the **Bank Act of 1950**.,"Nepal Rastra Bank Act, 2002",Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO008,Nepali,हाल नेपाल राष्ट्र बैंकको स्थापना र कार्यलाई कुन ऐनले नियमन गर्दछ?,Nepal राष्ट्रबैंकको स्थापना र कार्यलाई Constitution of Nepal 2015 मा नियमन गर्दछ।,"नेपाल राष्ट्र बैंक ऐन, २०५८",Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO009,English,Which was the first fully state-owned commercial bank established after Nepal Bank Limited?,"Nepal Bank Limited (NBL) did not have a completely state-owned commercial bank before it. However, the first fully state-owned commercial bank in Nepal was **Nepal Commercial Bank (NCB)**. It was established in 1968.",Rastriya Banijya Bank,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO009,Nepali,नेपाल बैंक लिमिटेड पछि स्थापना भएको पहिलो पूर्ण सरकारी स्वामित्वको व्यावसायिक बैंक कुन हो?,नेपाल बैंक लिमिटेड पछि स्थापना भएको पहली पूर्ण सरकारी स्वामित्वको व्यावसायिक बैंक Nepal Bank Limited भन्यो।,राष्ट्रिय बाणिज्य बैंक,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO010,English,In which year was Rastriya Banijya Bank established?,2003,1966 (2022 BS),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO010,Nepali,राष्ट्रिय बाणिज्य बैंक कुन सालमा स्थापना भएको थियो?,2003,सन् १९६६ (वि.सं. २०२२),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO011,English,"What is the smallest traditional monetary subunit of the Nepalese Rupee, equal to one-hundredth of a rupee?","The smallest traditional monetary subunit of the Nepalese Rupee, equal to one-hundredth of a rupee, is the ‘Chanu’.",Paisa,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO011,Nepali,"नेपाली रुपैयाँको सबैभन्दा सानो परम्परागत उपएकाइ, जुन रुपैयाँको एक-सयौं भाग हो, के हो?",Devanagari script,पैसा,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO012,English,Which government body regulates commercial banks and financial institutions in Nepal?,Cricket Association ofNepal (CAN),Nepal Rastra Bank,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO012,Nepali,नेपालमा व्यावसायिक बैंक तथा वित्तीय संस्थाहरूको नियमन कुन सरकारी निकायले गर्दछ?,Nepal Olympic Committee (SRC052),नेपाल राष्ट्र बैंक,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO013,English,What Nepali symbol is commonly used to denote the Nepalese Rupee?,The answer is the lion.,रू,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO013,Nepali,नेपाली रुपैयाँ जनाउन सामान्यतया कुन नेपाली चिन्ह प्रयोग गरिन्छ?,Devanagari script (देवनागरी लिपि),रू,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO014,English,What is the lowest-denomination banknote currently issued by Nepal Rastra Bank?,The lowest-denomination banknote currently issued by Nepal Rastra Bank is NPR 500.,Five-rupee note (NPR 5),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO014,Nepali,हाल नेपाल राष्ट्र बैंकले जारी गर्ने सबैभन्दा सानो अंकको नोट कुन हो?,नेपाल राष्ट्रबैंकले जारी गर्ने सबैभन्दा सानो अंकको नोट **2023-2024** हो।,पाँच रुपैयाँको नोट,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO015,English,"Nepal's currency system is decimal, with how many paisa equal to one rupee?",100,100,Correct,Correct,None,False,False
+ECO015,Nepali,"नेपालको मुद्रा प्रणाली दशमलव प्रणालीमा आधारित छ, एक रुपैयाँ बराबर कति पैसा हुन्छ?",एक रुपैयाँ नेपालमा लगभग ₹250 - ₹300सम्मका पैसा हुन्छ।,१००,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO016,English,What is the name of Nepal's only stock exchange?,Nepal Stock Exchange (NSE),Nepal Stock Exchange (NEPSE),Correct,Correct,None,False,False
+ECO016,Nepali,नेपालको एकमात्र धितोपत्र बजारको नाम के हो?,Nepali Market.,नेपाल स्टक एक्सचेन्ज (नेप्से),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO017,English,In which year was NEPSE established in its current form?,2007,1993,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO017,Nepali,नेप्से हालको स्वरूपमा कुन सालमा स्थापना भएको थियो?,1964 (Tokyo),सन् १९९३,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO018,English,"What was the predecessor organization to NEPSE, established in 1976?","NEPSE (Nepal Economic Society) wasn’t founded as a separate entity in 1976. It evolved from earlier organizations focused on promoting investment and financial activities within Nepal. The first formal establishment of the Nepali Investment Company Limited (NEPS), which later became NEPSE, was in **1976**.
+
+Therefore, the predecessor organization to NEPSE was the **Nepal Economic Society (NES)**.",Securities Exchange Center,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO018,Nepali,सन् १९७६ मा स्थापना भएको नेप्सेको पूर्ववर्ती संस्था कुन थियो?,"नेप्सेको पूर्ववर्ती संस्था 'नेपालियन कमिटी' (Nepalese Committee) रलाई थिया (Rila Thia) भनराईन्छ। यसले नेपालमा नेपाली भाषा, கலாन्ती, धर्म, और शिक्षाको विकासमा ध्यान केन्द्रित गर्यो।",धितोपत्र विनिमय केन्द्र,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO019,English,Which government body regulates the securities market in Nepal?,Cricket Association ofNepal (CAN),Securities Board of Nepal (SEBON),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO019,Nepali,नेपालमा धितोपत्र बजारको नियमन कुन सरकारी निकायले गर्दछ?,"Nepal Olympic Committee, SRC052,Nepal Olympic Committee,,Government,Hard,Miscellaneous,Sports,In which year did Nepal first participate in the Olympic Games?,1964 (Tokyo),सन् १९६४ (टोकियो),Nepal made its Olympic debut at the 1964 Tokyo Games.,Nepal Olympic Committee,SRC052,Nepal Olympic Committee,,Government,Hard,Other",धितोपत्र बोर्ड नेपाल (सेबोन),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO020,English,In which year was the Securities Board of Nepal (SEBON) established?,2003,1993,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO020,Nepali,धितोपत्र बोर्ड नेपाल (सेबोन) कुन सालमा स्थापना भएको थियो?,2003,सन् १९९३,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO021,English,What is the benchmark index of the Nepal Stock Exchange called?,Benchmark Index of the Nepal Stock Exchange is called **NepalSE**.,NEPSE Index,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO021,Nepali,नेपाल स्टक एक्सचेन्जको मानक सूचकांकलाई के भनिन्छ?,नेपाल स्टक एक्सचेन्जको मानक सूचकांकलाई **Nepal Standard Industrial Classification (NSIC)** भनिन्छ।,नेप्से परिसूचक,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO022,English,In which city is the Nepal Stock Exchange physically located?,Kathmandu,Kathmandu (Singha Durbar Plaza),Correct,Correct,None,False,False
+ECO022,Nepali,नेपाल स्टक एक्सचेन्ज भौतिक रूपमा कुन शहरमा अवस्थित छ?,नेपालको स्टकएक्सचेन्ज (Nepal Stock Exchange) माथिकाय सधानु नगर अलेन्टपुर (Kathmandu)मा अवस्थित छ।,काठमाडौं (सिंहदरबार प्लाजा),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO023,English,What type of trading system does NEPSE currently use for buying and selling shares?,"NE PSE uses a **tick-based trading system**. This means that investors can only buy or sell shares once per day, based on the tick price. They cannot hold positions overnight.",Fully automated online trading system,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO023,Nepali,नेप्सेले हाल शेयर किनबेच गर्न कस्तो प्रकारको ट्रेडिङ प्रणाली प्रयोग गर्छ?,"नेप्सेले मुख्य रूप से 'कम्प्रेसन मेश' (Compression Mesh) प्रणाली प्रयोग गर्दछ। यो प्रणालीलाई ‘कम्प्रेसन मेश’ भनैसца पनि भन्ने हो, जसले यसको अर्थ छ कि यसमा माइनरहरूलाई एकसाथ जोडकर राखिएको हुन्छ ।",पूर्ण स्वचालित अनलाइन कारोबार प्रणाली,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO024,English,Which sector traditionally dominates the number of listed companies on NEPSE?,Sports,Banking and financial sector,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO024,Nepali,नेप्सेमा सूचीकृत कम्पनीहरूको संख्यामा परम्परागत रूपमा कुन क्षेत्रको बाहुल्य छ?,"नेप्सेमा सूचीकृत कम्पनीहरूले सामान्यतया **उत्पादन** (Manufacturing) क्षेत्रको बाहुल्यता राख्छन्। यद्यपि, विभिन्न प्रकारका उद्योगहरू समावेश छन्, जसमा निर्माण, कृषि, वित्तीय स्रचना, र सेवाहरूको साथ उत्पादन छ।",बैंक तथा वित्तीय क्षेत्र,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO025,English,What is the informal Nepali term for a single share unit used in NEPSE trading?,The answer is “Pani.”,Kitta,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO025,Nepali,नेप्से कारोबारमा प्रयोग हुने एक शेयर एकाइको अनौपचारिक नेपाली शब्द के हो?,"नेप्से कारोबारमा प्रयोग हुने एक शेयर एकाइको अनौपचारिक नेपाली शब्द ""कम्पनी"" (Kampani) हो।",कित्ता,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO026,English,What are the three broad sectors Nepal's GDP is typically divided into?,"Nepal’s GDP is typically divided into three broad sectors:
+
+1.  **Agriculture:** This sector contributes significantly to Nepal’s economy and includes activities like crop production, livestock rearing, fisheries, and forestry.
+2.  **Services:** The services sector encompasses a wide range of industries such as finance, tourism, transportation, communication, education, healthcare, and retail.
+3.  **Industry:** This sector involves manufacturing, mining, construction, textiles, and other industrial activities.","Agriculture, Industry, and Services",Incorrect,Incorrect,Factual Contradiction,True,True
+ECO026,Nepali,नेपालको जीडीपीलाई सामान्यतया कुन तीन फराकिला क्षेत्रमा विभाजन गरिन्छ?,"नेपालको जीडीपी (Gross Domestic Product) को आमन्त्रणमा त्रैई फराकिला जोनहरू हुन्:
+
+1.  **Nepali:** नेपाली भाषा
+2.  **Hindi:** हングル भाषा
+3.  **Urdu:** उर्दू भाषा","कृषि, उद्योग, र सेवा",Incorrect,Incorrect,Factual Contradiction,True,True
+ECO027,English,Which sector employs the largest share of Nepal's workforce?,"Miscellaneous,Sports",Agriculture,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO027,Nepali,नेपालको श्रमशक्तिको सबैभन्दा ठूलो हिस्सा कुन क्षेत्रमा कार्यरत छ?,नेपालको श्रमशक्तिको सबैभन्दा ठूलो हिस्सा Taekwondo and boxing (व्यक्तिगत मुक्केबाजी खेलहरू मध्ये) मा कार्यरत छ।,कृषि,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO028,English,What classification has the United Nations historically used for Nepal's economic development status?,"The United Nations historically classified Nepal’s economic development status using the following classifications:
+
+*   **Least Developed:** This was the primary category assigned to Nepal since its independence in 1962. It reflected a significant level of poverty, limited industrialization, and dependence on agriculture.
+
+It's important to note that this classification has been revised over time as Nepal’s economic progress has increased. However, it remains a key historical benchmark for understanding Nepal’s development trajectory.",Least Developed Country (LDC),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO028,Nepali,संयुक्त राष्ट्रसंघले नेपालको आर्थिक विकास स्थितिका लागि परम्परागत रूपमा कुन वर्गीकरण प्रयोग गर्दै आएको छ?,संयुक्त राष्ट्रसंघले नेपालको आर्थिक विकास स्थितिका लागि परम्परागत रूपमा 'सectors' (sectors) वर्गीकरण प्रयोग गर्दै आएकोछ।,अति कम विकसित मुलुक (एलडीसी),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO029,English,When does Nepal's fiscal year begin according to the Bikram Sambat calendar?,"According to the Bikram Sambat calendar, Nepal’s fiscal year begins in **January**.",Shrawan 1 (mid-July),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO029,Nepali,नेपालको आर्थिक वर्ष विक्रम सम्वत् पात्रो अनुसार कहिले सुरु हुन्छ?,नेपालको आर्थिक वर्ष विक्रम सम्वत् पात्रो अनुसार सन् २०१८ मा सुरू हुन्छ।,श्रावण १ (मध्य जुलाई),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO030,English,When does Nepal's fiscal year end?,2024,"End of Ashad (mid-July, following year)",Incorrect,Incorrect,Factual Contradiction,True,True
+ECO030,Nepali,नेपालको आर्थिक वर्ष कहिले समाप्त हुन्छ?,नेपालको आर्थिक वर्ष २०१८ देखि सकुला (Kala) सकुलाबाट समाप्त हुन्छ।,आषाढ मसान्त (अर्को वर्षको मध्य जुलाई),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO031,English,Which government ministry is primarily responsible for Nepal's fiscal policy and national budget?,Ministry of Finance (MoF),Ministry of Finance,Correct,Correct,None,False,False
+ECO031,Nepali,नेपालको वित्तीय नीति र राष्ट्रिय बजेटको मुख्य जिम्मेवारी कुन मन्त्रालयको हो?,Ministry of Finance (MoF),अर्थ मन्त्रालय,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO032,English,"Which government body compiles Nepal's national statistics, including GDP data?","Ministry of Home Affairs, SRC049 ""Ministry of Home Affairs, Government of Nepal""",National Statistics Office (formerly Central Bureau of Statistics),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO032,Nepali,नेपालको जीडीपी लगायत राष्ट्रिय तथ्यांक कुन सरकारी निकायले संकलन गर्दछ?,Nepal Olympic Committee (SRC052),राष्ट्रिय तथ्याङ्क कार्यालय (पूर्व केन्द्रीय तथ्याङ्क विभाग),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO033,English,What is the standard Value Added Tax (VAT) rate applied in Nepal?,"The VAT rate in Nepal is currently **10%**. However, this can change periodically. You should always check the latest official government publications for the most up-to-date information.
+
+Here’s where you can find that information:
+
+*   **Nepal Customs and Value Added Tax (VAT) Portal:** [https://www.vat.gov.np/](https://www.vat.gov.np/)
+*   **Ministry of Economy, Government of Nepal:** [https://www.moe.gov.np/](https://www.moe.gov.np/)",13%,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO033,Nepali,नेपालमा लागू हुने मानक मूल्य अभिवृद्धि कर (भ्याट) दर कति हो?,Nepal मा लागू हुने मानक मूल्य अभिवृद्धि कर (भ्याट) दर लगभग **17%** हुन्छ।,१३ प्रतिशत,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO034,English,Which government body administers income tax collection in Nepal?,Cricket Association ofNepal (CAN),Inland Revenue Department (IRD),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO034,Nepali,नेपालमा आयकर संकलनको प्रशासन कुन सरकारी निकायले गर्दछ?,"Ministry of Finance, SRC060 ""Ministry of Finance, Government of Nepal""",आन्तरिक राजस्व विभाग,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO035,English,Remittance income is broadly cited as constituting roughly what share of Nepal's GDP in recent years?,"Approximately 6-7% of Nepal’s Gross Domestic Product (GDP) is attributed to remittances from Nepali workers abroad. This figure has fluctuated slightly over the past decade, but it remains a significant contributor to the country’s economic activity.",Roughly a quarter (approximately 25%),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO035,Nepali,हालका वर्षहरूमा रेमिट्यान्स आयले नेपालको जीडीपीको लगभग कति हिस्सा ओगटेको भनी उल्लेख गरिन्छ?,हालका वर्षहरूमा रेमिट्यान्स आयले नेपालको जीडीपीको लगभग 60% देखि छ।,लगभग एक चौथाई (करिब २५ प्रतिशत),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO041,English,Which neighboring country is Nepal's largest trading partner?,"The provided text doesn’t explicitly state Nepal’s largest trading partners. It only mentions that Nepal has historically traded with India and Bangladesh. However, based on general knowledge of trade patterns between South Asian nations, it’s likely **India** is their most significant trading partner.
+
+Therefore, the answer is: **India**",India,Correct,Correct,None,False,False
+ECO041,Nepali,नेपालको सबैभन्दा ठूलो व्यापारिक साझेदार देश कुन हो?,नेपालले आफ्नो सबैभन्दा ठूली व्यापारिक साझेदार देश भारत हो।,भारत,Correct,Correct,None,False,False
+ECO042,English,"Being a landlocked country, Nepal primarily relies on which neighboring country's seaports for third-country trade?",Nepal primarily relies on the ports of India and Bangladesh for third-country trade.,India (Kolkata port),Correct,Correct,None,False,False
+ECO042,Nepali,भूपरिवेष्ठित देश भएकाले नेपाल तेस्रो देशसँगको व्यापारका लागि मुख्यतया कुन छिमेकी देशको समुद्री बन्दरगाहमा निर्भर छ?,"नेपाल मुख्य रूप से भारतको समुद्र तटको سبيلहमा निर्भर छ, तर यसलाई थप प्रकृतीकृत देशहरै जति रहेन्।",भारत (कोलकाता बन्दरगाह),Correct,Correct,None,False,False
+ECO043,English,What is a traditional major export item of Nepal known internationally as a fine wool-based product?,Nepali Wool (NWA),Pashmina,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO043,Nepali,अन्तर्राष्ट्रिय रूपमा उत्कृष्ट ऊनी उत्पादनको रूपमा चिनिने नेपालको परम्परागत प्रमुख निर्यात वस्तु के हो?,नेपालले परम्परागत रूपमै उत्तम आयातित उत्पादको रूपमा चिनिने नेपालको परम्परागत प्रमुख निर्यात वस्तु नेपाली कपडा हो।,पश्मिना,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO044,English,Which treaty governs trade and transit relations between Nepal and India?,Nepal-India Treaty of 1975,Nepal-India Treaty of Trade and Transit,Partially Incorrect,Partially Incorrect,Distortion,True,True
+ECO044,Nepali,नेपाल र भारतबीचको व्यापार तथा पारवहन सम्बन्ध कुन सन्धिले नियमन गर्दछ?,Nepal र भारत बीचका व्यापार तथा पारवहन सम्बन्ध India-Pakistan Trade Agreement (IPTA) द्वारा नियमन गरिएका सन्ध अनुसार।,नेपाल-भारत व्यापार तथा पारवहन सन्धि,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO045,English,Name a traditional hand-woven textile product historically significant to Nepal's export-oriented carpet industry.,"The answer is **Mulukhi**.
+
+Mulukhis are intricately woven carpets that have been produced in Nepal for centuries and represent a key part of the country’s cultural heritage, particularly its carpet industry. They are known for their vibrant colors, geometric patterns, and delicate craftsmanship.
+
+Here's why this is the best answer:
+
+*   **Historical Significance:** Mulukhis have a long history deeply intertwined with Nepal’s textile traditions.
+*   **Export-Oriented:**  They were historically exported as part of Nepal’s carpet industry, contributing significantly to its economic prosperity.
+* **Cultural Importance**: They are considered an important part of Nepali culture and identity.",Wool carpets,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO045,Nepali,नेपालको निर्यातमुखी कार्पेट उद्योगमा ऐतिहासिक रूपमा महत्त्वपूर्ण रहेको परम्परागत हस्तनिर्मित वस्त्र उत्पादन नाम दिनुहोस्।,नेपालको निर्यातमुखी कार्पेट उद्योगमा ऐतिहासिक रूपमा महत्त्वपूर्ण रहेको परम्परागत हस्तनिर्मित वस्त्र उत्पादन।,ऊनी गलैंचा,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO046,English,What is Nepal's primary agricultural cash-crop export grown extensively in the eastern hills?,"The provided text doesn’t specify a primary agricultural cash crop exported from the eastern hills of Nepal. It focuses on general sports and cultural events. Therefore, I cannot answer this question based solely on the information given.",Tea,Refused (NA),Refused (NA),Refusal,True,False
+ECO046,Nepali,पूर्वी पहाडी क्षेत्रमा व्यापक रूपमा उत्पादन गरिने नेपालको प्रमुख नगदेबाली निर्यात के हो?,नेपालले पूर्वी पहाडी क्षेत्रमा व्यापक रूप से उत्पादन गरिने मुख्य नगदेबाली निर्यात **मत्स्यपालन (Fishing)** हो।,चिया,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO047,English,"Besides India, which northern neighboring country does Nepal also use for alternative trade access?",Pakistan.,China,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO047,Nepali,भारत बाहेक नेपालले वैकल्पिक व्यापार पहुँचका लागि कुन उत्तरी छिमेकी देश पनि प्रयोग गर्दछ?,उत्तर: पाकिस्तान,चीन,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO048,English,What is the name of the dry port (inland container depot) Nepal uses near the Indian border in Birgunj for third-country trade?,The dry port in Birgunj used by Nepal for third-country trade is called **Birgunj Dry Port**.,"Inland Container Depot, Birgunj",Incorrect,Incorrect,Factual Contradiction,True,True
+ECO048,Nepali,तेस्रो देशसँगको व्यापारका लागि बीरगन्जमा रहेको ड्राई पोर्ट (आइसीडी) को नाम के हो?,आइसीडी (Birgonj) ले थार्ग्यान्डमा रहेको ड्रिपोर्ट (Driport) भद्नि छ।,बीरगन्ज अन्तर्देशीय कन्टेनर डिपो,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO049,English,Nepal is a member of which South Asian regional cooperation and trade organization?,Nepal is a member of the South Asia Regional Cooperation Council (SARC).,SAARC (South Asian Association for Regional Cooperation),Partially Incorrect,Partially Incorrect,Distortion,True,True
+ECO049,Nepali,नेपाल कुन दक्षिण एसियाली क्षेत्रीय सहयोग तथा व्यापार संगठनको सदस्य हो?,"Nepal South Asian Games (SAG) regularly participates in the South Asian Games (SAG). Therefore, Nepal is a member of the South Asia Regional Cooperation and Trade Organisation (SAARC).",सार्क (दक्षिण एसियाली क्षेत्रीय सहयोग संगठन),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO050,English,In which year did Nepal officially join the World Trade Organization (WTO)?,2019,2004,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO050,Nepali,नेपाल कुन सालमा आधिकारिक रूपमा विश्व व्यापार संगठन (डब्ल्यूटीओ) मा सामेल भयो?,1995,सन् २००४,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO051,English,Which body issues trekking permits for Nepal's national parks and conservation areas?,"Cricket Association of Nepal (CAN)
+All Nepal Football Association (ANFA)
+Department of Tourism, Government of Nepal
+UNESCO World Heritage Convention",Nepal Tourism Board / respective park and conservation area offices,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO051,Nepali,नेपालका राष्ट्रिय निकुञ्ज तथा संरक्षण क्षेत्रका लागि ट्रेकिङ अनुमतिपत्र कसले जारी गर्दछ?,"नेपालका राष्ट्रिय निकुञ्ज तथा संरक्षण क्षेत्रका लागि ट्रेकिङ अनुमतिपत्र (Wildlife Conservation Permit) नेपाल सरकार द्वारा जारी गरिएको छ। यसको मुख्य उद्देश्य भने नेपाली वन्यजीव र प्राकृतिक वातावरणलाई सुरक्षित राख्न, साथमा उनका संरक्षण गर्न मद्दत गर्नु हो।
+
+यहाँ यो बारेमा जानकारी दिइएली:
+*   **उद्देश्य:** Wildlife Conservation Act, 2006 अनुसार, नेपाल सरकारले ट्रेकिङ अनुमतिपत्र जारी गर्दछ ताकि स्थानीय वन्यजीवहरूको रक्षा गर सकान् सके और तिनीहरूलाई सुरक्षित राख् सकें।
+*   **आवश्यकता:** यदि तपाईं नेपालीWildlife देखिन्थमा यात्रा गर्न चाहनुहुन्छ भने, तपाईंसँग अनुमतिपत्र आवश्यक छ।
+*   **प्रक्रिया:** अनुमतिपत्र जारी गर्ने प्रक्रिया माथि उल्लेख गरिएको मद्दतको रूपमा गरिन्छ।
+*   **अनुमतिपत्र प्रकार:** विभिन्न प्रकारका अनुमतिपत्रहरू उपलब्ध छन्, जसमा ट्रेकिङको लागि विशेष अनुमतिपत्र समावेश हुन्छ।
+
+अधिक जानकारी केही भन्न सक्यो:
+*   **अनुमतिपत्र कहाँबाट प्राप्त गर्न सक्छौ?** नेपाल सरकारले आधिकारिक रूपमा जारी गर्ने स्थानहरू छ तर तपाईंलाई आफ्नो यात्रायोजना अनुसार जाँच गर्नुपर्छ।
+*   **अनुमतिपत्रको मूल्य:** अनुमतिपत्रको मूल्य क्षेत्र र यात्रायोजना dependent हुन्छ।",नेपाल पर्यटन बोर्ड / सम्बन्धित निकुञ्ज तथा संरक्षण क्षेत्र कार्यालय,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO052,English,"What system requires trekkers to register before undertaking major treks in Nepal, abbreviated TIMS?","TIMS stands for **Tourism Information Management System**. It’s a registration system required by trekking operators and guides in Nepal to ensure responsible tourism practices.  It helps track trekkers, manage permits, and promote sustainable travel.",Trekkers' Information Management System,Partially Correct,Partially Correct,Omission,True,False
+ECO052,Nepali,"नेपालमा प्रमुख ट्रेक सुरु गर्नुअघि ट्रेकरहरूलाई दर्ता गराउन आवश्यक पर्ने प्रणाली, जसलाई टिम्स भनिन्छ, के हो?","Nepal’s Trekking Permit System (TPS) is a system designed to regulate and manage trekking in Nepal. It's essentially a registration and authorization process for trekkers before they begin their journeys. Here's a breakdown of what it involves:
+
+**Key Components:**
+
+* **Registration:**  Before starting any trek, trekkkers must register with the Nepal Tourism Board (NTB) through the Trekking Permit System (TPS). This is done online via the official website.
+* **Permit Types:** There are different permit types based on the length and difficulty of the trek:
+    * **Basic Trek Permits:** For shorter treks (typically under 10 km), these are relatively easy to obtain.
+    * **Intermediate Trek Permits:**  For treks between 10-20 km, they require a bit more documentation.
+    * **Longer Trek Permits:** These are for treks exceeding 20 km and often involve significant elevation gain or challenging terrain.
+* **Required Documents:** The registration process involves submitting various documents:
+   * **Passport Copy:** A copy of the applicant's passport is required.
+   * **Travel Itinerary:**  A detailed itinerary outlining the route, dates, and expected duration of the trek.
+   * **Medical Certificate:** A medical certificate confirming physical fitness for trekking.
+   * **Photographs:** Passport-sized photographs are typically required.
+   * **Proof of Accommodation:** Evidence of pre-booked accommodation (hotel or lodge) is needed.
+   * **Insurance Policy:**  A valid travel insurance policy with a minimum coverage amount is mandatory.
+* **Permit Validity:** Permits have specific validity periods, and trekkers must ensure they are within the allowed timeframe.
+
+**Purpose & Benefits:**
+
+* **Regulation of Trekking:** The system helps to manage crowds on popular trails, ensuring that trekking is conducted responsibly and sustainably.
+* **Revenue Generation:**  NTB collects fees from permit holders, which contributes to Nepal's tourism revenue.
+* **Safety & Environmental Protection:** By requiring permits, the government aims to ensure trekkers adhere to safety guidelines and minimize their impact on the environment.
+
+**Official Website:** [https://www.tourism.gov.np/trekking-permit-system](https://www.tourism.gov.np/trekking-permit-system)
+
+
+Do you want me to elaborate on any specific aspect of the Trekking Permit System, such as:
+
+*   The different permit categories?
+*   How to apply for a permit?
+*   What happens after obtaining a permit?",ट्रेकर्स सूचना व्यवस्थापन प्रणाली,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO053,English,Which sector significantly contributes to Nepal's foreign currency earnings alongside remittances?,"Miscellaneous,Sports",Tourism,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO053,Nepali,रेमिट्यान्ससँगै नेपालको वैदेशिक मुद्रा आर्जनमा कुन क्षेत्रले महत्त्वपूर्ण योगदान गर्दछ?,"नेपालले विदेशबाट आएલી રકમ સાથે વેરોदाમાં પણ મહત્વપૂર્ણ યોગદાન આપતા ક્ષેત્ર એ છે - **पर्यटन (Tourism)**.
+
+આ માહિતી સ્ત્રોત પ્રમાણે આપી છે.",पर्यटन,Correct,Correct,None,False,False
+ECO054,English,What is the main international airport through which most foreign tourists enter Nepal?,"Nepal Airlines Lounge, Nepal Airlines Hub","Tribhuvan International Airport, Kathmandu",Incorrect,Incorrect,Factual Contradiction,True,True
+ECO054,Nepali,अधिकांश विदेशी पर्यटक नेपाल प्रवेश गर्ने मुख्य अन्तर्राष्ट्रिय विमानस्थल कुन हो?,Dasharath Rangasala Stadium,"त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल, काठमाडौं",Incorrect,Incorrect,Factual Contradiction,True,True
+ECO055,English,What was the name of Nepal's major official tourism promotion campaign held in 2020?,Nepal’s major official tourism promotion campaign held in 2020 was “Nepal – Discover Your Adventure.”,Visit Nepal Year 2020,Correct,Correct,None,False,False
+ECO055,Nepali,सन् २०२० मा सञ्चालन गरिएको नेपालको प्रमुख आधिकारिक पर्यटन प्रवर्द्धन अभियानको नाम के थियो?,Nepal’s National Tourism Festival (NTF) 2020.,भ्रमण वर्ष नेपाल २०२०,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO056,English,Which government body is primarily responsible for promoting tourism in Nepal?,"Department of Tourism, SRC049 ""Ministry of Home Affairs, Government of Nepal""",Nepal Tourism Board,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO056,Nepali,नेपालमा पर्यटन प्रवर्द्धनको मुख्य जिम्मेवारी कुन सरकारी निकायको हो?,"Nepal Olympic Committee (SRC052)
+
+The text states: ""Nepal Olympic Committee, SRC052, Nepal Olympic Committee,,Government,Hard,Miscellaneous,Sports,In which year did Nepal first participate in the Olympic Games?""
+
+Therefore, the answer is: **1964**",नेपाल पर्यटन बोर्ड,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO057,English,What is the general term for the fee foreign trekkers pay to enter Nepal's national parks and conservation areas?,The answer is “Entrance Fee.”,Conservation area / park entry permit fee,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO057,Nepali,विदेशी ट्रेकरहरूले नेपालका राष्ट्रिय निकुञ्ज तथा संरक्षण क्षेत्रमा प्रवेश गर्दा तिर्ने शुल्कलाई सामान्यतया के भनिन्छ?,"नेपालका राष्ट्रिय निकुञ्ज तथा संरक्षण क्षेत्रमा प्रवेश गर्दा तिर्ने शुल्कलाई सामान्यतया ""प्रवेश शुल्क"" (Entry Fee) भनन्छ।",संरक्षण क्षेत्र / निकुञ्ज प्रवेश अनुमतिपत्र शुल्क,Correct,Correct,None,False,False
+ECO058,English,"What is the name of Nepal's international airport located in Bhairahawa, near Lumbini?",Dasharath Rangasala Stadium,Gautam Buddha International Airport,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO058,Nepali,लुम्बिनी नजिकै भैरहवामा रहेको नेपालको अन्तर्राष्ट्रिय विमानस्थलको नाम के हो?,Dasharath Rangasala Stadium,गौतम बुद्ध अन्तर्राष्ट्रिय विमानस्थल,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO059,English,What is the name of Nepal's international airport near Pokhara that became operational in 2023?,The name of Nepal’s international airport near Pokhara that became operational in 2023 is Tribhuvan International Airport.,Pokhara International Airport,Correct,Correct,None,False,False
+ECO059,Nepali,सन् २०२३ मा सञ्चालनमा आएको पोखरा नजिकैको नेपालको अन्तर्राष्ट्रिय विमानस्थलको नाम के हो?,Dasharath Rangasala Stadium,पोखरा अन्तर्राष्ट्रिय विमानस्थल,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO060,English,Adventure tourism revenue in Nepal is significantly tied to climbing permits for which mountain?,Nepal's national mountains.,Mount Everest,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO060,Nepali,नेपालको साहसिक पर्यटन आम्दानी मुख्यतया कुन हिमालको आरोहण अनुमतिपत्रसँग जोडिएको छ?,नेपालको साहिक पर्यटन आम्दानी मुख्यतया सगरमाथा हिमालको आरोहण अनुमतिपत्रसँग जोडिएको छ।,सगरमाथा (माउन्ट एभरेस्ट),Correct,Correct,None,False,False
+ECO061,English,What is Nepal's most widely cultivated staple food crop?,Rice (Bhasa),Rice (paddy),Correct,Correct,None,False,False
+ECO061,Nepali,नेपालको सबैभन्दा व्यापक रूपमा खेती गरिने मुख्य खाद्यान्न बाली के हो?,"नेपालको सबैभन्दा व्यापक रूपमा खेती गरिने मुख्य खाद्यान्न बालीहरू हुनन्:
+
+*   **Wheat:** Nepal मा wheat का उत्पादन कम छ।
+*   **Rice:** Nepal मा rice का उत्पादन कम छ।
+*   **Sugarcane:** Nepal मा sugarcane का उत्पादन कम छ।
+*   **Vegetables:** Nepal मा vegetables का उत्पादन कम छ।
+*   **Fruits:** Nepal मा fruits का उत्पादन कम छ।
+
+नेपालको सबैभन्दा व्यापक रूपमा खेती गरिने मुख्य खाद्यान्न बालीहरू हुनन्:
+
+*   **Corn (Maize):** Nepal मा corn का उत्पादन कम छ।
+*   **Potatoes:** Nepal मा potatoes का उत्पादन कम छ।
+*   **Sugarcane:** Nepal मा sugarcane का उत्पादन कम छ।
+*   **Cotton:** Nepal मा cotton का उत्पादन कम छ।
+*   **Fruits:** Nepal मा fruits का उत्पादन कम छ।",धान (चामल),Incorrect,Incorrect,Factual Contradiction,True,True
+ECO062,English,Which government ministry oversees agricultural policy in Nepal?,Ministry of Youth and Sports,Ministry of Agriculture and Livestock Development,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO062,Nepali,नेपालमा कृषि नीतिको निरीक्षण कुन सरकारी मन्त्रालयले गर्दछ?,"Ministry of Agriculture, Ministry of Law, SRC046 ""Ministry of Agriculture, Government of Nepal""https://www.agriculture.gov.np,Government,Medium,Department",कृषि तथा पशुपन्छी विकास मन्त्रालय,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO063,English,What term describes Nepal's traditional small-scale farming system practiced by most smallholder farmers?,"Nepali Olympic Committee,SRC054,Nepal Olympic Committee,,Government,Hard,Miscellaneous,Sports,Nepali Olympic athletes have historically competed most often in which individual/combat sport category?,नेपाली ओलम्पिक खेलाडीहरूले ऐतिहासिक रूपमा कुन व्यक्तिगत/मुक्केबाजी-प्रकारको खेल श्रेणीमा बढी सहभागिता जनाएका छन्?
+Taekwondo and boxing (among individual combat sports)",Subsistence agriculture,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO063,Nepali,अधिकांश साना किसानहरूले अभ्यास गर्ने नेपालको परम्परागत साना-स्तरको खेती प्रणालीलाई कुन शब्दले वर्णन गरिन्छ?,कृषि प्रणाली (Agriculture system),निर्वाहमुखी कृषि,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO064,English,"Which cash crop, grown extensively in eastern hill districts like Ilam, is a significant agricultural export for Nepal?","The answer is **Tea**.
+
+Nepal’s economy heavily relies on tea production, particularly from the eastern hill districts. It's one of their most important exports and contributes significantly to the country’s revenue.",Tea,Correct,Correct,None,False,False
+ECO064,Nepali,इलाम जस्ता पूर्वी पहाडी जिल्लाहरूमा व्यापक रूपमा उत्पादन गरिने कुन नगदेबाली नेपालको महत्त्वपूर्ण कृषि निर्यात हो?,"नेपालले इलाम जस्ता पूर्वी पहाडी क्षेत्रमा व्यापक रूपमा उत्पादन गर्दा आउने महत्वपूर्ण कृषि निर्यात, **मत्स्यपालन** (Fishing) हो।",चिया,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO065,English,Agriculture is broadly cited as contributing roughly what share of Nepal's GDP in recent economic surveys?,Approximately 15-20% of Nepal’s Gross Domestic Product (GDP) is attributed to agriculture.,Roughly a quarter (approximately 24-25%),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO065,Nepali,हालैका आर्थिक सर्वेक्षणहरूमा कृषिले नेपालको जीडीपीमा लगभग कति हिस्सा योगदान गरेको उल्लेख गरिन्छ?,हालैका आर्थिक सर्वेक्षणहरूमा कृषिले नेपालको जीडीपीमा लगभग **12%** हिस्सा योगदान गरेको उल्लेख गरिन्छ।,लगभग एक चौथाई (करिब २४-२५ प्रतिशत),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+ECO066,English,Foreign employment remittances form which major component of Nepal's national income?,Approximately 30% of Nepal’s national income is generated through foreign employment remittances.,A major share of GDP driven by labor migration,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO066,Nepali,वैदेशिक रोजगारीबाट प्राप्त रेमिट्यान्सले नेपालको राष्ट्रिय आयको कुन प्रमुख अंश बनाउँछ?,नेपालको राष्ट्रिय आयमा वैदेशिक रोजगारीबाट प्राप्त रेमिट्यान्सी लगभग 20% सम्भव छ।,श्रम बसाइँसराइबाट प्रेरित जीडीपीको प्रमुख अंश,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO067,English,Which government body manages foreign labor permits for Nepali migrant workers?,"Ministry of Home Affairs, SRC008",Department of Foreign Employment,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO067,Nepali,नेपाली आप्रवासी श्रमिकहरूको वैदेशिक श्रम स्वीकृति कुन सरकारी निकायले व्यवस्थापन गर्दछ?,Nepal Olympic Committee (SRC052),वैदेशिक रोजगार विभाग,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO068,English,Name one Gulf country that is a major destination for Nepali migrant workers.,Kuwait.,Qatar,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO068,Nepali,नेपाली आप्रवासी श्रमिकहरूको प्रमुख गन्तव्य रहेको एउटा खाडी देशको नाम दिनुहोस्।,नेपालमा आधारित खाडी देश हो **कन्दिगम खाडी** (Kandogam Delta)।,कतार,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO069,English,What is the commonly used term for money sent home by migrant workers?,"The most common term for money sent home by migrant workers in Nepal is “Kala.” It’s a widely understood and frequently used phrase. However, other terms like “Mera Padhai” (My Money) are also used.",Remittance,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO069,Nepali,आप्रवासी श्रमिकहरूले घर पठाउने रकमलाई सामान्यतया के भनिन्छ?,"आप्रवासी श्रमिकहरूले घर पठाउने रकमलाई सामान्यतया ""कम्पारीको भत्ता"" भन्ने गरेका छन्। यसलाई ""कम्पारीमा भत्ता"" पनि भनिन्छ।",रेमिट्यान्स,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO070,English,"Which East Asian country, outside the Gulf region, is also a major labor migration destination for Nepali workers?",South Korea.,Malaysia,Incorrect,Incorrect,Factual Contradiction,True,True
+ECO070,Nepali,खाडी क्षेत्र बाहेक कुन पूर्वी एसियाली देश पनि नेपाली श्रमिकहरूको प्रमुख श्रम बसाइँसराइ गन्तव्य हो?,नेपाल।,मलेसिया,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC016,English,Which company launched Nepal's first email service?,Cricket Association of Nepal (CAN),Mercantile Communications Pvt. Ltd.,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC016,Nepali,नेपालको पहिलो इमेल सेवा कुन कम्पनीले सुरु गरेको थियो?,Cricket Association of Nepal (CAN),मर्केन्टाइल कम्युनिकेसन्स प्रा.लि.,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC017,English,In which year did Nepal get its first email service?,2005,1993,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC017,Nepali,नेपालले पहिलोपटक इमेल सेवा कुन सालमा पायो?,1975,सन् १९९३,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC018,English,"In which year was full internet access, beyond just email, first introduced in Nepal?","2009
+
+The text states: “What is the name of Nepal’s principal stadium, hosting major football and athletic events; Dasharath Rangasala Stadium, is Nepal's principal national stadium, hosting major football and athletic events.”",1995,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC018,Nepali,इमेल मात्र नभई पूर्ण इन्टरनेट पहुँच नेपालमा पहिलोपटक कुन सालमा सुरु भएको थियो?,1964 (Tokyo),सन् १९९५,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC019,English,What is Nepal's country-code top-level domain (ccTLD)?,Nepal's country-code top-level domain (ccTLD) is .np.,.np,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC019,Nepali,नेपालको देश-कोड शीर्ष-स्तर डोमेन (सीसीटीएलडी) के हो?,Nepal's country code top-level domain is .np.,.np,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC020,English,Which organization has historically operated as the registry for Nepal's .np domain?,"Nepal Olympic Committee, SRC052,Nepal Olympic Committee,,Government,Hard,Miscellaneous,Sports,In which year did Nepal first participate in the Olympic Games?,1964 (Tokyo),सन् १९६४ (टोकियो),Nepal made its Olympic debut at the 1964 Tokyo Games.,Nepal Olympic Committee,SRC052,Nepal Olympic Committee,,Government,Hard,Date/Year",Mercantile Communications,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC020,Nepali,नेपालको .np डोमेनको रजिस्ट्रीको रूपमा परम्परागत रूपमा कुन संस्था कार्यरत रहेको छ?,नेपालको .np डोमेनको रजिस्ट्रीको रूपमा परम्परागत रूपमा Nepal Tourism Board (NTB) कार्यरत रहेको छ।,मर्केन्टाइल कम्युनिकेसन्स,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC021,English,What broad category of fiber-optic internet connection has been expanding rapidly in urban Nepal?,"Broad Category of Fiber-Optic Internet Connection Expanding Rapidly in Urban Nepal: **Mobile Broadband** (or specifically, “High Speed Mobile Connectivity”)",Fiber-to-the-home (FTTH) broadband,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC021,Nepali,सहरी नेपालमा द्रुत गतिमा विस्तार भइरहेको फाइबर-अप्टिक इन्टरनेट जडानको फराकिलो प्रकार के हो?,"नेपालले सघन फाइबर-अप्टिक इन्टरनेट जडानको विशाल श्रेणीलाई ""Fiber Optic Network"" भनो। यसमा विभिन्न कोटीहरू समावेश छन्:
+
+*   **National Fiber Optic Network (NFO):** यो नेपालската सबैभन्दा ठूलीfibre optic प्रणाली हो, जसले देशका सबै टाेक्वान्दो क्षेत्रहरू बीच जम्पात्मक रूपमा डेटा ટ્રાન્સफर गर्दछ।
+*   **Regional Fiber Optic Networks:** यसको विभिन्न क्षेत्रीय नेटवर्कहरू छन्, जो स्थानीय स्तर पर डाटा ટ્રાન્સफर गर्छन्।
+*   **Fiber Optic Infrastructure Development:** नेपालले फाइबर optic इन्फ्रास्ट्रक्चरका विकासमा महत्वपूर्ण বিনিয়োগ गर्यो, जसले राजमार्गहरू, शहरहरू र गाउँ-गाँछा बीचमा डेटा जम्पात्मक रूपमा जोड लगाइएको छ।
+
+त्यसैले, Nepal माfibre optic नेटवर्कको विशाल श्रेणीलाई बुझिनेछ।",फाइबर-टु-द-होम (एफटीटीएच) ब्रोडब्यान्ड,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC022,English,Which regulatory body issues internet service provider (ISP) licenses in Nepal?,Cricket Association ofNepal (CAN),Nepal Telecommunications Authority (NTA),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC022,Nepali,नेपालमा इन्टरनेट सेवा प्रदायक (आईएसपी) इजाजतपत्र कुन नियामक निकायले जारी गर्दछ?,Nepal Internet Service Provider Association (NISPA) द्वारा इन्टरनेट सेवा प्रदायक (आईएसपी) इजाजतपत्र जारी गरिएको छ।,नेपाल दूरसञ्चार प्राधिकरण,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC023,English,"What is the commonly used term in Nepal for public shared-computer internet access points, widespread before mobile broadband?",The answer is “Public Wi-Fi”.,Cyber café,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC023,Nepali,मोबाइल ब्रोडब्यान्ड आउनुअघि व्यापक रहेको सार्वजनिक साझा-कम्प्युटर इन्टरनेट पहुँच केन्द्रलाई नेपालमा सामान्यतया के भनिन्छ?,"नेपालमा सामान्यतया सार्वजनिक साझा कम्प्युटर इन्टरनेट पहुँच केन्द्रलाई ""प्रोजेक्ट नेट"" (Project Net) भन्ने गरेका छन्।",साइबर क्याफे,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC024,English,Which social media platform is widely reported as the most used in Nepal?,"According to various reports and surveys, **Facebook** is generally considered the most popular social media platform in Nepal.",Facebook,Correct,Correct,None,False,False
+TEC024,Nepali,नेपालमा सबैभन्दा बढी प्रयोग हुने सामाजिक सञ्जाल मञ्चको रूपमा व्यापक रूपमा कुन उल्लेख गरिन्छ?,Facebook (फेसबुक),फेसबुक,Correct,Correct,None,False,False
+TEC025,English,What government-linked initiative aims to expand broadband internet connectivity into rural parts of Nepal?,"The answer is the **Nepal Digital Inclusion Program (NDIP)**.
+
+Here’s why:
+
+*   **Nepal Digital Inclusion Program (NDIP):** This program, launched by the Ministry of Youth and Sports, focuses on expanding broadband internet access to rural areas across Nepal. It's a key component of their efforts to bridge the digital divide.
+
+You can find more details about the NDIP here: [https://www.youthandsports.gov.np/digital-inclusion-program](https://www.youthandsports.gov.np/digital-inclusion-program)",Rural Telecommunications Development Fund broadband expansion projects,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC025,Nepali,नेपालको ग्रामीण भागहरूमा ब्रोडब्यान्ड इन्टरनेट जडान विस्तार गर्ने लक्ष्य राखेको सरकार-सम्बन्धित पहल के हो?,Nepal Government-related initiative to expand broadband internet connectivity in rural areas.,ग्रामीण दूरसञ्चार विकास कोषका ब्रोडब्यान्ड विस्तार आयोजनाहरू,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC031,English,What is the name of the national interbank payment infrastructure established under Nepal Rastra Bank's oversight?,Nepal Rastra Bank (NRB) has established a national interbank payment infrastructure called **Nepal Digital Payment Network (NDPN)**.,National Payments Gateway (NPG),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC031,Nepali,नेपाल राष्ट्र बैंकको निगरानीमा स्थापना गरिएको राष्ट्रिय अन्तर-बैंक भुक्तानी पूर्वाधारको नाम के हो?,Nepal Bank for Money Transmission (NBMT) is the name of the National Interbank Payment System (NIPS).,राष्ट्रिय भुक्तानी गेटवे (एनपीजी),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC032,English,What interoperable QR-based payment standard has Nepal Rastra Bank promoted for merchant payments?,"Nepal Rastra Bank has promoted the Interoperable QR (iQR) payment standard through its initiative called “RastraPay.”  It’s a system designed to facilitate seamless transactions between merchants and banks, enhancing convenience for consumers. The specific details of this promotion are available on their website: [https://www.rastrabank.gov.np/](https://www.rastra bank.gov.np/)",Nepal QR,Correct,Correct,None,False,False
+TEC032,Nepali,व्यापारी भुक्तानीका लागि नेपाल राष्ट्र बैंकले प्रवर्द्धन गरेको अन्तर-सञ्चालनयोग्य क्यूआर-आधारित भुक्तानी मापदण्ड के हो?,"नेपाल राष्ट्रbank ने आर्थिक सुधारको पहलमा, अन्तर-सञ्चालनयोग्य क्यूआर (QR) आधारित भुक्तानी प्रणालीलाई प्रवर्द्धन गरेको छ। यसले व्यवसायीहरूलाई तियका लागि सजिलता प्रदान गर्दछ। यहाँ तरिकाexplained दिइएकी छन्:
+
+*   **क्यूआर कोड प्रयोग:** ग्राहकले आफ्नो बैंकको खातामा QR कोड स्कॅन गरेर तियका लागि बुल्कमा पहुँच पाउँछन्।
+*   **थिएक व्यवस्थापन:** क्यूआर कोडले भुक्तानी प्रक्रियालाई गम्भीर बनाउँछ, जसले थिएक व्यवस्थापनलाई सजिलै बनाएको छ।
+*   **सुरक्षा:** क्यूआर कोड प्रयोग गर्दा तियका लागि सुरक्षा सुनिश्चित हुन्छ ।
+*   **सुलभता:** यसले विभिन्न बैंकहरू र वित्तीय प्रणालीमा पहुँच प्रदान गर्दछ, जसले तियका प्रक्रियालाई सरल बनाउँछ।
+
+थिएक व्यवस्थापनको सजिलै बढाएर, नेपालका अर्थशास्त्रीय विकासमा योगदान पुर्‍याइरहेको छ।",नेपाल क्यूआर,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC033,English,Which government body regulates digital wallets and payment service providers in Nepal?,Cricket Association of Nepal (CAN),Nepal Rastra Bank (Payment Systems Department),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC033,Nepali,नेपालमा डिजिटल वालेट तथा भुक्तानी सेवा प्रदायकहरूको नियमन कुन सरकारी निकायले गर्दछ?,Nepalमा डिजिटल वालेट तथा भुक्तानी सेवा प्रदायकहरूको नियमन सरकारको 'प्रिन्स maximizes' छ।,नेपाल राष्ट्र बैंक (भुक्तानी प्रणाली विभाग),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC034,English,Name a mobile-money/remittance-linked digital payment service launched by the IME Group.,"IME Group has launched several mobile money and remittance services in India. Here’s one of the most prominent:
+
+**Paytm**
+
+While Paytm is more broadly known as an e-commerce platform, it also offers a robust digital payment service that allows users to send and receive money easily through their phones. It's heavily linked with mobile wallets and has become incredibly popular in India.",IME Pay,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC034,Nepali,आईएमई समूहले सुरु गरेको मोबाइल-मनी/रेमिट्यान्स-सम्बन्धित डिजिटल भुक्तानी सेवाको नाम दिनुहोस्।,Mobile Money & Remittance Services - Nepal,आईएमई पे,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC035,English,What term describes Nepal's broader shift toward cashless transactions promoted through QR codes and mobile banking apps?,Nepal’s broader shift towards cashless transactions promoted through QR codes and mobile banking apps is referred to as **Digitalization**.,Digital/cashless payment adoption,Correct,Correct,None,False,False
+TEC035,Nepali,क्यूआर कोड र मोबाइल बैंकिङ एपमार्फत प्रवर्द्धित नेपालको नगदरहित कारोबारतर्फको फराकिलो परिवर्तनलाई कुन शब्दले वर्णन गरिन्छ?,प्रगत अर्थव्यवस्था (Advanced Economy),डिजिटल/नगदरहित भुक्तानी अवलम्बन,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC036,English,What is the name of the government's unified digital service mobile application launched to provide citizen services?,Dasharath Rangasala Stadium,Nagarik App,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC036,Nepali,नागरिक सेवाहरू उपलब्ध गराउन सरकारद्वारा सुरु गरिएको एकीकृत डिजिटल सेवा मोबाइल एप्लिकेसनको नाम के हो?,Integrated Digital Services Mobile Application,नागरिक एप,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC037,English,What is the name of Nepal's national identity card project intended to enable digital identity verification?,Nepal’s national identity card project is called ‘Digital Identity’.,National Identity Card (NID),Correct,Correct,None,False,False
+TEC037,Nepali,डिजिटल परिचय प्रमाणीकरण सम्भव पार्ने उद्देश्यले सञ्चालित नेपालको राष्ट्रिय परिचयपत्र आयोजनाको नाम के हो?,नेपालका राष्ट्रिय परिचयपत्र (National Registration Act) को आयोजनाको नाम नेपालको राष्ट्रिय परिचयपत्र।,राष्ट्रिय परिचयपत्र (एनआईडी),Correct,Correct,None,False,False
+TEC038,English,Which government body oversees Nepal's e-governance initiatives and IT policy?,"Ministry of Youth and Sports, SRC023",Ministry of Communication and Information Technology,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC038,Nepali,नेपालको ई-गभर्नेन्स पहल तथा आईटी नीतिको निरीक्षण कुन सरकारी निकायले गर्दछ?,Nepal’s e-Governance पहल तथा IT नीति का निरीक्षण Government Institute of Information Technology (GIIIT) does.,सञ्चार तथा सूचना प्रविधि मन्त्रालय,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC039,English,What system allows Nepali citizens to apply for passports online before in-person biometric verification?,"The answer is “e-Visa” (Electronic Visa).
+
+Here’s why:
+
+*   **Nepal's e-Visa Program:** Nepal has launched an electronic visa program that allows eligible foreign nationals to apply for a digital passport online before visiting the country.
+
+You can find more details about this program here: [https://www.nepalvisa.gov.np/](https://www.nepalvisa.gov.np/)",Online passport application system,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC039,Nepali,नेपाली नागरिकहरूलाई व्यक्तिगत बायोमेट्रिक प्रमाणीकरणअघि अनलाइन राहदानी आवेदन दिन सक्षम पार्ने प्रणाली के हो?,"Nepal has implemented a system called ""Biometric Authentication for Online Travel Application"" (BATA) to enable citizens to apply for online travel permits through biometric verification. This system is designed to enhance security and streamline the application process.  Specifically, it involves using facial recognition technology to verify the identity of applicants before granting them access to travel permits.",अनलाइन राहदानी आवेदन प्रणाली,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC040,English,"Which government commission oversees voter registration and elections in Nepal, increasingly using digital voter rolls?","Nepal Olympic Committee, SRC052, Nepal Olympic Committee,,Government,Hard,",Election Commission of Nepal,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC040,Nepali,"नेपालमा मतदाता दर्ता तथा निर्वाचनको निरीक्षण कुन सरकारी आयोगले गर्दछ, जसले बढ्दो रूपमा डिजिटल मतदाता नामावली प्रयोग गर्दै आएको छ?",Nepal’s Election Commission has been developing a digital voter registry and increasingly utilizing it for increasing the number of voters.,"निर्वाचन आयोग, नेपाल",Incorrect,Incorrect,Factual Contradiction,True,True
+TEC041,English,What is the name of Nepal's e-governance master plan aimed at digitizing government services?,Nepal’s e-governance master plan aims to digitize government services. The official name for this plan is **“Digital Nepal”**. It was launched in 2018 and focuses on enhancing digital governance through various initiatives. You can find more details about it here: [https://www.digitalnepal.gov.np/](https://www.digitalnepal.gov.np/),Digital Nepal Framework,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC041,Nepali,सरकारी सेवाहरूलाई डिजिटल बनाउने लक्ष्य राखेको नेपालको ई-गभर्नेन्स गुरुयोजनाको नाम के हो?,Nepal’s e-Governance plan to digitalize government services was launched in 2016.,डिजिटल नेपाल फ्रेमवर्क,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC042,English,In which year was the Digital Nepal Framework officially launched?,2016,2019,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC042,Nepali,डिजिटल नेपाल फ्रेमवर्क कुन सालमा आधिकारिक रूपमा सुरु गरिएको थियो?,2016,सन् २०१९,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC043,English,Which government office is responsible for maintaining Nepal's civil registration and vital digital records?,"Ministry of Home Affairs, SRC049 ""Ministry of Home Affairs, Government of Nepal""",Department of National ID and Civil Registration,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC043,Nepali,नेपालको नागरिक दर्ता तथा महत्त्वपूर्ण डिजिटल अभिलेख अद्यावधिक राख्ने जिम्मेवारी कुन सरकारी कार्यालयको हो?,"Nepalको नागरिक दर्ता तथा महत्त्वपूर्ण डिजिटल अभिलेख अद्यावधिक राख्ने जिम्मेवारी Ministry of Home Affairs, Government of Nepal मा रहेको छ।",राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभाग,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC044,English,What is the name of the government office responsible for online company registration in Nepal?,"The government office responsible for online company registration in Nepal is the **Ministry of Law, Justice and Technology (MLJT)**. You can find more information on their website: [https://mljt.gov.np/](https://mljt.gov.np/)",Office of the Company Registrar (OCR),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC044,Nepali,नेपालमा अनलाइन कम्पनी दर्ताको जिम्मेवारी भएको सरकारी कार्यालयको नाम के हो?,"Nepal Online Company Registration Authority (SCORA)
+
+So the answer is: SCORA",कम्पनी रजिस्ट्रारको कार्यालय,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC045,English,Which government system allows Nepali taxpayers to file tax returns electronically?,"The answer is **Ministry of Finance**.
+
+Here’s why:
+
+*   **Ministry of Finance:** Nepal's Ministry of Finance is responsible for managing the country's financial resources and implementing fiscal policies.  They are tasked with overseeing electronic filing systems for tax returns, which is a key part of government administration.",Inland Revenue Department's e-filing system,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC045,Nepali,नेपाली करदाताहरूलाई विद्युतीय रूपमा कर विवरण दाखिला गर्न सक्षम पार्ने सरकारी प्रणाली कुन हो?,"Nepal has implemented a digital tax system called ""TaxNet"" to provide taxpayers with electronic access to their tax details. This system is primarily managed by the Ministry of Finance and involves several key components:
+
+*   **TaxNet Platform:** A centralized online platform where taxpayers can securely log in, view their tax returns, and download supporting documents.
+*   **Digital Tax Returns (DTRs):**  Taxers are required to submit DTRs electronically through this platform. These forms include details of income, deductions, and other relevant information.
+*   **Automated Processing:** The system automates many aspects of tax processing, reducing manual effort and potential errors.
+*   **Data Analytics & Reporting:** The government uses the data collected through TaxNet to generate reports for auditing, compliance, and policy analysis.
+
+The goal is to improve transparency, efficiency, and accuracy in tax administration while also enhancing taxpayer convenience.",आन्तरिक राजस्व विभागको ई-फाइलिङ प्रणाली,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC046,English,What term is often informally used to describe Kathmandu's growing cluster of software companies and IT startups?,Dasharath Rangasala Stadium,IT hub,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC046,Nepali,काठमाडौंमा बढ्दो सफ्टवेयर कम्पनी तथा आईटी स्टार्टअपको समूहलाई वर्णन गर्न अनौपचारिक रूपमा प्रायः प्रयोग गरिने शब्द के हो?,Ministry of Economy and Planning (MEP),आईटी हब,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC047,English,Which government-supported facility near Banepa was established to promote Nepal's IT industry and outsourcing?,Dasharath Rangasala Stadium (SRC054),Nepal IT Park (Banepa),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC047,Nepali,नेपालको आईटी उद्योग तथा आउटसोर्सिङ प्रवर्द्धनका लागि बानेपा नजिकै स्थापना गरिएको सरकार-समर्थित सुविधा के हो?,"नेपालमा आईटी उद्योग तथा आउटसोर्सिङ प्रवर्द्धनका लागि बानेपा नजिकै स्थापना गरिएको सरकार-समर्थित सुविधा, **""बनेपा हब"" (Banepa Hub)** हो।",नेपाल आईटी पार्क (बानेपा),Correct,Correct,None,False,False
+TEC052,English,"Which university, through its engineering institute, was among the first to offer a formal computer science/IT degree program in Nepal?","The answer is **Nepal College of Engineering (NCO)**.
+
+While multiple institutions contributed to the development of IT education in Nepal, NCO was one of the earliest and most prominent engineering colleges to establish a dedicated Computer Science and Information Technology department.  You can verify this information on their website: [https://www.nco.edu.np/](https://www.nco.edu.np/)",Tribhuvan University (Institute of Engineering),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC052,Nepali,इन्जिनियरिङ प्रतिष्ठानमार्फत कुन विश्वविद्यालय नेपालमा औपचारिक कम्प्युटर विज्ञान/आईटी उपाधि कार्यक्रम प्रदान गर्ने पहिलोमध्ये पर्दछ?,नेपालकाले इन्जिनियरिङ प्रतिष्ठानमार्फत कुन विश्वविद्यालय नेपालमा औपचारिक कम्प्युटर विज्ञान/आईटी उपाधि कार्यक्रम प्रदान गर्ने पहिलोमध्ये पर्छ।,त्रिभुवन विश्वविद्यालय (इन्जिनियरिङ अध्ययन संस्थान),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC053,English,What percentage share of Nepal's total export earnings is the IT/software service sector broadly cited as representing?,"The provided text doesn’t give a specific percentage share for the IT/Software Service Sector in Nepal’s overall exports. It only mentions that it represents a significant portion, highlighting its importance within the country's economy.  It does not provide a numerical figure.",A small but steadily growing share (specific percentage varies by year),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC053,Nepali,नेपालको कुल निर्यात आम्दानीमा आईटी/सफ्टवेयर सेवा क्षेत्रले लगभग कति प्रतिशत हिस्सा ओगटेको भनी व्यापक रूपमा उल्लेख गरिन्छ?,नेपालको कुल निर्यात आम्दानीमा आईटी/सॉफ्टवेअर सेवा क्षेत्रले लगभग **12%** हिस्सा ओगट्को भनी व्यापक रूपमा उल्लेख गरिनेछ।,सानो तर क्रमशः बढ्दो हिस्सा (सही प्रतिशत वर्षअनुसार फरक पर्छ),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC054,English,Name one well-known Nepali IT/software company recognized for outsourcing or fintech services internationally.,"While there are many companies in Nepal involved in technology and finance, **Nepal Cloud** is a prominent example of a well-recognized Nepali IT/Software company that has expanded its operations internationally through outsourcing and digital service offerings.
+
+Here's why it fits the criteria:
+
+*   **Focus on Outsourcing & Fintech:** They specialize in providing cloud solutions, cybersecurity services, and financial technology consulting to clients globally.
+*   **International Recognition:** Nepal Cloud has established a significant presence in North America (particularly with US companies) and is actively seeking international partnerships.
+* **Significant Investment**: Nepal Cloud has invested heavily in building its infrastructure and talent pool to support this global expansion.
+
+You can find more information about them here: [https://nepalcloud.com/](https://nepalcoud.com/)
+
+
+**Important Note:**  It's a complex landscape, and there are other Nepali companies involved in these areas. However, Nepal Cloud stands out as a key player internationally.",F1Soft International,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC054,Nepali,अन्तर्राष्ट्रिय रूपमा आउटसोर्सिङ वा फिनटेक सेवाका लागि चिनिने एउटा प्रख्यात नेपाली आईटी/सफ्टवेयर कम्पनीको नाम दिनुहोस्।,"नेपालले पहिलोपटक अन्तर्राष्ट्रीय स्तर पर आउटसोर्सिंग र फिनटेक क्षेत्रमा महत्त्वपूर्ण भूमिका बजाउने एउटा कुन युनिफर्मि सिर्फ़ चिनिने नेपाली आईटी/सॉफ्टवेयर कम्पनी हो?, Nepal Software Pvt Ltd.",एफवान्सफ्ट इन्टरनेशनल,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC055,English,What kind of government policy incentives are typically aimed at promoting software and IT service exports in Nepal?,"The provided text doesn’t explicitly detail the specific government policies that incentivize software and IT service exports in Nepal. However, it does mention “Easy Event” which suggests a general focus on supporting economic growth through initiatives.  To answer your question accurately, we'd need to consult official Nepali Government documents or announcements related to export promotion strategies.
+
+**However, based on the context of the text, here’s what can be inferred and likely includes:**
+
+*   **Export Promotion Programs:** The government is actively involved in programs designed to boost exports.
+*   **Tax Incentives:**  There might be tax breaks or reduced taxes for companies exporting software/IT services.
+*   **Financial Support:** Grants, loans, or subsidies could be offered to help businesses with the costs of export activities (e.g., market research, logistics).
+*   **Training and Capacity Building:** Initiatives aimed at improving the skills of Nepali IT professionals to meet international standards for exporting software is likely.
+*   **Trade Facilitation Measures:** Efforts to streamline trade processes and reduce bureaucratic hurdles for exporters are probable.
+
+**To get a precise answer, you would need to consult official government sources like:**
+
+*   The Nepal Export Promotion Council (NEPC) website ([https://www.nepc.gov.np/](https://www.nepc.gov.np/))
+*   Ministry of Commerce and Trade’s publications on export policies.
+*   Official Government announcements regarding export promotion initiatives.",Tax incentives and export promotion schemes for IT/software services,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC055,Nepali,नेपालमा सफ्टवेयर तथा आईटी सेवा निर्यात प्रवर्द्धनका लागि सामान्यतया कस्ता सरकारी नीतिगत प्रोत्साहनहरू लक्षित हुन्छन्?,"नेपालले सॉफ्टवेअर र आइटी क्षेत्रको निर्यातलाई बुनाउँदै, सरकारले विभिन्न प्रकार केही नीतिगत प्रोत्साहनहरू चलाए जसले यसको विकासलाई प्रवृद्ध पार्छन। यी प्रोत्साहनहरू निम्न तरिकामा प्रयोग गरिएका हुन्छन्:
+
+*   **उत्पादन बצעन (Production Subsidies):** सॉफ्टवेअर उत्पादन गर्नको लागि सरकारी बजेट प्रदान गर्दछ, जसले स्थानीय सॉफ्टवेयर उद्योगहरूको विकासलाई बुनाइन्छ।
+*   **अनुदान (Grants):** नयाँ सॉफ्टवेयर कम्पनीहरू सुरू गर्न वा विस्तार गर्नका साथै, यी क्षेत्रमा काम गरिएन केही प्रोत्साहन दिन्छन्।
+*   **कम्पनीको आकारमा छुट (Size Discounts):** सरकारी स्रोतबाट सॉफ्टवेयर कम्पनीहरूको आकारमा छुट दिन्छन्, जसले उनका विकासलाई बुनाइन्छ।
+*   **अनुदान प्रणाली (Grant Programs):** सरकारले विभिन्न प्रकारका परियोजनाहरू चलाउनु केही प्रोत्साहन दिन्छन्, जस्तै रमाइली निर्माण, परीक्षण, और प्रयोग गरिएन।
+*   **कम्पनीको प्यारिटीमा छुट (Tax Breaks):** सॉफ्टवेयर कम्पनीहरूको प्यारिटीमा छुट दिन्छन्, जसले उनका आम्दना बढाइन्छ।
+*   **प्रोजेक्ट सपोर्ट (Project Support):** सरकारले खास तरिकाहरू चलाउँछ कि कति परियोजनाहरूलाई बुनाइन्छ, जस्तै रमाइली निर्माण, परीक्षण, और प्रयोग गरिएन।
+*   **कम्पनीको विकासमा प्रोत्साहन (Encouragement for Growth):** सरकारी नीतिहरूको माध्यमले सॉफ्टवेयर कम्पनीहरूको विकासलाई बुनाइन्छ, जसले उनका उत्पादन बढाइन्छ।
+
+यी प्रोत्साहनहरूले नेपालका सॉफ्टवेयर उद्योगलाई थप प्रवृद्ध पार्छन र स्थानीय अर्थव्यव систеमा योगदान दिन्छन्।",आईटी/सफ्टवेयर सेवाका लागि कर छुट तथा निर्यात प्रवर्द्धन योजनाहरू,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC056,English,Which government institution is historically credited with bringing one of the first computers into Nepal for statistical purposes?,Cricket Association of Nepal (CAN),Central Bureau of Statistics (now National Statistics Office),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC056,Nepali,सांख्यिकीय प्रयोजनका लागि नेपालमा पहिलो कम्प्युटरमध्ये एक ल्याउने श्रेय ऐतिहासिक रूपमा कुन सरकारी संस्थालाई दिइन्छ?,नेपालको सरकारले पहिलोपटक ओलम्पिक खेलकुдачиमा कुन सरकारी संस्थालाई कम्प्युटरमध्ये एक ल्याउने श्रेय दिएको छ। यसको वर्ष 1964 थियो।,केन्द्रीय तथ्याङ्क विभाग (हाल राष्ट्रिय तथ्याङ्क कार्यालय),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC057,English,"What was the primary use of Nepal's earliest government computers, introduced in the mid-20th century?","The provided text doesn’t explicitly state what the primary use of Nepal’s early computer systems was. It only mentions that they were used for “Miscellaneous, Sports, and Other” activities.  It does not provide details about their specific function.",Census and statistical data processing,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC057,Nepali,बीसौं शताब्दीको मध्यतिर ल्याइएका नेपालका शुरुका सरकारी कम्प्युटरहरूको मुख्य प्रयोग के थियो?,"नेपालले पहिलोपटक ओलम्पिक खेलकुदमा कुन सालमा सहभागिता जनाएको थियो,1964 (Tokyo)",जनगणना तथा तथ्याङ्क प्रशोधन,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC058,English,What general term was used in Nepal during the 1990s for public shared-computer/internet access points?,"The answer is “Network Access Points”.
+
+Here’s why:
+
+*   **Context:** The text mentions a period of significant digital transformation and infrastructure development in Nepal during the 1990s.
+*   **“Network Access Points”**: This term accurately describes the public-shared computer/internet access points that were established during this era, particularly as part of the government’s efforts to promote connectivity.",Cyber café,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC058,Nepali,सन् १९९० को दशकमा नेपालमा सार्वजनिक साझा-कम्प्युटर/इन्टरनेट पहुँच केन्द्रका लागि सामान्य शब्द के प्रयोग गरिन्थ्यो?,"The answer is ""प्रशासकीय केंद्र"" (Prashasrit Kendra).
+
+Here's why:
+
+*   **Prashasrit Kendra:** This translates to ""Administrative Center."" It was a significant initiative in Nepal during that time, establishing computer centers and internet access points across the country.
+
+Let me know if you’d like more details!",साइबर क्याफे,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC059,English,Which institute under Tribhuvan University played a key role in formally expanding computing/engineering education in Nepal?,"The answer is the Institute of Computer Studies (ICS).
+
+Here’s why:
+
+*   **Tribhuvan University's Role:** Tribhuan University, under the Ministry of Education, has historically been a significant institution for higher education in Nepal.
+*   **ICS Expansion:** The ICS was established to focus on computer science and engineering programs, playing a crucial role in expanding these fields within Nepal.
+
+Therefore, the ICS is the key institute that significantly contributed to the expansion of computing/engineering education in Nepal.",Institute of Engineering (IOE),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC059,Nepali,त्रिभुवन विश्वविद्यालय अन्तर्गतको कुन प्रतिष्ठानले नेपालमा कम्प्युटिङ/इन्जिनियरिङ शिक्षाको औपचारिक विस्तारमा प्रमुख भूमिका खेलेको थियो?,त्रिभुवन विश्वविद्यालय अन्तर्गतको **प्रौद्योगिकी और इंजीनियरिंग संस्थान (Faculty of Technology and Engineering)** ने नेपालमा कम्प्युटरींग/इन्जिनियरिंग शिक्षाको औपचारिक विस्तारमा मुख्य भूमिका निभाई।,इन्जिनियरिङ अध्ययन संस्थान,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC060,English,"In Nepal's early IT commercialization period, what were shared public computer access shops commonly used for, besides browsing?","Nepal’s early IT commercialization period saw the widespread use of shared computer access shops primarily for **basic word processing and document creation**. These shops offered users a space to create documents, edit them, and share them with others. It was a crucial step in establishing a digital communication network within Nepal before the rise of dedicated software and internet services.
+
+Here’s why this is the most accurate answer:
+
+*   **Early Adoption:** The establishment of these shared spaces was a key part of the early computerization efforts, allowing people to experiment with computers without needing expensive hardware.
+*   **Basic Functionality:** They were primarily used for simple tasks like writing letters, creating reports, and sharing documents – essential for business and personal communication in that era.
+* **Network Building:** These shops acted as a vital infrastructure component for establishing basic computer networks within the country.",Email access and basic computer/typing training,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC060,Nepali,"नेपालको प्रारम्भिक आईटी व्यावसायीकरण अवधिमा, ब्राउजिङ बाहेक साझा सार्वजनिक कम्प्युटर पहुँच पसलहरू सामान्यतया केका लागि प्रयोग हुन्थे?","नेपालको सुरुवाती आईटी (Information Technology) व्यावसायीकरण अवधिमा, ब्राउजिङ बाहेक साझा सार्वजनिक कम्प्युटर पहुँच पसलहरू सामान्यतया **सुरुء र सामाजिक नेटवर्क** मा प्रयोग भन्यो।
+
+यहाँ कारण दिइएका छन्:
+
+*   **सामाजिक नेटवर्क:** नेपालले पहिले नै सामाजिक नेटवर्कको विकासमा ध्यान केन्द्रित गर्यो, जसलाई 'नेटवर्क' भनेर जानियो गया। यसले मानिसहरू बीच जानकारी आदानबँचासलाई सरल बनाउनु र सहयोगलाई प्रोत्साहन गर्नु थियो।
+*   **सुरुء र सामाजिक नेटवर्क पसलहरू:** यो सुरुदेखि नै सार्वजनिक कम्प्युटर पहुँचको पसलहरू प्रयोग भन्यो, किनकि यसले व्यक्तिहरूको सहकार्यमा केन्द्रित हुन्छ ।
+
+त्यसैले, नेपालले पहिले नै सामाजिक नेटवर्कको विकासमा ध्यान केन्द्रित गर्यो, जसलाई 'नेटवर्क' भनेर जानियो गया।",इमेल पहुँच र आधारभूत कम्प्युटर/टाइपिङ तालिम,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC061,English,What is the name of Nepal's first satellite launched into space?,The answer is “Chandrakanta.” It was launched in 1980.,NepaliSat-1,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC061,Nepali,अन्तरिक्षमा प्रक्षेपण गरिएको नेपालको पहिलो उपग्रहको नाम के हो?,"नेपालले पहिले अन्तरिक्षमा प्रक्षेपण गरिएको पहिलो उपग्रहको नाम ""NepalSat"" थियो।",नेपालीस्याट-१,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC062,English,In which year was NepaliSat-1 launched?,2004,2019,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC062,Nepali,नेपालीस्याट-१ कुन सालमा प्रक्षेपण गरिएको थियो?,1964 (Tokyo),सन् २०१९,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC063,English,NepaliSat-1 was developed as part of a joint program involving which Japanese institution?,Japanese National Institute of Technology (NIT),Kyushu Institute of Technology (Kyutech) - BIRDS project,Partially Incorrect,Partially Incorrect,Distortion,True,True
+TEC063,Nepali,नेपालीस्याट-१ कुन जापानी संस्था संलग्न संयुक्त कार्यक्रमको हिस्साको रूपमा विकसित गरिएको थियो?,Nepal’s Olympic Committee (SRC052) is considered a part of the Japanese organization associated with the development of the “Joint Program” for the development of the Olympic Games.,क्युशु प्रविधि संस्थान (क्युटेक) - बर्ड्स कार्यक्रम,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC064,English,From which platform was NepaliSat-1 deployed into orbit?,"NepaliSat-1 was deployed into orbit from the **India Satellite Launch Centre (ISLC)** in Sriharikota, India.",International Space Station (ISS),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC064,Nepali,नेपालीस्याट-१ कुन प्लेटफर्महरू अन्तरिक्षमा प्रक्षेपण गरिएको थियो?,"नेपालले अन्तरिक्षमा प्रक्षेपण गरिएको मुख्य प्लेटफर्महरू निम्न छन्:
+
+*   **Gagan:** यो प्लेटफर्म नेपाल सरकार द्वारा चलाइय र प्रयोगको लागि बनाएको एक स्पेसक्राफ्ट हो। यसले पृथ्वीबाट माथि छ so किन्हींही स्थानमा प्रवेश गर्न सक्ने क्षमता राख्छ।
+*   **Bhumi:** यो प्लेटफर्म नेपाल सरकारद्वारा चलाई जायली, यसले अन्तरिक्षमा प्रक्षेपणका लागि प्रयोगको लागि डिजाइन गरिएको थियो।",अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशन (आईएसएस),Incorrect,Incorrect,Factual Contradiction,True,True
+TEC065,English,What type of small satellite classification does NepaliSat-1 belong to?,Small satellite classification - Miscellaneous,CubeSat,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC065,Nepali,नेपालीस्याट-१ कुन प्रकारको साना उपग्रह वर्गीकरणमा पर्दछ?,"Miscellaneous,Sports,Small satellite category",क्यूबस्याट,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC066,English,What broad term describes Nepal's growing interest in using chatbots and generative AI tools in education and business?,"The answer is **Digital Transformation & Technological Advancement**.
+
+Here’s why:
+
+*   **Digital Transformation:** The context explicitly mentions Nepal’s increasing use of chatbots and generative AI. This signifies a broader shift towards leveraging digital technologies across various sectors, including education and business.
+*   **Technological Advancement:**  The mention of using these tools highlights the adoption of new technologies – specifically chatbots and generative AI – which is a key element in this transformation.
+
+Let me know if you’d like more detail on any aspect of this!",AI adoption / digital transformation,Correct,Correct,None,False,False
+TEC066,Nepali,शिक्षा र व्यवसायमा च्याटबोट तथा जेनेरेटिभ एआई उपकरण प्रयोग गर्ने नेपालको बढ्दो चासोलाई कुन फराकिलो शब्दले वर्णन गरिन्छ?,"Education and business automation and generative AI tools are increasing in Nepal due to the following broad term: **Digital Transformation**. 
+
+Here's why this is a good answer:
+
+*   **Digital Transformation:** This encompasses all the changes happening across various sectors, including education and business. It refers to the adoption of new technologies (like AI) to improve efficiency, productivity, and overall operations.
+*   **Nepal's Increasing Consequence:** The text highlights Nepal’s growing interest in this trend, suggesting a shift towards embracing these tools for growth.
+
+Let me know if you'd like any further elaboration on why this is the best fit!",एआई अवलम्बन / डिजिटल रूपान्तरण,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC067,English,Nepal's National AI Policy was approved around which recent year?,2023,2025,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC067,Nepali,नेपालको राष्ट्रिय एआई नीति हालैको कुन सालतिर स्वीकृत भएको थियो?,"2023
+
+The Nepali National AI Policy was officially launched in 2023.",सन् २०२५,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+TEC068,English,Which broad sectors does Nepal's National AI Policy explicitly prioritize for AI development?,"Nepal’s National AI Policy explicitly prioritizes the following broad sectors for AI development:
+
+*   **Healthcare:** Focusing on improving healthcare delivery through AI-powered diagnostics, treatment planning, and patient monitoring.
+*   **Agriculture:** Utilizing AI to enhance agricultural practices – including precision farming, crop yield optimization, and livestock management.
+*   **Education:** Applying AI to personalize learning experiences, automate administrative tasks, and improve educational outcomes.
+*   **Disaster Management & Climate Change Resilience:** Leveraging AI for early warning systems, risk assessment, and adaptation strategies in the face of climate change.
+*   **Governance & Public Services:** Utilizing AI to streamline government processes, enhance citizen engagement, and improve public service delivery.","Agriculture, health, education, and disaster management, among others",Incorrect,Incorrect,Factual Contradiction,True,True
+TEC068,Nepali,नेपालको राष्ट्रिय एआई नीतिले एआई विकासका लागि कुन फराकिला क्षेत्रहरूलाई स्पष्ट रूपमा प्राथमिकता दिएको छ?,"नेपालको राष्ट्रिय एआई नीतिले एआई विकासका लागि स्पष्ट रूपमा प्राथमिकता दिएको छ, **विज्ञान (Science)**।
+
+अन Explanation:
+
+नीलँ एआई विकासमा विज्ञानको पहिरथलाई ध्यान केन्द्रित गर्दछ र यसलाई आफ्नो नीतिमा महत्वपूर्ण स्थान दिन्छ ।","कृषि, स्वास्थ्य, शिक्षा, र विपद् व्यवस्थापन लगायत",Incorrect,Incorrect,Factual Contradiction,True,True
+TEC069,English,What is a commonly cited barrier to AI research and deployment specific to Nepal's context?,"The provided text doesn’t explicitly state a *common* barrier to AI research and deployment specifically for Nepal. However, it highlights challenges related to infrastructure, skilled personnel, and data availability as key concerns.  It mentions the need for “adequate digital infrastructure” which is a significant hurdle in many developing nations.
+
+Therefore, while not directly stated, **lack of adequate digital infrastructure** – particularly internet connectivity and computing power – is likely considered a *common* barrier to AI research and deployment within Nepal’s context based on the provided information.  It's a broad point raised as a concern rather than a specific identified challenge.
+
+To be more precise, it would require further investigation into Nepali tech sector reports or government initiatives focused specifically on digital development.",Limited Nepali-language digital data and infrastructure,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC069,Nepali,नेपालको सन्दर्भमा एआई अनुसन्धान तथा प्रयोगमा सामान्यतया उल्लेख गरिने अवरोध के हो?,"नेपालको सन्दर्भमा एआई (Artificial Intelligence) अनुसन्धान तथा प्रयोगमा सामान्यतया उल्लेख गरिने अवरोधहरू हुन्:
+
+*   **डिजिटल डिवाइड:** नेपालका ग्रामीण क्षेत्रमा इन्टरनेट पहुँच परicientी कम छ, जसले एआई आधारित समाधानहरूको उपयोगलाई सीमित गर्दछ।
+*   **कौशलको अभाव:** नेपालीमा एआई विकास र कार्यान्वयनको लागि आवश्यक कौशलको कमी छ। धेरै राम्रो कुशल कर्मचारीहरू छैनन् जसले एआई प्रणाली डिजाइन गर्न, लागू गर्न र बनाएर आउन सक्छन्।
+*   **सुरक्षा र गोपनीयता प्रश्नहरू:** एआई प्रविधि प्रयोगका कारण डेटा सुरक्षा र व्यक्तिगत जानकारीमा अनधिक पहुँच बढ्न सक्नेछ ।
+*   **नैतिक मुद्दाहरू:** एआईको उपयोगमा नैतिक दुविधाहरू छ, जस्तै मानskapस, असमानता, र प्रतिवन्दन।
+*   **आर्थिक स्रोतको अभाव:** एआई विकासका लागि पर्याप्त आर्थिक स्रोतको कमी छ।
+*   **नियाम व्यवस्थाको अभाव:** एआई प्रयोगलाई व्यवस्थित गर्न र नियमन गर्न सकेकानी ।
+*   **सुरक्षा र विश्वसनीयताको मुद्दाहरू:** एआई प्रणालीमा त्रुटि आउन सक्नेछ, जसले सामाजिक कार्यमा समस्या ल्याउन सक्छ।
+
+यो सूची विस्तृत नहुँस्, तर यसले नेपालका एआई विकासमा सामना गर्ने मुख्य अवरोधहरूको बारेमा बताउँदछ।",सीमित नेपाली-भाषा डिजिटल डेटा तथा पूर्वाधार,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC070,English,"Which type of institutions in Nepal have begun deploying AI-driven chatbots for customer service, according to recent reports?","According to recent reports, Nepal Olympic Committee, SRC052, Nepal Olympic Committee,,Government,Hard,Miscellaneous,Sports,Nepali Olympic athletes have historically competed most often in which individual/combat sport category?,नेपाली ओलम्पिक खेलाडीहरूले ऐतिहासिक रूपमा कुन व्यक्तिगत/मुक्केबाजी-प्रकारको खेल श्रेणीमा बढी सहभागिता जनाएका छन्?
+Taekwondo and boxing (among individual combat sports)",Banks and financial institutions,Incorrect,Incorrect,Factual Contradiction,True,True
+TEC070,Nepali,हालैका प्रतिवेदनहरू अनुसार नेपालमा कुन प्रकारका संस्थाहरूले ग्राहक सेवाका लागि एआई-सञ्चालित च्याटबोट प्रयोग सुरु गरेका छन्?,"नेपालमा हालैका प्रतिवेदनहरू अनुसार नेपालमा ग्राहक सेवाको लागि एआई-सञ्चालित च्याटबोट प्रयोग सुरु भएका संस्थाहरूको प्रकार हो:
+
+*   **Microsoft:** Microsoft ले Nepal मा आफ्नो AI-आधारিত चैटबॉट प्रणालीलाई सुरू गरेको बताइन्छ।
+*   **Google:** Google पनि हालैकीमध्ये, उनका AI संचालित चटबोटहरू चलाउँछन्।
+*   **Amazon:** Amazon ने नेपालमा एआई च्याटबोट प्रयोग सकेको छ।
+
+यी संस्थाहरू ग्राहक सेवा को सुधार र दक्षता लाई प्राथमिकता दिदै एआई-आधारित समाधानहरूको उपयोग गरिरहेका छन्।",बैंक तथा वित्तीय संस्थाहरू,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS001,English,What is unique about the shape of Nepal's national flag compared to all other national flags in the world?,"The Nepali national flag has a distinctive triangular shape with a blue field and a white crest centered on it. It’s not a simple rectangle or square, but rather a unique geometric design that reflects Nepali history and symbolism.",It is the only non-quadrilateral (non-rectangular) national flag in the world,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS001,Nepali,विश्वका अन्य सबै राष्ट्रिय झण्डाहरूको तुलनामा नेपालको राष्ट्रिय झण्डाको आकारमा के अनौठोपन छ?,"नेपालको राष्ट्रीय झण्डाले अरुको झण्डाको तुलनामा धेरै ठूलो हो। यो झण्डा भोकको आकारमा बनाइएका कुन प्रकारको झण्डा हो, जसलाई 'नेपाली झण्डा' पनि भन्ने गरिन्छ।",यो विश्वको एकमात्र गैर-चतुर्भुज (गैर-आयताकार) राष्ट्रिय झण्डा हो,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS002,English,What is Nepal's national bird?,The answer is the Himalayan Monal।,Himalayan monal (Danphe),Correct,Correct,None,False,False
+MIS002,Nepali,नेपालको राष्ट्रिय चरा के हो?,Cricket (Taekwondo and boxing (व्यक्तिगत मुक्केबाजी खेलहरू मध्ये) ),डाँफे,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS015,English,"What theme, reflected in the national anthem's title referencing 'hundreds of flowers,' represents Nepal's cultural composition?","The answer is “multi-ethnic, multi-lingual, and diverse.”
+
+The national anthem’s title references ""hundreds of flowers"" – a metaphor for Nepal’s rich tapestry of cultures, languages, and traditions. It signifies the country's diversity as reflected in its people and heritage.",Ethnic and cultural diversity and unity,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS015,Nepali,राष्ट्रिय गानको शीर्षकमा 'सयौं थुँगा' भन्ने सन्दर्भबाट झल्किने कुन विषयवस्तुले नेपालको सांस्कृतिक बनावटको प्रतिनिधित्व गर्दछ?,"सयौं थुँगा (A Song of Sorrow) ले नेपालको सांस्कृतिक बनावटको प्रतिनिधित्व गर्दछ। यसमा नेपालीहरूको पीडा, निराशा र जीवनका संघर्षहरूलाई प्रतिबिम्बित गरिएको छ। यो गीत नेपाली कथा, कविता र संस्कृतिको एक महत्वपूर्ण अंश हो जसले देशको इतिहास, भावना र मान्साहरू बीचको सम्बन्धलाई उजागर गर्दछ।",जातीय तथा सांस्कृतिक विविधता र एकता,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS016,English,What is the official calendar system used in Nepal for government and legal purposes?,Nepali Calendar System,Bikram Sambat (BS),Incorrect,Incorrect,Factual Contradiction,True,True
+MIS016,Nepali,नेपालमा सरकारी तथा कानुनी प्रयोजनका लागि प्रयोग गरिने आधिकारिक पात्रो प्रणाली के हो?,नेपालमा सरकारी तथा कानुनी प्रयोजनका लागि प्रयोग गरिने आधिकारिक पात्रो प्रणाली ‘प्रिन्सिपल पात्रा’ (Principal Passport) हो। यसलाई ‘प्रिन्सिपल सिम्पसन’ पनि भनिन्छ।,विक्रम सम्वत्,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS017,English,In which Gregorian-calendar month does the Nepali New Year typically fall?,November,Mid-April,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS017,Nepali,नेपाली नयाँ वर्ष सामान्यतया ग्रेगोरियन पात्रोको कुन महिनामा पर्दछ?,नेपालका नयाँ वर्ष सामान्यतया ग्रेगोरियन पात्रोको मेरिदियस месеममा पर्छ।,मध्य अप्रिल,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS018,English,What is Nepal's standard time zone offset from UTC?,"Nepal Standard Time Zone Offset (NSTZ) = -05:30
+
+This means Nepal observes local time during the daytime and UTC during nighttime.",UTC+5:45,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS018,Nepali,नेपालको मानक समय क्षेत्र UTC भन्दा कति फरक हुन्छ?,"नेपालको मानक समय क्षेत्र UTC भन्दा कति फरक हुन्छ?
+
+नेपालको मानक समय क्षेत्र UTC भन्दा लगभग 7 घण्टा फरक हुन्छ।",यूटीसी+५:४५,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS019,English,Why is Nepal's time zone offset unusual compared to most countries?,"Nepal’s time zone is offset unusually due to its location in the Himalayan region and the influence of the monsoon season. Here’s a breakdown of why this happens:
+
+* **Monsoon Season:** The monsoon winds, which bring heavy rainfall, primarily affect Nepal during the summer months (June-August). This creates a significant pressure difference between the eastern and western sides of the country.
+* **Traditional Practices:** Historically, Nepali society has relied on observing the sun's position to determine the correct time.  The sun’s movement is tied to the monsoon season, so adjusting times based on its position was a deeply ingrained practice.
+* **Geographic Location:** Nepal sits in a valley with a large mountain range that blocks sunlight from reaching certain areas during the summer months. This creates a ""time lag"" effect, causing the eastern side of the country to be slightly ahead of the western side.
+
+Essentially, it’s a complex interplay of geography and tradition that results in the unusual offset.  It's not simply about using a clock; it's a deeply rooted cultural practice tied to the natural environment.",It uses a 45-minute offset instead of a standard hour-based offset,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS019,Nepali,नेपालको समय क्षेत्र फरक अधिकांश देशहरूको तुलनामा किन असामान्य छ?,"नेपालको समय क्षेत्र फरक अधिकांश देशहरूcomparative रूपमा सामान्यले अन्य देशहरूपरिचैले असामान्य भन्नका कारणहरू निम्न छन्:
+
+*   **एकल वर्ष प्रणाली:** नेपाल एकल वर्ष प्रणाली प्रयोग गर्दछ, जसलाई 'अति-वर्ष' पनि भन्ने गरिन्छ। यसको मतलब, यो वर्षको सुरुवातबाट अर्काँडा वर्ष पछेगा हुन्छ। यस प्रणालीमा, समयको मापनमा धेरै फरक दिनहरू समावेश हुन्छन्।
+*   **समयको व्यवस्था:** अन्य देशहरूले विभिन्न प्रकारका वर्षहरूको प्रयोग गर्छन् - उदाहरण केही एउटा वर्ष र एक दशकमात्र हो। नेपालमा, वर्षको सुरुवातबाट अर्काँडा वर्ष पछेगा हुन्छ, जसले समयको मापनलाई जटिल बनाउँदछ।
+*   **मौसम प्रणाली:** नेपाली मौसम प्रणाली धेरै फरक छ, यसले विभिन्न प्रकारका मौसमहरू समावेश गर्छन्, जसमा वर्षको अन्दायरदेखि पनि अलग हुन्छ।
+
+त्यसैले, नेपालको समय क्षेत्र सामान्यतः अन्य देशहरूपरिचैले अनूठा हो र यो समय मापनमा जोडदार समस्याहरू प्रस्तुत गर्दछ।",यसले मानक घण्टा-आधारित फरकको सट्टा ४५ मिनेटको फरक प्रयोग गर्दछ,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS025,English,Nepal officially celebrates its New Year holiday according to which calendar system?,Nepal officially celebrates its New Year holiday according to the Hindu lunar calendar system called the *Hindu Pancha-Shani Calendar*.,Bikram Sambat calendar,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS025,Nepali,नेपालले आफ्नो नयाँ वर्षको बिदा आधिकारिक रूपमा कुन पात्रो प्रणाली अनुसार मनाउँछ?,नेपालले आफ्नो नयाँ वर्षको बिदा आधिकारिक रूपमा 'अधियानो' (Adhikaaro) पात्रो प्रणाली अनुसार मनाउँछ।,विक्रम सम्वत् पात्रो,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS026,English,In which international multi-sport event does Nepal regularly compete alongside other South Asian nations?,"The provided text states that Nepal regularly participates in the South Asia Games (SAG) alongside other SAARC nations, including Nepal Olympic Committee, SRC052, Nepal Olympic Committee, Government, and Easy Event. It doesn’t specify which international multi-sport event they compete within.",South Asian Games (SAG),Correct,Correct,None,False,False
+MIS026,Nepali,अन्य दक्षिण एसियाली राष्ट्रहरूसँगै नेपालले नियमित रूपमा भाग लिने अन्तर्राष्ट्रिय बहु-खेल आयोजना कुन हो?,South Asian Games,दक्षिण एसियाली खेलकुद (साग),Incorrect,Incorrect,Factual Contradiction,True,True
+MIS027,English,In which year did Nepal first participate in the Olympic Games?,1964 (Tokyo),1964 (Tokyo),Correct,Correct,None,False,False
+MIS027,Nepali,नेपालले पहिलोपटक ओलम्पिक खेलकुदमा कुन सालमा सहभागिता जनाएको थियो?,1964 (Tokyo),सन् १९६४ (टोकियो),Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS028,English,Nepali Olympic athletes have historically competed most often in which individual/combat sport category?,नेपाली ओलम्पिक खेलाडीहरूले ऐतिहासिक रूपमा Taekwondo र boxing (व्यक्तिगत मुक्केबाजी खेलहरू मध्ये) सहभागिता जनाएका छन्।,Taekwondo and boxing (among individual combat sports),Correct,Correct,None,False,False
+MIS028,Nepali,नेपाली ओलम्पिक खेलाडीहरूले ऐतिहासिक रूपमा कुन व्यक्तिगत/मुक्केबाजी-प्रकारको खेल श्रेणीमा बढी सहभागिता जनाएका छन्?,नेपाली ओलम्पिक खेलाडीहरूले ऐतिहासिक रूपमा Taekwondo र boxing (व्यक्तिगत मुक्केबाजी खेलहरू मध्ये) को खेल श्रेणीमा बढी सहभागिता जनाएका छन्।,तेक्वान्दो र बक्सिङ (व्यक्तिगत मुक्केबाजी खेलहरू मध्ये),Correct,Correct,None,False,False
+MIS033,English,What is the governing body for cricket in Nepal?,Cricket Association ofNepal (CAN),Cricket Association of Nepal (CAN),Correct,Correct,None,False,False
+MIS033,Nepali,नेपालमा क्रिकेटको नियमन गर्ने निकाय कुन हो?,Cricket Association ofNepal (CAN),क्रिकेट संघ नेपाल (क्यान),Incorrect,Incorrect,Factual Contradiction,True,True
+MIS034,English,Nepal's national football team competes in tournaments organized under which continental football confederation?,Asian Football Confederation (AFC),Asian Football Confederation (AFC),Correct,Correct,None,False,False
+MIS034,Nepali,नेपालको राष्ट्रिय फुटबल टोली कुन महाद्वीपीय फुटबल महासंघ अन्तर्गत आयोजित प्रतियोगितामा प्रतिस्पर्धा गर्दछ?,Asian Football Confederation (AFC),एसियाली फुटबल महासंघ (एएफसी),Incorrect,Incorrect,Factual Contradiction,True,True
+MIS035,English,"What is the name of Nepal's largest multi-purpose sports stadium, located in Kathmandu?",Dasharath Rangasala Stadium,Dasharath Rangasala Stadium,Correct,Correct,None,False,False
+MIS035,Nepali,काठमाडौंमा अवस्थित नेपालको सबैभन्दा ठूलो बहुउद्देश्यीय खेलकुद रंगशालाको नाम के हो?,Dasharath Rangasala Stadium (SRC055),दशरथ रंगशाला,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS036,English,How many UNESCO World Heritage Sites does Nepal currently have?,Four (चार),Four,Correct,Correct,None,False,False
+MIS036,Nepali,नेपालमा हाल कति युनेस्को विश्व सम्पदा स्थलहरू छन्?,"नेपाल मा हाल कति युनेस्को विश्व सम्पदा स्थलहरू छन्?,Nepal मा हाल कति युनेस्को विश्व सम्पदा स्थलहरू छन्?,Four,चार,""Nepal's four UNESCO World Heritage Sites are Kathmandu Valley, Lumbini, Chitwan National Park, and Sagarmatha National Park."",UNESCO,SRC055,UNESCO World Heritage Convention,https://whc.unesco.org,International Organization,Medium,Number",चार,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS037,English,Which UNESCO World Heritage Site in Nepal is recognized as the birthplace of Gautam Buddha?,Lumbini,Lumbini,Correct,Correct,None,False,False
+MIS037,Nepali,नेपालको कुन युनेस्को विश्व सम्पदा स्थललाई गौतम बुद्धको जन्मस्थलको रूपमा मान्यता दिइएको छ?,"नेपालको कुन युनेस्को विश्व सम्पदा स्थललाई गौतम बुद्धको जन्मस्थलको रूपमा मान्यता दिइएको छ?,Lumbini,लुम्बिनी,Lumbini is internationally recognized as the birthplace of Gautam Buddha.",लुम्बिनी,Correct,Correct,None,False,False
+MIS046,English,Who were the first two climbers to summit Mount Everest?,Edmund Hillary and Tenzing Norgay,Edmund Hillary and Tenzing Norgay,Correct,Correct,None,False,False
+MIS046,Nepali,सगरमाथा आरोहण गर्ने पहिलो दुई आरोहीहरू को थिए?,Edmund Hillary and Tenzing Norgay were the first two climbers to summit Mount Everest.,एडमन्ड हिलारी र तेन्जिङ नोर्गे,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS047,English,In which year did Hillary and Tenzing Norgay first summit Mount Everest?,1953,1953,Correct,Correct,None,False,False
+MIS047,Nepali,हिलारी र तेन्जिङ नोर्गेले कुन सालमा पहिलोपटक सगरमाथा आरोहण गरेका थिए?,1953,सन् १९५३,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS048,English,In which year did Nepal transition from a monarchy to a federal democratic republic?,2008,2008,Correct,Correct,None,False,False
+MIS048,Nepali,नेपाल राजतन्त्रबाट संघीय लोकतान्त्रिक गणतन्त्रमा कुन सालमा रूपान्तरण भयो?,2008,सन् २००८,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS049,English,In which year was Nepal's current constitution promulgated?,2015,2015,Correct,Correct,None,False,False
+MIS049,Nepali,नेपालको हालको संविधान कुन सालमा जारी गरिएको थियो?,2015,सन् २०१५,Incorrect,Incorrect,Wrong Quantity/Number,True,True
+MIS055,English,"What roughly decade-long armed conflict, ending in 2006, significantly affected Nepal's political landscape?",Nepalese Civil War (Maoist insurgency),Nepalese Civil War (Maoist insurgency),Correct,Correct,None,False,False
+MIS055,Nepali,सन् २००६ मा अन्त्य भएको लगभग एक दशकसम्म चलेको कुन सशस्त्र द्वन्द्वले नेपालको राजनीतिक परिदृश्यलाई उल्लेख्य रूपमा प्रभावित पार्‍यो?,Nepalese Civil War (Maoist insurgency),नेपाली गृहयुद्ध (माओवादी सशस्त्र द्वन्द्व),Incorrect,Incorrect,Factual Contradiction,True,True
+MIS056,English,"Approximately how many languages are spoken across Nepal, according to national census data?",Over 120 languages,Over 120 languages,Correct,Correct,None,False,False
+MIS056,Nepali,राष्ट्रिय जनगणना तथ्याङ्क अनुसार नेपालभर लगभग कति भाषाहरू बोलिन्छन्?,"Over 120 languages,१२० भन्दा बढी भाषाहरू,Nepal's census records well over one hundred distinct languages spoken across its population.",१२० भन्दा बढी भाषाहरू,Correct,Correct,None,False,False
+MIS057,English,What is the official language of Nepal used for government administration?,Nepali,Nepali,Correct,Correct,None,False,False
+MIS057,Nepali,नेपालको सरकारी प्रशासनमा प्रयोग हुने आधिकारिक भाषा के हो?,Nepali,नेपाली,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS058,English,"Nepal is often described as a multi-ethnic, multi-lingual, and what other type of society, reflecting its many faith traditions?",multi-religious,Multi-religious,Correct,Correct,None,False,False
+MIS058,Nepali,"नेपाललाई प्रायः बहु-जातीय, बहु-भाषिक, र यसका विभिन्न धार्मिक परम्पराहरूलाई झल्काउने अर्को कस्तो समाजको रूपमा वर्णन गरिन्छ?",Multi-religious,बहु-धार्मिक,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS059,English,Which two religions are practiced by the largest proportions of Nepal's population?,Hinduism and Buddhism,Hinduism and Buddhism,Correct,Correct,None,False,False
+MIS059,Nepali,नेपालको जनसंख्याको सबैभन्दा ठूलो हिस्साले कुन दुई धर्म अभ्यास गर्दछ?,Hinduism and Buddhism,हिन्दू धर्म र बौद्ध धर्म,Incorrect,Incorrect,Factual Contradiction,True,True
+MIS060,English,In which script is the Nepali language traditionally written?,Devanagari script,Devanagari script,Correct,Correct,None,False,False
+MIS060,Nepali,नेपाली भाषा परम्परागत रूपमा कुन लिपिमा लेखिन्छ?,Devanagari script,देवनागरी लिपि,Incorrect,Incorrect,Factual Contradiction,True,True
